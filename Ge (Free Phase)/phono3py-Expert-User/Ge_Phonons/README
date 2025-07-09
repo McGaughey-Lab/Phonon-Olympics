@@ -1,0 +1,3 @@
+Phonons are modelled on 6x6x6 supercell relative to primitive cell
+VASP input files (INCAR and KPOINTS ) are also shared
+Obatined 2nd order force constants are given in FORCE_SETS file 

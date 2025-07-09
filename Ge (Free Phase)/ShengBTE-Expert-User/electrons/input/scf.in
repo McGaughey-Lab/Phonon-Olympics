@@ -1,0 +1,41 @@
+ &control
+    calculation     = 'scf'
+    prefix          = 'Ge'
+    restart_mode    = 'from_scratch'
+    wf_collect      = .false.
+    pseudo_dir      = '~/zxy/project_allen/pp/'
+    outdir          = './'
+    tprnfor         = .true.
+    tstress         = .true.
+ /
+ &system
+    ibrav           = 2
+    celldm(1)       = 10.744592641346104
+    nat             = 2
+    ntyp            = 1
+    ecutwfc         = 80
+    ecutrho         = 400
+    occupations     = 'smearing'
+    smearing        = 'gaussian'
+    degauss         = 0.02
+    nbnd            = 10 
+ /
+ &electrons
+    diagonalization = 'david'
+    mixing_beta     = 0.7
+    conv_thr        = 1.0d-10
+ /
+&ions
+/
+&CELL
+    cell_dynamics   = 'damp-w',
+    press           = 0.00,
+    wmass           = 0.007,
+/
+ATOMIC_SPECIES
+  Ge 72.630     Ge.pbesol-n-kjpaw_psl.1.0.0.UPF
+ATOMIC_POSITIONS crystal 
+  Ge  0.00000  0.00000  0.000000
+  Ge  0.25000  0.25000  0.250000
+K_POINTS automatic
+16 16 16 0 0 0 

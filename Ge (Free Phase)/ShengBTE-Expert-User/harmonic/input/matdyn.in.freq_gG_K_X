@@ -1,0 +1,9 @@
+ &input
+    asr='simple', 
+    flfrc='Ge.fc', flfrq='Ge.freq', q_in_band_form=.true.,
+ /
+ 4
+  gG  50
+  K   1
+  U   50
+  X   1
