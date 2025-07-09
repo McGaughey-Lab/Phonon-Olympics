@@ -1,0 +1,24 @@
+Harmonic Phonons are modelled on 5x5x5 supercell relative to primitive cell.
+VASP input files for phonons (INCAR and KPOINTS ) are in Files_Phonons folder.
+2nd order force constants are given in force_constants_555.hdf5 files.
+
+
+Anharmonic phonons are modelled on 4x4x4 supercell relative to primitive cell.
+All possible intercations within the supercell are inclused.
+displacement amplitude is 0.03 Ang
+VASP input files for phonons (INCAR and KPOINTS ) are also given.
+Anharmonic IFCs are given in FORCES_FC3.
+
+To make 3rd order IFCs in hdf5 following steps are required.
+
+phono3py --dim="4 4 4" --sym-fc
+
+This creates symmetrized fc2.hdf5 and fc3.hdf5 files from FORCES_FC3 corresponding to 4x4x4 supercell.
+since we want to use harmonic IFCs from 5x5x5 supercell in kappa calculations, simply replace fc2.hdf5 by force_constants_555.hdf5.
+
+mv force_constants_555.hdf5 fc2.hdf5
+
+Run the thermal conductivity calculations
+
+phono3py --dim="4 4 4" --dim-fc2="5 5 5" --fc2 --nac --fc3 --ts="300" --mesh="41 41 41" --lbte --isotope
+

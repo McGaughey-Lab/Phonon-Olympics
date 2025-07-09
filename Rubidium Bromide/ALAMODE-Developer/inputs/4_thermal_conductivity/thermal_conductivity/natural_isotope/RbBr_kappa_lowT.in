@@ -1,0 +1,37 @@
+&general
+  PREFIX = RbBr222_lowT
+  MODE   = RTA
+  FCSXML = RbBr222.xml
+
+  NKD = 2
+  KD = Rb Br
+
+  NONANALYTIC = 3
+  BORNINFO = RbBr.born
+
+  TMIN = 10.0
+  TMAX = 50.0
+  DT = 10.0
+
+  TOLERANCE = 1.0e-3
+  EMIN = 0; EMAX = 150; DELTA_E = 0.2
+/
+
+&cell
+  1.88973 # convert Angstrom to Bohr
+  0.000000 3.511050 3.511050
+  3.511050 0.000000 3.511050
+  3.511050 3.511050 0.000000
+/
+
+&kpoint
+  2
+  30 30 30
+/
+
+&analysis
+  ISOTOPE = 2
+  ISOFACT = 0.000109653 0.000156286
+  KAPPA_SPEC = 1
+/
+

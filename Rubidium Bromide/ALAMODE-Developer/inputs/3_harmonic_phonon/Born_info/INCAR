@@ -1,0 +1,22 @@
+SYSTEM = RbBr_primitive
+EDIFF = 1.0e-8
+PREC = A
+
+ENCUT= 300
+ADDGRID = .TRUE.
+LREAL=.FALSE.
+ISMEAR = 0
+SIGMA = 0.05
+
+LEPSILON = .TRUE.
+
+NPAR = 16
+NCORE = 1
+
+
+LWAVE = .FALSE.
+LCHARG = .FALSE.
+
+ISIF = 0 # calculate force only
+
+GGA = PE # use PBE

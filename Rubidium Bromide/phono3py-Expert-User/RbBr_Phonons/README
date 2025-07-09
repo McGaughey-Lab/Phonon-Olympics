@@ -1,0 +1,7 @@
+Phonons are modelled on 5x5x5 supercell relative to primitive cell
+VASP input files (INCAR and KPOINTS ) are also shared
+Calculated 2nd order force constants are given in FORCE_SETS file
+BORN effective charges and dielectric constants are listed in "BORN"
+For calculations of phonon dispersion translation invarince has been imposed. These force constants are written into FORCE_CONSTANTS and  force_constants.hdf5 files.
+
+2nd order IFCs from force_constants_555.hdf5  file has been used for lattice thermal conductivity calculations.

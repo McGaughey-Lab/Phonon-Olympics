@@ -1,0 +1,7 @@
+&BANDS
+prefix = 'rbbr'
+outdir = '.'
+filband = 'seg1.dat'
+spin_component=1
+/
+

@@ -1,0 +1,13 @@
+&input
+asr='crystal', 
+flfrc='espresso.fc', flfrq='ge.freq', la2F=.false., dos=.false.
+q_in_band_form = .true.
+
+/
+6
+K  40
+gG 40
+X 40
+W 40
+gG 40
+L 40

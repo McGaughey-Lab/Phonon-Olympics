@@ -1,0 +1,43 @@
+ &control
+    calculation     = 'vc-relax'
+    prefix          = 'RbBr'
+    restart_mode    = 'from_scratch'
+    wf_collect      = .false.
+    pseudo_dir      = '~/zxy/pp/'
+    outdir          = './'
+    tprnfor         = .true.
+    tstress         = .true.
+    etot_conv_thr = 1.0E-8
+    forc_conv_thr = 1.0D-8
+/
+ &system
+    ibrav           = 2
+    celldm(1)       = 13.223
+    nat             = 2
+    ntyp            = 2
+    ecutwfc         = 80
+    ecutrho         = 400
+    occupations     = 'fixed'
+    !nbnd            = 20 
+ /
+ &electrons
+    diagonalization = 'david'
+    mixing_beta     = 0.7
+    conv_thr        = 1.0d-8
+ /
+&ions
+/
+&CELL
+    cell_dynamics   = 'damp-w',
+    press           = 0.00,
+    wmass           = 0.007,
+/
+ATOMIC_SPECIES
+  Rb 85.468     Rb.pbe-spn-kjpaw_psl.1.0.0.UPF 
+  Br 79.903     Br.pbe-n-kjpaw_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS crystal 
+  Rb  0.00000  0.00000  0.000000
+  Br  0.50000  0.50000  0.500000
+K_POINTS automatic
+12 12 12 0 0 0 

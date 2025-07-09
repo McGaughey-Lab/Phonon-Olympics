@@ -1,0 +1,3 @@
+&input
+zasr='crystal', fildyn='rbbr.dyn', flfrc='espresso.fc', la2F=.false.
+/

@@ -1,0 +1,25 @@
+&general
+  PREFIX = RbBr_seg2
+  MODE   = phonons
+  FCSXML = RbBr222.xml
+
+  NKD = 2
+  KD = Rb Br
+
+  NONANALYTIC = 3
+  BORNINFO = RbBr.born
+/
+
+&cell
+  1.88973 # convert Angstrom to Bohr
+  0.000000 3.511050 3.511050
+  3.511050 0.000000 3.511050
+  3.511050 3.511050 0.000000
+/
+
+&kpoint
+  1  # KPMODE = 1: line mode
+  G 0.0 0.0 0.0 K 0.375 0.375 0.75 76
+  K 0.375 0.375 0.75 X 0.5 0.5 1.0 26  
+/
+

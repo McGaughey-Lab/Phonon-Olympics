@@ -1,0 +1,24 @@
+SYSTEM = RbBr_primitive
+EDIFF = 1.0e-8
+PREC = A
+
+ICHARG = 11
+
+ENCUT= 600
+ADDGRID = .TRUE.
+LREAL=.FALSE.
+ISMEAR = 0
+SIGMA = 0.05
+
+NPAR = 16
+NCORE = 1
+
+LWAVE = .FALSE.
+LCHARG = .FALSE.
+
+ISIF = 0
+# NSW = 100
+# IBRION = 2
+
+GGA = PE
+

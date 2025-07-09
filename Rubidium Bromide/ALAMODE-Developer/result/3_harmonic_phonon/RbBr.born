@@ -1,0 +1,13 @@
+# The comment lines should be deleted to use as BORNINFO input for ALAMODE.
+# dielectric tensor epsilon^infty
+2.456518 0.000000 -0.000000
+-0.000000 2.456518 -0.000000
+-0.000000 -0.000000 2.456518
+# Born effective charge of Rb
+1.16516 0.00000 0.00000
+0.00000 1.16516 0.00000
+0.00000 0.00000 1.16516
+# Born effective charge of Br
+-1.16516 0.00000 0.00000
+0.00000 -1.16516 0.00000
+0.00000 0.00000 -1.16516

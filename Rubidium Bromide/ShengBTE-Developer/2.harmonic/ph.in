@@ -1,0 +1,12 @@
+phonon
+&INPUTPH
+tr2_ph=1.0d-22,
+prefix='rbbr',
+fildvscf='dvscf',
+outdir='.',
+fildyn='rbbr.dyn',
+search_sym=.true.
+trans=.true.,
+ldisp=.true.
+nq1=6, nq2=6, nq3=6
+/

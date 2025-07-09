@@ -1,0 +1,33 @@
+ &control
+    calculation     = 'scf'
+    prefix          = 'RbBr'
+    restart_mode    = 'from_scratch'
+    wf_collect      = .false.
+    pseudo_dir      = '~/zxy/pp/'
+    outdir          = './'
+    tprnfor         = .true.
+    tstress         = .true.
+ /
+ &system
+    ibrav           = 0
+    nat             = ##NATOMS##
+    ntyp            = 2
+    ecutwfc         = 80
+    ecutrho         = 400
+    occupations     = 'fixed'
+ 
+ /
+ &electrons
+    diagonalization = 'david'
+    mixing_beta     = 0.7
+    conv_thr        = 1.0d-12
+   
+ /
+ATOMIC_SPECIES
+  Rb 85.468     Rb.pbe-spn-kjpaw_psl.1.0.0.UPF 
+  Br 79.903     Br.pbe-n-kjpaw_psl.1.0.0.UPF
+
+##COORDINATES##
+K_POINTS automatic
+2 2 2 0 0 0  
+##CELL##

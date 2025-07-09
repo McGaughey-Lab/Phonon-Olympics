@@ -1,0 +1,6 @@
+ &bands
+    prefix  = 'RbBr'
+    outdir='./'
+    filband = 'bands.dat'
+ /
+
