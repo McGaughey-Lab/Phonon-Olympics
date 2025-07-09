@@ -1,0 +1,17 @@
+mv: cannot move 'BTE.out' to 'ht/BTE.out': Device or resource busy
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1000gb,walltime=72:00:00,ncpus=64
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cput=60:09:05,mem=117630904kb,walltime=07:36:18,ncpus=64,cpupercent=787,vmem=145718664kb
+ 
+ 

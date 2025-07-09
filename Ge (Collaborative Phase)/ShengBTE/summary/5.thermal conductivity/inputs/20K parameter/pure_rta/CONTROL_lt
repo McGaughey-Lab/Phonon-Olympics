@@ -1,0 +1,28 @@
+&allocations
+        nelements=1,
+        natoms=2,
+        ngrid(:)=34 34 34
+&end
+&crystal
+        lfactor=0.56868522565599581853
+        lattvec(:,1)=-0.500000   0.000000   0.500000
+        lattvec(:,2)=0.000000   0.500000   0.500000
+        lattvec(:,3)=-0.500000   0.500000   0.000000
+        elements="Ge" 
+        types=1 1
+        positions(:,1)=0.00 0.00 0.00
+        positions(:,2)=0.25 0.25 0.25
+        masses(:) = 69.924
+        scell(:)=6 6 6
+&end
+&parameters
+        T_min=20, T_max=50,T_step=10
+        scalebroad=0.9
+&end
+&flags
+        autoisotopes = .false.
+	convergence = .false.
+        espresso=.true.
+        nonanalytic=.false.
+        isotopes=.false.
+&end

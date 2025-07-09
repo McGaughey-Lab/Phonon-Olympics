@@ -1,0 +1,3 @@
+&input
+zasr='simple', fildyn='ge.dyn', flfrc='espresso.fc', la2F=.false.
+/

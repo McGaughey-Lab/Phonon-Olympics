@@ -1,0 +1,11 @@
+Harmonic Phonons are modelled on 6x6x6 supercell relative to primitive cell.
+VASP input files for phonons (INCAR and KPOINTS ) are in Files_Phonons folder.
+Obatined 2nd order force constants are given in FORCE_FC2 format.
+
+
+Anharmonic phonons are modelled on 4x4x4 supercell relative to primitive cell.
+All possible intercations within the supercell are inclused.
+displacement amplitude is 0.03 Ang
+VASP input files for phonons (INCAR and KPOINTS ) are also given.
+Anharmonic IFCs are given in FORCES_FC3.
+

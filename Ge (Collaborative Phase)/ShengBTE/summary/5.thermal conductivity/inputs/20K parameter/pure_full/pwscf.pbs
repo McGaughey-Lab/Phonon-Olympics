@@ -1,0 +1,29 @@
+#!/bin/bash
+#PBS -N pwscf
+#PBS -l select=8:ncpus=8:mpiprocs=8:mem=125gb:interconnect=fdr,walltime=72:00:00
+#PBS -j oe 
+module load  gcc/9.5.0
+module load  intel-oneapi-compilers/2022.1.0-gcc/9.5.0
+module load  intel-oneapi-mpi/2021.6.0-oneapi/2022.1.0
+module load  intel-oneapi-mkl/2022.1.0-oneapi/2022.1.0
+
+export PATH=/home/fanchem/SOFTWARE_INTEL/ShengBTE/ShengBTE_1.2.0.velocity:$PATH
+NP=`cat $PBS_NODEFILE | wc -l`
+cd $PBS_O_WORKDIR
+
+cp CONTROL_lt CONTROL
+mpirun -np $NP ShengBTE >BTE.out 
+mkdir lt
+mv BTE* lt
+
+cp CONTROL_mt CONTROL
+mpirun -np $NP ShengBTE >BTE.out
+mkdir mt
+mv BTE* mt
+
+cp CONTROL_ht CONTROL
+mpirun -np $NP ShengBTE >BTE.out
+mkdir ht
+mv BTE* ht
+
+
