@@ -1,0 +1,48 @@
+ &control
+    calculation     = 'vc-relax'
+    prefix          = 'AlN'
+    restart_mode    = 'from_scratch'
+    wf_collect      = .false.
+    pseudo_dir      = '~/zxy/pp/'
+    outdir          = './'
+    tprnfor         = .true.
+    tstress         = .true.
+    etot_conv_thr   = 1.0E-8
+    forc_conv_thr   = 1.0D-8
+    nstep           = 500
+/
+ &system
+    ibrav           = 4
+    celldm(1)       = 5.9122
+    celldm(3)       =  1.603584356744381 
+    nat             = 4
+    ntyp            = 2
+    ecutwfc         = 120
+    ecutrho         = 500
+    occupations     = 'fixed'
+    !nbnd            = 20 
+ /
+ &electrons
+    diagonalization = 'david'
+    mixing_beta     = 0.7
+    conv_thr        = 1.0d-12
+ /
+&ions
+/
+&CELL
+    cell_dynamics   = 'damp-w',
+    press           = 0.00,
+    wmass           = 0.007,
+/
+ATOMIC_SPECIES
+  Al   26.98100  Al.pbesol-n-kjpaw_psl.1.0.0.UPF
+   N   14.00650   N.pbesol-n-kjpaw_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS crystal 
+Al   0.333333333333333   0.666666666666667   1.000000000 
+Al   0.666666666666667   0.333333333333333   0.5000000000 
+ N   0.333333333333333   0.666666666666667   0.380713000000000 
+ N   0.666666666666667   0.333333333333333   0.880713000000000 
+
+K_POINTS automatic
+12 12 12 0 0 0 

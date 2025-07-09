@@ -1,0 +1,17 @@
+ PREC = Accurate
+ ENCUT = 550
+ EDIFF = 1.0e-8
+ ISMEAR = 0
+ SIGMA = 0.05
+ ALGO= Normal
+ LREAL = .FALSE.
+ ADDGRID = .TRUE.
+ NELM=200
+
+ KPAR = 12
+
+ GGA = PS
+ LAPSH = .True.
+
+ ICHARG = 11
+ NBANDS = 20

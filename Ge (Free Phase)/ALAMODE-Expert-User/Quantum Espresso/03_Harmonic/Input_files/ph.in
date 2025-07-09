@@ -1,0 +1,12 @@
+Phonons of Ge
+ &inputph
+  tr2_ph=1.0d-14,
+  prefix='Ge',
+  fildvscf = 'dvscf'
+  epsil=.true.,
+  asr = .true., 
+  ldisp=.true.,
+  nq1=6, nq2=6, nq3=6
+  outdir='./temp',
+  fildyn='Ge.dyn',
+ /

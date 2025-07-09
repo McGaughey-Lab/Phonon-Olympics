@@ -1,0 +1,8 @@
+Generate the 3rd order displacements within phono3py by:
+
+phono3py -d --dim="3 3 2"
+
+Run DFT calculations on all configurations. Generate FORCES_FC3 by
+
+phono3py --cf3 disp-{00001..01254}/vasprun.xml
+

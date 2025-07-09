@@ -1,0 +1,6 @@
+ &input
+    asr='simple',
+    flfrc='AlN.fc', flfrq='AlN.freq', q_in_band_form=.true.,
+dos = .true.
+fldos='phonon.dos', nk1=40, nk2=40, nk3=40,deltaE=5.0034 
+/

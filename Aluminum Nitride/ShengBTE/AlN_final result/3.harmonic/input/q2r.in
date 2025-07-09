@@ -1,0 +1,5 @@
+ &input
+   fildyn  =  'AlN.dyn'
+   zasr    =  'crystal', 
+   flfrc   =  'AlN.fc'
+ /

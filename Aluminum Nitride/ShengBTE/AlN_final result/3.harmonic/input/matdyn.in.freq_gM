@@ -1,0 +1,7 @@
+ &input
+    asr='simple', 
+    flfrc='AlN.fc', flfrq='AlN.freq', q_in_band_form=.true.,
+ /
+ 2
+  gG   100
+  M    100

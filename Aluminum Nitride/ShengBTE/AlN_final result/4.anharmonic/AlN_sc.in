@@ -1,0 +1,30 @@
+ &control
+    calculation     = 'scf'
+    prefix          = 'AlN'
+    restart_mode    = 'from_scratch'
+    wf_collect      = .false.
+    pseudo_dir      = '~/zxy/pp/'
+    outdir          = './tmp'
+    tprnfor         = .true.
+    tstress         = .true.
+/
+ &system
+    ibrav           = 0
+    nat             = ##NATOMS##
+    ntyp            = 2
+    ecutwfc         = 120
+    ecutrho         = 600
+    occupations     = 'fixed'
+ /
+ &electrons
+    diagonalization = 'david'
+    mixing_beta     = 0.7
+    conv_thr        = 1.0d-12
+ /
+ATOMIC_SPECIES
+  Al   26.98100  Al.pbesol-n-kjpaw_psl.1.0.0.UPF
+   N   14.00650   N.pbesol-n-kjpaw_psl.1.0.0.UPF
+##COORDINATES##
+K_POINTS automatic
+1 1 1 0 0 0 
+##CELL##

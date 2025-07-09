@@ -1,0 +1,49 @@
+
+ &control
+    calculation     = 'scf'
+    prefix          = 'Ge'
+    restart_mode    = 'from_scratch'
+    wf_collect      = .true.
+    pseudo_dir      = '/home/k0489/k048900/pp/'
+    outdir          = './temp'
+    tprnfor         = .true.
+    tstress         = .true.
+    nstep           = 55,
+    iprint          = 1,
+    dt              = 150,
+    etot_conv_thr   = 1e-08,
+    forc_conv_thr   = 1e-07,
+ /
+ &system
+    ibrav           = 2
+    !celldm(1)       = 10.7456438563
+    celldm(1)       = 10.745
+    nat             = 2
+    ntyp            = 1
+    ecutwfc         = 40
+    occupations     = 'fixed'      !! 'fixed', 'smearing'
+    smearing        = 'gaussian'
+    degauss         = 0.05
+    nbnd            = 10
+    !noncolin        =.true.
+    !lspinorb        =.true.
+ /
+ &electrons
+    diagonalization = 'david'
+    mixing_beta     = 0.7
+    conv_thr        = 1e-12
+ /
+ &ions
+ /
+&CELL
+    cell_dynamics   = 'bfgs',
+    press           = 0.00,
+    wmass           = 0.007,
+/
+ATOMIC_SPECIES
+  Ge  72.64 Ge.pbesol-n-kjpaw_psl.1.0.0.UPF
+ATOMIC_POSITIONS crystal
+  Ge   0.00  0.00  0.00
+  Ge   0.25  0.25  0.25
+K_POINTS automatic
+20 20 20 1 1 1

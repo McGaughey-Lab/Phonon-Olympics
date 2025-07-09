@@ -1,0 +1,50 @@
+ &control
+    calculation     = 'bands'
+    prefix          = 'AlN'
+    restart_mode    = 'from_scratch'
+    wf_collect      = .false.
+    pseudo_dir      = '~/zxy/pp/'
+    outdir          = './'
+    tprnfor         = .true.
+    tstress         = .true.
+    etot_conv_thr = 1.0E-8
+    forc_conv_thr = 1.0D-6
+    nstep           = 500
+/
+ &system
+    ibrav           = 4
+    celldm(1)       = 5.888098425987400
+    celldm(3)       = 1.600661326753400 
+    nat             = 4
+    ntyp            = 2
+    ecutwfc         = 120
+    ecutrho         = 500
+    occupations     = 'fixed'
+    nbnd            = 14 
+ /
+ &electrons
+    diagonalization = 'david'
+    mixing_beta     = 0.7
+    conv_thr        = 1.0d-12
+ /
+&ions
+/
+&CELL
+    cell_dynamics   = 'damp-w',
+    press           = 0.00,
+    wmass           = 0.007,
+/
+ATOMIC_SPECIES
+  Al   26.98100  Al.pbesol-n-kjpaw_psl.1.0.0.UPF
+   N   14.00650   N.pbesol-n-kjpaw_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS crystal 
+Al            0.3333333333        0.6666666667        0.9995896991
+Al            0.6666666667        0.3333333333        0.4995896991
+N             0.3333333333        0.6666666667        0.3815261244
+N             0.6666666667        0.3333333333        0.8815261244
+
+K_POINTS tpiba_b
+2
+gG  100 
+M   100

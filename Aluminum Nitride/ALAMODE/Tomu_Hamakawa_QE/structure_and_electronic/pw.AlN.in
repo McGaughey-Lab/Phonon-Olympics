@@ -1,0 +1,47 @@
+&CONTROL
+   calculation      = 'scf'
+   tstress          = .true.
+   tprnfor          = .true.
+   outdir           = 'AlN'
+   prefix           = 'AlN_str_wfc_90_rho_720_k_10_thr_1e-11_s_0'
+   pseudo_dir       = './'
+   nstep            = 300
+/
+&SYSTEM
+   ecutwfc          = 90
+   ecutrho          = 720
+   occupations      = 'fixed'
+   ntyp             = 2
+   nat              = 4
+   ibrav            = 0
+/
+
+&ELECTRONS
+   electron_maxstep = 300
+   conv_thr         = 1e-11
+/
+
+&IONS
+/
+
+&CELL
+/
+
+ATOMIC_SPECIES
+Al 26.98153863 Al.pbesol-n-kjpaw_psl.1.0.0.UPF
+N 14.0030740048 N.pbesol-n-kjpaw_psl.1.0.0.UPF
+
+K_POINTS automatic
+10 10 6 0 0 0
+
+CELL_PARAMETERS angstrom
+3.11591200000000 0.00000000000000 0.00000000000000
+-1.55795600000000 2.69845894795678 0.00000000000000
+0.00000000000000 0.00000000000000 4.98753000000000
+
+ATOMIC_POSITIONS angstrom
+Al -0.0000000000 1.7989726320 0.0000000000 
+Al 1.5579560000 0.8994863160 2.4937650000 
+N -0.0000000000 1.7989726320 1.9049172581 
+N 1.5579560000 0.8994863160 4.3986822581
+

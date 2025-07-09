@@ -1,0 +1,27 @@
+&general
+  PREFIX = Ge333
+  MODE   = RTA #phonons
+  FCSXML = Ge333_cubic.xml
+
+  NKD = 1; KD = Ge
+  MASS = 72.64
+  RESTART = 0
+  TMIN = 0; TMAX = 1000; DT = 5
+/
+
+&cell
+  10.745
+  0.0 0.5 0.5
+  0.5 0.0 0.5
+  0.5 0.5 0.0
+/
+ 
+&analysis
+ ISOTOPE = 2
+ /
+
+
+&kpoint
+  2
+  24 24 24
+/

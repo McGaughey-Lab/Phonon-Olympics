@@ -1,0 +1,6 @@
+ &bands
+    prefix  = 'AlN'
+    outdir='./'
+    filband = 'bands.dat'
+ /
+

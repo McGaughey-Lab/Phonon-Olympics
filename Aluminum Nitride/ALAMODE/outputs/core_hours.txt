@@ -1,0 +1,7 @@
+# Summary of CPU time in units of core*hours
+#         Job, time for conv. check, time for production run
+      Structure       10.7        0.0
+      Electrons       12.9        1.3
+       Harmonic      483.2      233.7
+     Anharmonic    13324.2    12096.1
+  Thermal cond.   202468.5     4069.8

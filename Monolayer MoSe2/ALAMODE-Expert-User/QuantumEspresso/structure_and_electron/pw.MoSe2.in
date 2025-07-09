@@ -1,0 +1,42 @@
+&CONTROL
+   calculation      = 'scf'
+   tstress          = .true.
+   tprnfor          = .true.
+   outdir           = 'MoSe2_ecutwfc_90_ecutrho_480_k_20'
+   prefix           = 'MoSe2_ecutwfc_90_ecutrho_480_k_20' 
+   pseudo_dir       = '/home/tomuhama/mose2_mono/structure/'
+/
+&SYSTEM
+   ecutwfc          = 90
+   ecutrho          = 480
+   occupations      = 'fixed'
+   ntyp             = 2
+   nat              = 3
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 300
+   conv_thr         = 1e-16
+/
+&IONS
+/
+&CELL
+/
+
+ATOMIC_SPECIES
+Mo 95.94873241 Mo.pbesol-spn-kjpaw_psl.1.0.0.UPF
+Se 78.9595608 Se.pbesol-dn-kjpaw_psl.1.0.0.UPF
+
+K_POINTS automatic
+6 6 1 0 0 0
+
+CELL_PARAMETERS angstrom
+3.27000000000000 0.00000000000000 0.00000000000000
+-1.63500000000000 2.83190307037511 0.00000000000000
+0.00000000000000 0.00000000000000 14.00000000000000
+
+ATOMIC_POSITIONS angstrom
+Mo 0.0000000000 0.0000000000 7.0000000000 
+Se 0.0000000000 1.8879353803 8.6600000000 
+Se 0.0000000000 1.8879353803 5.3400000000 
+

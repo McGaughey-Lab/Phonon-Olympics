@@ -1,0 +1,24 @@
+ PREC = Accurate
+ ENCUT = 550
+ EDIFF = 1.0e-8
+ EDIFFG = -5.0e-3
+ ISMEAR = 0
+ SIGMA = 0.05
+ ALGO= Normal
+ LREAL = .FALSE.
+ ADDGRID = .TRUE.
+ LWAVE = .FALSE.
+ LCHARG = .FALSE.
+ ICHARG= 2
+ ISTART=0
+ NELM=200
+
+ NPAR = 12
+ KPAR = 4
+ ISIF = 3
+ IBRION = 2
+ NSW = 100
+ POTIM = 0.1
+
+ GGA = PS
+ LAPSH = .True.
