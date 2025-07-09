@@ -1,0 +1,33 @@
+#!/bin/sh
+#SBATCH -J test
+#SBATCH -p F1cpu
+#SBATCH -N 1
+#SBATCH -n 128
+#SBATCH -c 1
+#SBATCH -t 24:00:00
+#SBATCH --exclusive
+
+ulimit -s unlimited
+
+for i in 0.982681 0.982682 0.982683 0.982684 0.982686 0.982687 0.982688 0.982689; do
+dir=$i
+mkdir $dir
+cp POSCAR INCAR POTCAR KPOINTS $dir
+cd $dir
+sed -i "2c \\$i $i 1.000" POSCAR
+sed -i "6c \ENCUT   =  316          (Cut-off energy for plane wave basis set, in eV)" INCAR
+sed -i "26c \SIGMA  =  0.03         (Smearing value in eV; metals:0.2)" INCAR
+sed -i "29c \EDIFF  =  1E-09        (SCF energy convergence; in eV)" INCAR
+sed -i "36c \EDIFFG = -1E-08        (Ionic convergence; eV/AA)" INCAR
+sed -i "4c \   15   15   1" KPOINTS
+srun /home/k0247/k024735/software/vasp.6.3.0/bin/vasp_std > vasp.out 2> vasp.err
+cd ..
+
+LC=`awk 'NR==3{printf "%.16f", $1}' POSCAR`
+A=`echo $LC $i |awk '{printf "%.6f", $1*$2}'`
+d=`awk 'NR==10{printf "%.16f", $3}' $dir/CONTCAR`
+D=`echo 40 $d |awk '{printf "%.6f", $1*$2}'`
+E=`grep "TOTEN" $dir/OUTCAR | tail -1 | awk '{printf "%.8f \n", $5 }'`
+echo $A $D $E $i >> summary.dat
+done
+

@@ -1,0 +1,44 @@
+&CONTROL
+  calculation='vc-relax'
+  prefix='MoSe2',
+  restart_mode    = 'from_scratch'
+  pseudo_dir='../pp/', 
+  outdir='./',
+  tprnfor=.true.
+  tstress=.true. 
+  etot_conv_thr = 1.0E-8
+  forc_conv_thr = 1.0D-8
+/
+&SYSTEM
+  ibrav       = 4
+  celldm(1)   = 6.173930208287485
+  celldm(3)   = 4.375236633616009
+  nat         = 3
+  ntyp        = 2
+  ecutwfc     = 110
+  ecutrho     = 800
+  occupations = 'fixed'
+/
+&ELECTRONS
+  diagonalization = 'david'
+  mixing_beta     = 0.7
+  conv_thr        = 1.0d-12
+/
+&IONS
+    ion_dynamics    = 'bfgs'
+/
+&CELL
+    cell_dynamics   = 'bfgs',
+    press           = 0.00,
+    wmass           = 0.007,
+    cell_dofree     = 'shape'
+/
+ATOMIC_SPECIES
+  Mo 95.95  Mo.pbesol-spn-kjpaw_psl.1.0.0.UPF
+  Se 78.971 Se.pbesol-dn-kjpaw_psl.1.0.0.UPF
+ATOMIC_POSITIONS  crystal
+Se            0.6666666667        0.3333333333        0.3839214982
+Mo            0.3333333333        0.6666666667        0.5000000000
+Se            0.6666666667        0.3333333333        0.6160785018
+K_POINTS  automatic
+  12 12 1 0 0 0

@@ -1,0 +1,28 @@
+  &control
+    calculation     = 'scf'
+    prefix          = 'MoSe2'
+    restart_mode    = 'from_scratch'
+    pseudo_dir      = '../../pp/'
+    outdir          = './'
+    tprnfor         = .true.
+    tstress         = .true.
+/
+ &system
+    ibrav           = 0
+    nat             = ##NATOMS##
+    ntyp            = 2
+    ecutwfc         = 80
+    ecutrho         = 800
+    occupations     = 'fixed'
+ /
+ &electrons
+    diagonalization = 'david'
+    mixing_beta     = 0.7
+    conv_thr        = 1.0d-12
+ /
+ATOMIC_SPECIES
+  Mo 95.95  Mo.pbesol-spn-kjpaw_psl.1.0.0.UPF
+  Se 78.971 Se.pbesol-dn-kjpaw_psl.1.0.0.UPF
+##COORDINATES##
+K_POINTS gamma
+##CELL##

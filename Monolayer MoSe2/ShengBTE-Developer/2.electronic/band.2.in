@@ -1,0 +1,7 @@
+&BANDS
+prefix = 'mose2'
+outdir = '.'
+filband = 'seg2.dat'
+spin_component=1
+/
+

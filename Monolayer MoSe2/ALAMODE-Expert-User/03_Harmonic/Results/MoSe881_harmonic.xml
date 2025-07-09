@@ -1,0 +1,2496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <ALM_version>1.4.1</ALM_version>
+  <Optimize>
+    <DFSET>DFSET_harmonic</DFSET>
+    <Constraint>1</Constraint>
+  </Optimize>
+  <Structure>
+    <NumberOfAtoms>192</NumberOfAtoms>
+    <NumberOfElements>2</NumberOfElements>
+    <AtomicElements>
+      <element number="1">Mo</element>
+      <element number="2">Se</element>
+    </AtomicElements>
+    <LatticeVector>
+      <a1> 4.942528634202719e+01 0.000000000000000e+00 0.000000000000000e+00</a1>
+      <a2> -2.471264317101360e+01 4.280355356151560e+01 0.000000000000000e+00</a2>
+      <a3> 0.000000000000000e+00 0.000000000000000e+00 7.558904501831313e+01</a3>
+    </LatticeVector>
+    <Periodicity>1 1 1</Periodicity>
+    <Position>
+      <pos index="1" element="Mo"> 0.000000000000000e+00 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="2" element="Mo"> 0.000000000000000e+00 1.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="3" element="Mo"> 0.000000000000000e+00 2.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="4" element="Mo"> 0.000000000000000e+00 3.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="5" element="Mo"> 0.000000000000000e+00 5.000000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="6" element="Mo"> 0.000000000000000e+00 6.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="7" element="Mo"> 0.000000000000000e+00 7.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="8" element="Mo"> 0.000000000000000e+00 8.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="9" element="Mo"> 1.250000000000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="10" element="Mo"> 1.250000000000000e-01 1.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="11" element="Mo"> 1.250000000000000e-01 2.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="12" element="Mo"> 1.250000000000000e-01 3.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="13" element="Mo"> 1.250000000000000e-01 5.000000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="14" element="Mo"> 1.250000000000000e-01 6.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="15" element="Mo"> 1.250000000000000e-01 7.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="16" element="Mo"> 1.250000000000000e-01 8.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="17" element="Mo"> 2.500000000000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="18" element="Mo"> 2.500000000000000e-01 1.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="19" element="Mo"> 2.500000000000000e-01 2.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="20" element="Mo"> 2.500000000000000e-01 3.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="21" element="Mo"> 2.500000000000000e-01 5.000000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="22" element="Mo"> 2.500000000000000e-01 6.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="23" element="Mo"> 2.500000000000000e-01 7.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="24" element="Mo"> 2.500000000000000e-01 8.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="25" element="Mo"> 3.750000000000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="26" element="Mo"> 3.750000000000000e-01 1.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="27" element="Mo"> 3.750000000000000e-01 2.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="28" element="Mo"> 3.750000000000000e-01 3.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="29" element="Mo"> 3.750000000000000e-01 5.000000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="30" element="Mo"> 3.750000000000000e-01 6.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="31" element="Mo"> 3.750000000000000e-01 7.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="32" element="Mo"> 3.750000000000000e-01 8.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="33" element="Mo"> 5.000000000000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="34" element="Mo"> 5.000000000000000e-01 1.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="35" element="Mo"> 5.000000000000000e-01 2.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="36" element="Mo"> 5.000000000000000e-01 3.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="37" element="Mo"> 5.000000000000000e-01 5.000000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="38" element="Mo"> 5.000000000000000e-01 6.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="39" element="Mo"> 5.000000000000000e-01 7.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="40" element="Mo"> 5.000000000000000e-01 8.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="41" element="Mo"> 6.250000000000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="42" element="Mo"> 6.250000000000000e-01 1.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="43" element="Mo"> 6.250000000000000e-01 2.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="44" element="Mo"> 6.250000000000000e-01 3.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="45" element="Mo"> 6.250000000000000e-01 5.000000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="46" element="Mo"> 6.250000000000000e-01 6.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="47" element="Mo"> 6.250000000000000e-01 7.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="48" element="Mo"> 6.250000000000000e-01 8.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="49" element="Mo"> 7.500000000000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="50" element="Mo"> 7.500000000000000e-01 1.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="51" element="Mo"> 7.500000000000000e-01 2.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="52" element="Mo"> 7.500000000000000e-01 3.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="53" element="Mo"> 7.500000000000000e-01 5.000000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="54" element="Mo"> 7.500000000000000e-01 6.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="55" element="Mo"> 7.500000000000000e-01 7.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="56" element="Mo"> 7.500000000000000e-01 8.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="57" element="Mo"> 8.750000000000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="58" element="Mo"> 8.750000000000000e-01 1.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="59" element="Mo"> 8.750000000000000e-01 2.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="60" element="Mo"> 8.750000000000000e-01 3.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="61" element="Mo"> 8.750000000000000e-01 5.000000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="62" element="Mo"> 8.750000000000000e-01 6.250000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="63" element="Mo"> 8.750000000000000e-01 7.500000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="64" element="Mo"> 8.750000000000000e-01 8.750000000000000e-01 0.000000000000000e+00</pos>
+      <pos index="65" element="Se"> 4.166666666666700e-02 8.333333333333300e-02 4.163912377292140e-02</pos>
+      <pos index="66" element="Se"> 4.166666666666700e-02 2.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="67" element="Se"> 4.166666666666700e-02 3.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="68" element="Se"> 4.166666666666700e-02 4.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="69" element="Se"> 4.166666666666700e-02 5.833333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="70" element="Se"> 4.166666666666700e-02 7.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="71" element="Se"> 4.166666666666700e-02 8.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="72" element="Se"> 4.166666666666700e-02 9.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="73" element="Se"> 1.666666666666670e-01 8.333333333333300e-02 4.163912377292140e-02</pos>
+      <pos index="74" element="Se"> 1.666666666666670e-01 2.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="75" element="Se"> 1.666666666666670e-01 3.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="76" element="Se"> 1.666666666666670e-01 4.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="77" element="Se"> 1.666666666666670e-01 5.833333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="78" element="Se"> 1.666666666666670e-01 7.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="79" element="Se"> 1.666666666666670e-01 8.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="80" element="Se"> 1.666666666666670e-01 9.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="81" element="Se"> 2.916666666666670e-01 8.333333333333300e-02 4.163912377292140e-02</pos>
+      <pos index="82" element="Se"> 2.916666666666670e-01 2.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="83" element="Se"> 2.916666666666670e-01 3.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="84" element="Se"> 2.916666666666670e-01 4.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="85" element="Se"> 2.916666666666670e-01 5.833333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="86" element="Se"> 2.916666666666670e-01 7.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="87" element="Se"> 2.916666666666670e-01 8.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="88" element="Se"> 2.916666666666670e-01 9.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="89" element="Se"> 4.166666666666670e-01 8.333333333333300e-02 4.163912377292140e-02</pos>
+      <pos index="90" element="Se"> 4.166666666666670e-01 2.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="91" element="Se"> 4.166666666666670e-01 3.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="92" element="Se"> 4.166666666666670e-01 4.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="93" element="Se"> 4.166666666666670e-01 5.833333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="94" element="Se"> 4.166666666666670e-01 7.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="95" element="Se"> 4.166666666666670e-01 8.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="96" element="Se"> 4.166666666666670e-01 9.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="97" element="Se"> 5.416666666666670e-01 8.333333333333300e-02 4.163912377292140e-02</pos>
+      <pos index="98" element="Se"> 5.416666666666670e-01 2.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="99" element="Se"> 5.416666666666670e-01 3.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="100" element="Se"> 5.416666666666670e-01 4.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="101" element="Se"> 5.416666666666670e-01 5.833333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="102" element="Se"> 5.416666666666670e-01 7.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="103" element="Se"> 5.416666666666670e-01 8.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="104" element="Se"> 5.416666666666670e-01 9.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="105" element="Se"> 6.666666666666670e-01 8.333333333333300e-02 4.163912377292140e-02</pos>
+      <pos index="106" element="Se"> 6.666666666666670e-01 2.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="107" element="Se"> 6.666666666666670e-01 3.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="108" element="Se"> 6.666666666666670e-01 4.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="109" element="Se"> 6.666666666666670e-01 5.833333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="110" element="Se"> 6.666666666666670e-01 7.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="111" element="Se"> 6.666666666666670e-01 8.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="112" element="Se"> 6.666666666666670e-01 9.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="113" element="Se"> 7.916666666666670e-01 8.333333333333300e-02 4.163912377292140e-02</pos>
+      <pos index="114" element="Se"> 7.916666666666670e-01 2.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="115" element="Se"> 7.916666666666670e-01 3.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="116" element="Se"> 7.916666666666670e-01 4.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="117" element="Se"> 7.916666666666670e-01 5.833333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="118" element="Se"> 7.916666666666670e-01 7.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="119" element="Se"> 7.916666666666670e-01 8.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="120" element="Se"> 7.916666666666670e-01 9.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="121" element="Se"> 9.166666666666670e-01 8.333333333333300e-02 4.163912377292140e-02</pos>
+      <pos index="122" element="Se"> 9.166666666666670e-01 2.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="123" element="Se"> 9.166666666666670e-01 3.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="124" element="Se"> 9.166666666666670e-01 4.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="125" element="Se"> 9.166666666666670e-01 5.833333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="126" element="Se"> 9.166666666666670e-01 7.083333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="127" element="Se"> 9.166666666666670e-01 8.333333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="128" element="Se"> 9.166666666666670e-01 9.583333333333330e-01 4.163912377292140e-02</pos>
+      <pos index="129" element="Se"> 4.166666666666700e-02 8.333333333333300e-02 9.583608762270787e-01</pos>
+      <pos index="130" element="Se"> 4.166666666666700e-02 2.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="131" element="Se"> 4.166666666666700e-02 3.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="132" element="Se"> 4.166666666666700e-02 4.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="133" element="Se"> 4.166666666666700e-02 5.833333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="134" element="Se"> 4.166666666666700e-02 7.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="135" element="Se"> 4.166666666666700e-02 8.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="136" element="Se"> 4.166666666666700e-02 9.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="137" element="Se"> 1.666666666666670e-01 8.333333333333300e-02 9.583608762270787e-01</pos>
+      <pos index="138" element="Se"> 1.666666666666670e-01 2.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="139" element="Se"> 1.666666666666670e-01 3.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="140" element="Se"> 1.666666666666670e-01 4.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="141" element="Se"> 1.666666666666670e-01 5.833333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="142" element="Se"> 1.666666666666670e-01 7.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="143" element="Se"> 1.666666666666670e-01 8.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="144" element="Se"> 1.666666666666670e-01 9.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="145" element="Se"> 2.916666666666670e-01 8.333333333333300e-02 9.583608762270787e-01</pos>
+      <pos index="146" element="Se"> 2.916666666666670e-01 2.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="147" element="Se"> 2.916666666666670e-01 3.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="148" element="Se"> 2.916666666666670e-01 4.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="149" element="Se"> 2.916666666666670e-01 5.833333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="150" element="Se"> 2.916666666666670e-01 7.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="151" element="Se"> 2.916666666666670e-01 8.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="152" element="Se"> 2.916666666666670e-01 9.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="153" element="Se"> 4.166666666666670e-01 8.333333333333300e-02 9.583608762270787e-01</pos>
+      <pos index="154" element="Se"> 4.166666666666670e-01 2.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="155" element="Se"> 4.166666666666670e-01 3.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="156" element="Se"> 4.166666666666670e-01 4.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="157" element="Se"> 4.166666666666670e-01 5.833333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="158" element="Se"> 4.166666666666670e-01 7.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="159" element="Se"> 4.166666666666670e-01 8.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="160" element="Se"> 4.166666666666670e-01 9.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="161" element="Se"> 5.416666666666670e-01 8.333333333333300e-02 9.583608762270787e-01</pos>
+      <pos index="162" element="Se"> 5.416666666666670e-01 2.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="163" element="Se"> 5.416666666666670e-01 3.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="164" element="Se"> 5.416666666666670e-01 4.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="165" element="Se"> 5.416666666666670e-01 5.833333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="166" element="Se"> 5.416666666666670e-01 7.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="167" element="Se"> 5.416666666666670e-01 8.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="168" element="Se"> 5.416666666666670e-01 9.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="169" element="Se"> 6.666666666666670e-01 8.333333333333300e-02 9.583608762270787e-01</pos>
+      <pos index="170" element="Se"> 6.666666666666670e-01 2.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="171" element="Se"> 6.666666666666670e-01 3.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="172" element="Se"> 6.666666666666670e-01 4.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="173" element="Se"> 6.666666666666670e-01 5.833333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="174" element="Se"> 6.666666666666670e-01 7.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="175" element="Se"> 6.666666666666670e-01 8.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="176" element="Se"> 6.666666666666670e-01 9.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="177" element="Se"> 7.916666666666670e-01 8.333333333333300e-02 9.583608762270787e-01</pos>
+      <pos index="178" element="Se"> 7.916666666666670e-01 2.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="179" element="Se"> 7.916666666666670e-01 3.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="180" element="Se"> 7.916666666666670e-01 4.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="181" element="Se"> 7.916666666666670e-01 5.833333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="182" element="Se"> 7.916666666666670e-01 7.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="183" element="Se"> 7.916666666666670e-01 8.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="184" element="Se"> 7.916666666666670e-01 9.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="185" element="Se"> 9.166666666666670e-01 8.333333333333300e-02 9.583608762270787e-01</pos>
+      <pos index="186" element="Se"> 9.166666666666670e-01 2.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="187" element="Se"> 9.166666666666670e-01 3.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="188" element="Se"> 9.166666666666670e-01 4.583333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="189" element="Se"> 9.166666666666670e-01 5.833333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="190" element="Se"> 9.166666666666670e-01 7.083333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="191" element="Se"> 9.166666666666670e-01 8.333333333333330e-01 9.583608762270787e-01</pos>
+      <pos index="192" element="Se"> 9.166666666666670e-01 9.583333333333330e-01 9.583608762270787e-01</pos>
+    </Position>
+  </Structure>
+  <Symmetry>
+    <NumberOfTranslations>64</NumberOfTranslations>
+    <Translations>
+      <map tran="1" atom="1">1</map>
+      <map tran="1" atom="2">65</map>
+      <map tran="1" atom="3">129</map>
+      <map tran="2" atom="1">2</map>
+      <map tran="2" atom="2">66</map>
+      <map tran="2" atom="3">130</map>
+      <map tran="3" atom="1">3</map>
+      <map tran="3" atom="2">67</map>
+      <map tran="3" atom="3">131</map>
+      <map tran="4" atom="1">4</map>
+      <map tran="4" atom="2">68</map>
+      <map tran="4" atom="3">132</map>
+      <map tran="5" atom="1">5</map>
+      <map tran="5" atom="2">69</map>
+      <map tran="5" atom="3">133</map>
+      <map tran="6" atom="1">6</map>
+      <map tran="6" atom="2">70</map>
+      <map tran="6" atom="3">134</map>
+      <map tran="7" atom="1">7</map>
+      <map tran="7" atom="2">71</map>
+      <map tran="7" atom="3">135</map>
+      <map tran="8" atom="1">8</map>
+      <map tran="8" atom="2">72</map>
+      <map tran="8" atom="3">136</map>
+      <map tran="9" atom="1">9</map>
+      <map tran="9" atom="2">73</map>
+      <map tran="9" atom="3">137</map>
+      <map tran="10" atom="1">10</map>
+      <map tran="10" atom="2">74</map>
+      <map tran="10" atom="3">138</map>
+      <map tran="11" atom="1">11</map>
+      <map tran="11" atom="2">75</map>
+      <map tran="11" atom="3">139</map>
+      <map tran="12" atom="1">12</map>
+      <map tran="12" atom="2">76</map>
+      <map tran="12" atom="3">140</map>
+      <map tran="13" atom="1">13</map>
+      <map tran="13" atom="2">77</map>
+      <map tran="13" atom="3">141</map>
+      <map tran="14" atom="1">14</map>
+      <map tran="14" atom="2">78</map>
+      <map tran="14" atom="3">142</map>
+      <map tran="15" atom="1">15</map>
+      <map tran="15" atom="2">79</map>
+      <map tran="15" atom="3">143</map>
+      <map tran="16" atom="1">16</map>
+      <map tran="16" atom="2">80</map>
+      <map tran="16" atom="3">144</map>
+      <map tran="17" atom="1">17</map>
+      <map tran="17" atom="2">81</map>
+      <map tran="17" atom="3">145</map>
+      <map tran="18" atom="1">18</map>
+      <map tran="18" atom="2">82</map>
+      <map tran="18" atom="3">146</map>
+      <map tran="19" atom="1">19</map>
+      <map tran="19" atom="2">83</map>
+      <map tran="19" atom="3">147</map>
+      <map tran="20" atom="1">20</map>
+      <map tran="20" atom="2">84</map>
+      <map tran="20" atom="3">148</map>
+      <map tran="21" atom="1">21</map>
+      <map tran="21" atom="2">85</map>
+      <map tran="21" atom="3">149</map>
+      <map tran="22" atom="1">22</map>
+      <map tran="22" atom="2">86</map>
+      <map tran="22" atom="3">150</map>
+      <map tran="23" atom="1">23</map>
+      <map tran="23" atom="2">87</map>
+      <map tran="23" atom="3">151</map>
+      <map tran="24" atom="1">24</map>
+      <map tran="24" atom="2">88</map>
+      <map tran="24" atom="3">152</map>
+      <map tran="25" atom="1">25</map>
+      <map tran="25" atom="2">89</map>
+      <map tran="25" atom="3">153</map>
+      <map tran="26" atom="1">26</map>
+      <map tran="26" atom="2">90</map>
+      <map tran="26" atom="3">154</map>
+      <map tran="27" atom="1">27</map>
+      <map tran="27" atom="2">91</map>
+      <map tran="27" atom="3">155</map>
+      <map tran="28" atom="1">28</map>
+      <map tran="28" atom="2">92</map>
+      <map tran="28" atom="3">156</map>
+      <map tran="29" atom="1">29</map>
+      <map tran="29" atom="2">93</map>
+      <map tran="29" atom="3">157</map>
+      <map tran="30" atom="1">30</map>
+      <map tran="30" atom="2">94</map>
+      <map tran="30" atom="3">158</map>
+      <map tran="31" atom="1">31</map>
+      <map tran="31" atom="2">95</map>
+      <map tran="31" atom="3">159</map>
+      <map tran="32" atom="1">32</map>
+      <map tran="32" atom="2">96</map>
+      <map tran="32" atom="3">160</map>
+      <map tran="33" atom="1">33</map>
+      <map tran="33" atom="2">97</map>
+      <map tran="33" atom="3">161</map>
+      <map tran="34" atom="1">34</map>
+      <map tran="34" atom="2">98</map>
+      <map tran="34" atom="3">162</map>
+      <map tran="35" atom="1">35</map>
+      <map tran="35" atom="2">99</map>
+      <map tran="35" atom="3">163</map>
+      <map tran="36" atom="1">36</map>
+      <map tran="36" atom="2">100</map>
+      <map tran="36" atom="3">164</map>
+      <map tran="37" atom="1">37</map>
+      <map tran="37" atom="2">101</map>
+      <map tran="37" atom="3">165</map>
+      <map tran="38" atom="1">38</map>
+      <map tran="38" atom="2">102</map>
+      <map tran="38" atom="3">166</map>
+      <map tran="39" atom="1">39</map>
+      <map tran="39" atom="2">103</map>
+      <map tran="39" atom="3">167</map>
+      <map tran="40" atom="1">40</map>
+      <map tran="40" atom="2">104</map>
+      <map tran="40" atom="3">168</map>
+      <map tran="41" atom="1">41</map>
+      <map tran="41" atom="2">105</map>
+      <map tran="41" atom="3">169</map>
+      <map tran="42" atom="1">42</map>
+      <map tran="42" atom="2">106</map>
+      <map tran="42" atom="3">170</map>
+      <map tran="43" atom="1">43</map>
+      <map tran="43" atom="2">107</map>
+      <map tran="43" atom="3">171</map>
+      <map tran="44" atom="1">44</map>
+      <map tran="44" atom="2">108</map>
+      <map tran="44" atom="3">172</map>
+      <map tran="45" atom="1">45</map>
+      <map tran="45" atom="2">109</map>
+      <map tran="45" atom="3">173</map>
+      <map tran="46" atom="1">46</map>
+      <map tran="46" atom="2">110</map>
+      <map tran="46" atom="3">174</map>
+      <map tran="47" atom="1">47</map>
+      <map tran="47" atom="2">111</map>
+      <map tran="47" atom="3">175</map>
+      <map tran="48" atom="1">48</map>
+      <map tran="48" atom="2">112</map>
+      <map tran="48" atom="3">176</map>
+      <map tran="49" atom="1">49</map>
+      <map tran="49" atom="2">113</map>
+      <map tran="49" atom="3">177</map>
+      <map tran="50" atom="1">50</map>
+      <map tran="50" atom="2">114</map>
+      <map tran="50" atom="3">178</map>
+      <map tran="51" atom="1">51</map>
+      <map tran="51" atom="2">115</map>
+      <map tran="51" atom="3">179</map>
+      <map tran="52" atom="1">52</map>
+      <map tran="52" atom="2">116</map>
+      <map tran="52" atom="3">180</map>
+      <map tran="53" atom="1">53</map>
+      <map tran="53" atom="2">117</map>
+      <map tran="53" atom="3">181</map>
+      <map tran="54" atom="1">54</map>
+      <map tran="54" atom="2">118</map>
+      <map tran="54" atom="3">182</map>
+      <map tran="55" atom="1">55</map>
+      <map tran="55" atom="2">119</map>
+      <map tran="55" atom="3">183</map>
+      <map tran="56" atom="1">56</map>
+      <map tran="56" atom="2">120</map>
+      <map tran="56" atom="3">184</map>
+      <map tran="57" atom="1">57</map>
+      <map tran="57" atom="2">121</map>
+      <map tran="57" atom="3">185</map>
+      <map tran="58" atom="1">58</map>
+      <map tran="58" atom="2">122</map>
+      <map tran="58" atom="3">186</map>
+      <map tran="59" atom="1">59</map>
+      <map tran="59" atom="2">123</map>
+      <map tran="59" atom="3">187</map>
+      <map tran="60" atom="1">60</map>
+      <map tran="60" atom="2">124</map>
+      <map tran="60" atom="3">188</map>
+      <map tran="61" atom="1">61</map>
+      <map tran="61" atom="2">125</map>
+      <map tran="61" atom="3">189</map>
+      <map tran="62" atom="1">62</map>
+      <map tran="62" atom="2">126</map>
+      <map tran="62" atom="3">190</map>
+      <map tran="63" atom="1">63</map>
+      <map tran="63" atom="2">127</map>
+      <map tran="63" atom="3">191</map>
+      <map tran="64" atom="1">64</map>
+      <map tran="64" atom="2">128</map>
+      <map tran="64" atom="3">192</map>
+    </Translations>
+  </Symmetry>
+  <ForceConstants>
+    <HarmonicUnique>
+      <NFC2>248</NFC2>
+      <Basis>Lattice</Basis>
+      <FC2 pairs="0 0" multiplicity="1">3.654052863819633e-01</FC2>
+      <FC2 pairs="0 1" multiplicity="1">-1.827026431909817e-01</FC2>
+      <FC2 pairs="2 2" multiplicity="1">1.007582788712404e+00</FC2>
+      <FC2 pairs="0 3" multiplicity="1">-5.532941809318471e-03</FC2>
+      <FC2 pairs="0 4" multiplicity="1">2.043037157368241e-02</FC2>
+      <FC2 pairs="0 22" multiplicity="1">-1.126595562286247e-02</FC2>
+      <FC2 pairs="0 24" multiplicity="1">-9.164415950819946e-03</FC2>
+      <FC2 pairs="2 5" multiplicity="1">1.817359262355028e-02</FC2>
+      <FC2 pairs="0 6" multiplicity="1">1.424930868471430e-04</FC2>
+      <FC2 pairs="0 7" multiplicity="1">1.379222488024594e-03</FC2>
+      <FC2 pairs="0 19" multiplicity="1">1.326655144562887e-03</FC2>
+      <FC2 pairs="0 48" multiplicity="1">-2.705877632587481e-03</FC2>
+      <FC2 pairs="2 8" multiplicity="1">-1.809457515258393e-03</FC2>
+      <FC2 pairs="0 27" multiplicity="1">-5.532941809318471e-03</FC2>
+      <FC2 pairs="0 28" multiplicity="1">-1.489742976436394e-02</FC2>
+      <FC2 pairs="0 190" multiplicity="1">1.679889743218094e-02</FC2>
+      <FC2 pairs="2 29" multiplicity="1">1.817359262355028e-02</FC2>
+      <FC2 pairs="0 30" multiplicity="1">-3.044546945633028e-03</FC2>
+      <FC2 pairs="0 31" multiplicity="1">1.522273472816514e-03</FC2>
+      <FC2 pairs="0 166" multiplicity="1">1.522273472816514e-03</FC2>
+      <FC2 pairs="0 51" multiplicity="1">-5.853271200510173e-04</FC2>
+      <FC2 pairs="2 32" multiplicity="1">-7.456060595885264e-04</FC2>
+      <FC2 pairs="0 45" multiplicity="1">-5.853271200510173e-04</FC2>
+      <FC2 pairs="0 46" multiplicity="1">-9.369463527654969e-04</FC2>
+      <FC2 pairs="2 47" multiplicity="1">-7.456060595885264e-04</FC2>
+      <FC2 pairs="0 54" multiplicity="1">1.424930868471430e-04</FC2>
+      <FC2 pairs="0 55" multiplicity="1">-1.521715574871737e-03</FC2>
+      <FC2 pairs="0 163" multiplicity="1">-1.469148231410030e-03</FC2>
+      <FC2 pairs="2 56" multiplicity="1">-1.809457515258393e-03</FC2>
+      <FC2 pairs="0 192" multiplicity="1">-2.144675928425015e-02</FC2>
+      <FC2 pairs="0 193" multiplicity="1">1.072337964212507e-02</FC2>
+      <FC2 pairs="0 194" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="0 382" multiplicity="1">1.072337964212507e-02</FC2>
+      <FC2 pairs="0 381" multiplicity="1">-6.720964546008575e-02</FC2>
+      <FC2 pairs="0 383" multiplicity="1">-7.792345192579951e-02</FC2>
+      <FC2 pairs="2 192" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="2 193" multiplicity="1">-7.728603706133695e-02</FC2>
+      <FC2 pairs="2 194" multiplicity="1">-1.714543166287079e-01</FC2>
+      <FC2 pairs="0 195" multiplicity="1">-1.143407677594967e-03</FC2>
+      <FC2 pairs="0 196" multiplicity="1">-2.780492966859486e-04</FC2>
+      <FC2 pairs="0 197" multiplicity="1">-4.363019894454826e-04</FC2>
+      <FC2 pairs="0 358" multiplicity="1">1.975798228557595e-03</FC2>
+      <FC2 pairs="0 357" multiplicity="1">-8.601100538375406e-04</FC2>
+      <FC2 pairs="0 359" multiplicity="1">9.784351379442825e-04</FC2>
+      <FC2 pairs="2 195" multiplicity="1">1.098123995547754e-03</FC2>
+      <FC2 pairs="2 196" multiplicity="1">-1.176518433341021e-03</FC2>
+      <FC2 pairs="2 197" multiplicity="1">-2.077203598924888e-03</FC2>
+      <FC2 pairs="0 198" multiplicity="1">-2.460722405711362e-05</FC2>
+      <FC2 pairs="0 199" multiplicity="1">-5.581854014219310e-05</FC2>
+      <FC2 pairs="0 200" multiplicity="1">9.735235975051468e-05</FC2>
+      <FC2 pairs="0 334" multiplicity="1">2.990462312250825e-05</FC2>
+      <FC2 pairs="0 333" multiplicity="1">-2.610410627317080e-05</FC2>
+      <FC2 pairs="0 335" multiplicity="1">2.922079244788487e-05</FC2>
+      <FC2 pairs="2 198" multiplicity="1">-1.886294830588754e-05</FC2>
+      <FC2 pairs="2 199" multiplicity="1">4.329717564662250e-05</FC2>
+      <FC2 pairs="2 200" multiplicity="1">-5.506457134393710e-05</FC2>
+      <FC2 pairs="0 207" multiplicity="1">-7.662524734996928e-05</FC2>
+      <FC2 pairs="0 208" multiplicity="1">8.192264641536391e-05</FC2>
+      <FC2 pairs="0 209" multiplicity="1">1.265731521983995e-04</FC2>
+      <FC2 pairs="0 262" multiplicity="1">-3.800516849337442e-06</FC2>
+      <FC2 pairs="0 261" multiplicity="1">-2.610410627317080e-05</FC2>
+      <FC2 pairs="0 263" multiplicity="1">-2.922079244788487e-05</FC2>
+      <FC2 pairs="2 207" multiplicity="1">2.443422734073496e-05</FC2>
+      <FC2 pairs="2 208" multiplicity="1">-4.329717564662250e-05</FC2>
+      <FC2 pairs="2 209" multiplicity="1">-5.506457134393710e-05</FC2>
+      <FC2 pairs="0 210" multiplicity="1">-3.057687995608615e-04</FC2>
+      <FC2 pairs="0 211" multiplicity="1">1.138159350523489e-03</FC2>
+      <FC2 pairs="0 212" multiplicity="1">5.421331484987999e-04</FC2>
+      <FC2 pairs="0 238" multiplicity="1">-1.115688174720054e-03</FC2>
+      <FC2 pairs="0 237" multiplicity="1">-8.601100538375406e-04</FC2>
+      <FC2 pairs="0 239" multiplicity="1">-9.784351379442825e-04</FC2>
+      <FC2 pairs="2 210" multiplicity="1">-7.839443779326667e-05</FC2>
+      <FC2 pairs="2 211" multiplicity="1">1.176518433341021e-03</FC2>
+      <FC2 pairs="2 212" multiplicity="1">-2.077203598924888e-03</FC2>
+      <FC2 pairs="0 213" multiplicity="1">-6.720964546008575e-02</FC2>
+      <FC2 pairs="0 214" multiplicity="1">5.648626581796068e-02</FC2>
+      <FC2 pairs="0 215" multiplicity="1">-7.792345192579951e-02</FC2>
+      <FC2 pairs="2 213" multiplicity="1">-7.728603706133695e-02</FC2>
+      <FC2 pairs="2 215" multiplicity="1">-1.714543166287079e-01</FC2>
+      <FC2 pairs="0 216" multiplicity="1">-1.156445855365865e-03</FC2>
+      <FC2 pairs="0 217" multiplicity="1">-3.087708296250857e-03</FC2>
+      <FC2 pairs="0 218" multiplicity="1">-1.317540057952947e-03</FC2>
+      <FC2 pairs="0 379" multiplicity="1">-3.087708296250857e-03</FC2>
+      <FC2 pairs="0 378" multiplicity="1">6.175416592501713e-03</FC2>
+      <FC2 pairs="0 380" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="2 216" multiplicity="1">-3.586540045826058e-03</FC2>
+      <FC2 pairs="2 217" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="2 218" multiplicity="1">-7.924779251554326e-03</FC2>
+      <FC2 pairs="0 219" multiplicity="1">-1.143407677594967e-03</FC2>
+      <FC2 pairs="0 220" multiplicity="1">1.421456974280916e-03</FC2>
+      <FC2 pairs="0 221" multiplicity="1">4.363019894454826e-04</FC2>
+      <FC2 pairs="0 355" multiplicity="1">-8.323905509626278e-04</FC2>
+      <FC2 pairs="0 354" multiplicity="1">-3.057687995608615e-04</FC2>
+      <FC2 pairs="0 356" multiplicity="1">5.421331484987999e-04</FC2>
+      <FC2 pairs="2 219" multiplicity="1">-1.098123995547754e-03</FC2>
+      <FC2 pairs="2 220" multiplicity="1">-7.839443779326667e-05</FC2>
+      <FC2 pairs="2 221" multiplicity="1">-2.077203598924888e-03</FC2>
+      <FC2 pairs="0 222" multiplicity="1">-1.087938440142455e-05</FC2>
+      <FC2 pairs="0 223" multiplicity="1">5.439692200712276e-06</FC2>
+      <FC2 pairs="0 224" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="0 331" multiplicity="1">5.439692200712276e-06</FC2>
+      <FC2 pairs="0 330" multiplicity="1">1.130281265560518e-04</FC2>
+      <FC2 pairs="0 332" multiplicity="1">-6.209445542253304e-05</FC2>
+      <FC2 pairs="2 222" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="2 223" multiplicity="1">9.083533475325479e-05</FC2>
+      <FC2 pairs="2 224" multiplicity="1">-1.947262278322205e-04</FC2>
+      <FC2 pairs="0 234" multiplicity="1">1.130281265560518e-04</FC2>
+      <FC2 pairs="0 235" multiplicity="1">-1.184678187567641e-04</FC2>
+      <FC2 pairs="0 236" multiplicity="1">-6.209445542253304e-05</FC2>
+      <FC2 pairs="2 234" multiplicity="1">9.083533475325479e-05</FC2>
+      <FC2 pairs="2 236" multiplicity="1">-1.947262278322205e-04</FC2>
+      <FC2 pairs="0 240" multiplicity="1">2.451390903971265e-04</FC2>
+      <FC2 pairs="0 241" multiplicity="1">1.710813705737085e-04</FC2>
+      <FC2 pairs="0 242" multiplicity="1">1.685960374607110e-04</FC2>
+      <FC2 pairs="0 376" multiplicity="1">-4.013924576050246e-06</FC2>
+      <FC2 pairs="0 375" multiplicity="1">-1.223368897980260e-04</FC2>
+      <FC2 pairs="0 377" multiplicity="1">5.416693231389150e-05</FC2>
+      <FC2 pairs="2 240" multiplicity="1">-4.627819636941892e-04</FC2>
+      <FC2 pairs="2 241" multiplicity="1">2.344316548159483e-04</FC2>
+      <FC2 pairs="2 242" multiplicity="1">1.446823072640736e-04</FC2>
+      <FC2 pairs="0 243" multiplicity="1">2.898696465967587e-04</FC2>
+      <FC2 pairs="0 244" multiplicity="1">-4.874448077568248e-05</FC2>
+      <FC2 pairs="0 245" multiplicity="1">2.227629697746025e-04</FC2>
+      <FC2 pairs="0 352" multiplicity="1">1.263508143740763e-04</FC2>
+      <FC2 pairs="0 351" multiplicity="1">-1.223368897980260e-04</FC2>
+      <FC2 pairs="0 353" multiplicity="1">-5.416693231389150e-05</FC2>
+      <FC2 pairs="2 243" multiplicity="1">-2.283503088782409e-04</FC2>
+      <FC2 pairs="2 244" multiplicity="1">-2.344316548159483e-04</FC2>
+      <FC2 pairs="2 245" multiplicity="1">1.446823072640736e-04</FC2>
+      <FC2 pairs="0 246" multiplicity="1">-2.460722405711362e-05</FC2>
+      <FC2 pairs="0 247" multiplicity="1">8.042576419930672e-05</FC2>
+      <FC2 pairs="0 248" multiplicity="1">-9.735235975051468e-05</FC2>
+      <FC2 pairs="0 328" multiplicity="1">-5.297399065394630e-06</FC2>
+      <FC2 pairs="0 327" multiplicity="1">-7.662524734996928e-05</FC2>
+      <FC2 pairs="0 329" multiplicity="1">1.265731521983995e-04</FC2>
+      <FC2 pairs="2 246" multiplicity="1">1.886294830588754e-05</FC2>
+      <FC2 pairs="2 247" multiplicity="1">2.443422734073496e-05</FC2>
+      <FC2 pairs="2 248" multiplicity="1">-5.506457134393710e-05</FC2>
+      <FC2 pairs="0 336" multiplicity="1">2.451390903971265e-04</FC2>
+      <FC2 pairs="0 337" multiplicity="1">-4.162204609708350e-04</FC2>
+      <FC2 pairs="0 338" multiplicity="1">-1.685960374607110e-04</FC2>
+      <FC2 pairs="0 364" multiplicity="1">-2.411251658210762e-04</FC2>
+      <FC2 pairs="0 363" multiplicity="1">2.898696465967587e-04</FC2>
+      <FC2 pairs="0 365" multiplicity="1">2.227629697746025e-04</FC2>
+      <FC2 pairs="2 336" multiplicity="1">4.627819636941892e-04</FC2>
+      <FC2 pairs="2 337" multiplicity="1">-2.283503088782409e-04</FC2>
+      <FC2 pairs="2 338" multiplicity="1">1.446823072640736e-04</FC2>
+      <FC2 pairs="0 360" multiplicity="1">-1.156445855365865e-03</FC2>
+      <FC2 pairs="0 361" multiplicity="1">4.244154151616722e-03</FC2>
+      <FC2 pairs="0 362" multiplicity="1">1.317540057952947e-03</FC2>
+      <FC2 pairs="2 360" multiplicity="1">3.586540045826058e-03</FC2>
+      <FC2 pairs="2 362" multiplicity="1">-7.924779251554326e-03</FC2>
+      <FC2 pairs="192 192" multiplicity="1">1.797018376179005e-01</FC2>
+      <FC2 pairs="192 193" multiplicity="1">-8.985091880895024e-02</FC2>
+      <FC2 pairs="192 194" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="194 194" multiplicity="1">5.357815135088964e-01</FC2>
+      <FC2 pairs="192 195" multiplicity="1">-1.952100885182410e-03</FC2>
+      <FC2 pairs="192 196" multiplicity="1">5.963544625587690e-03</FC2>
+      <FC2 pairs="192 197" multiplicity="1">-8.714671512014531e-04</FC2>
+      <FC2 pairs="192 214" multiplicity="1">6.581532127546658e-03</FC2>
+      <FC2 pairs="192 216" multiplicity="1">-1.254507675313435e-02</FC2>
+      <FC2 pairs="192 362" multiplicity="1">2.121859356840239e-03</FC2>
+      <FC2 pairs="192 215" multiplicity="1">1.250392205638786e-03</FC2>
+      <FC2 pairs="192 218" multiplicity="1">-2.121859356840239e-03</FC2>
+      <FC2 pairs="194 197" multiplicity="1">1.206384833068468e-02</FC2>
+      <FC2 pairs="192 198" multiplicity="1">-3.045398809185224e-05</FC2>
+      <FC2 pairs="192 199" multiplicity="1">8.857888009240669e-05</FC2>
+      <FC2 pairs="192 200" multiplicity="1">-2.411400917332765e-04</FC2>
+      <FC2 pairs="192 211" multiplicity="1">-1.380581486472762e-05</FC2>
+      <FC2 pairs="192 240" multiplicity="1">-7.477306522767906e-05</FC2>
+      <FC2 pairs="192 338" multiplicity="1">7.008941507608010e-05</FC2>
+      <FC2 pairs="192 212" multiplicity="1">-1.710506766571964e-04</FC2>
+      <FC2 pairs="192 242" multiplicity="1">-7.008941507608010e-05</FC2>
+      <FC2 pairs="194 200" multiplicity="1">8.224209156546423e-04</FC2>
+      <FC2 pairs="192 219" multiplicity="1">-1.952100885182410e-03</FC2>
+      <FC2 pairs="192 220" multiplicity="1">-4.011443740405281e-03</FC2>
+      <FC2 pairs="192 221" multiplicity="1">8.714671512014531e-04</FC2>
+      <FC2 pairs="192 382" multiplicity="1">-4.629431242364248e-03</FC2>
+      <FC2 pairs="192 383" multiplicity="1">1.250392205638786e-03</FC2>
+      <FC2 pairs="194 221" multiplicity="1">1.206384833068468e-02</FC2>
+      <FC2 pairs="192 222" multiplicity="1">1.409621357907702e-04</FC2>
+      <FC2 pairs="192 223" multiplicity="1">-7.048106789538509e-05</FC2>
+      <FC2 pairs="192 224" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="192 358" multiplicity="1">-7.048106789538509e-05</FC2>
+      <FC2 pairs="192 243" multiplicity="1">2.691812158393501e-04</FC2>
+      <FC2 pairs="192 359" multiplicity="1">-3.396820800293644e-04</FC2>
+      <FC2 pairs="192 380" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="192 245" multiplicity="1">-3.300353674317745e-05</FC2>
+      <FC2 pairs="194 224" multiplicity="1">-1.713589722153549e-04</FC2>
+      <FC2 pairs="192 237" multiplicity="1">2.691812158393501e-04</FC2>
+      <FC2 pairs="192 238" multiplicity="1">-1.987001479439650e-04</FC2>
+      <FC2 pairs="192 239" multiplicity="1">-3.396820800293644e-04</FC2>
+      <FC2 pairs="192 365" multiplicity="1">-3.300353674317745e-05</FC2>
+      <FC2 pairs="194 239" multiplicity="1">-1.713589722153549e-04</FC2>
+      <FC2 pairs="192 246" multiplicity="1">-3.045398809185224e-05</FC2>
+      <FC2 pairs="192 247" multiplicity="1">-5.812489200055444e-05</FC2>
+      <FC2 pairs="192 248" multiplicity="1">2.411400917332765e-04</FC2>
+      <FC2 pairs="192 355" multiplicity="1">4.425980295657986e-05</FC2>
+      <FC2 pairs="192 356" multiplicity="1">-1.710506766571964e-04</FC2>
+      <FC2 pairs="194 248" multiplicity="1">8.224209156546423e-04</FC2>
+      <FC2 pairs="192 384" multiplicity="1">5.166182684456217e-03</FC2>
+      <FC2 pairs="192 385" multiplicity="1">-2.583091342228109e-03</FC2>
+      <FC2 pairs="192 386" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="194 386" multiplicity="1">-5.480994882504175e-02</FC2>
+      <FC2 pairs="192 387" multiplicity="1">1.704410217210525e-03</FC2>
+      <FC2 pairs="192 388" multiplicity="1">2.189927919912201e-03</FC2>
+      <FC2 pairs="192 389" multiplicity="1">-4.918180329004863e-03</FC2>
+      <FC2 pairs="192 406" multiplicity="1">-4.607695610908034e-04</FC2>
+      <FC2 pairs="192 408" multiplicity="1">-1.729158358821397e-03</FC2>
+      <FC2 pairs="192 554" multiplicity="1">4.020155093208500e-03</FC2>
+      <FC2 pairs="192 407" multiplicity="1">8.980252357963629e-04</FC2>
+      <FC2 pairs="192 410" multiplicity="1">4.020155093208500e-03</FC2>
+      <FC2 pairs="194 389" multiplicity="1">-2.192183284966300e-03</FC2>
+      <FC2 pairs="192 390" multiplicity="1">1.250510248579871e-04</FC2>
+      <FC2 pairs="192 391" multiplicity="1">3.154512850095386e-04</FC2>
+      <FC2 pairs="192 392" multiplicity="1">1.956564049195551e-05</FC2>
+      <FC2 pairs="192 403" multiplicity="1">-2.208936109845064e-04</FC2>
+      <FC2 pairs="192 432" multiplicity="1">-9.455767402503210e-05</FC2>
+      <FC2 pairs="192 530" multiplicity="1">1.731271376469347e-05</FC2>
+      <FC2 pairs="192 404" multiplicity="1">-3.687835425664898e-05</FC2>
+      <FC2 pairs="192 434" multiplicity="1">1.731271376469347e-05</FC2>
+      <FC2 pairs="194 392" multiplicity="1">3.835179990823592e-05</FC2>
+      <FC2 pairs="192 411" multiplicity="1">1.704410217210525e-03</FC2>
+      <FC2 pairs="192 412" multiplicity="1">-3.894338137122725e-03</FC2>
+      <FC2 pairs="192 413" multiplicity="1">4.918180329004863e-03</FC2>
+      <FC2 pairs="192 574" multiplicity="1">-1.243640656119721e-03</FC2>
+      <FC2 pairs="192 575" multiplicity="1">-8.980252357963629e-04</FC2>
+      <FC2 pairs="194 413" multiplicity="1">-2.192183284966300e-03</FC2>
+      <FC2 pairs="192 414" multiplicity="1">8.729294018390316e-05</FC2>
+      <FC2 pairs="192 415" multiplicity="1">-4.364647009195158e-05</FC2>
+      <FC2 pairs="192 416" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="192 550" multiplicity="1">-4.364647009195158e-05</FC2>
+      <FC2 pairs="192 435" multiplicity="1">-2.663745283817621e-04</FC2>
+      <FC2 pairs="192 551" multiplicity="1">1.447009076612813e-04</FC2>
+      <FC2 pairs="192 572" multiplicity="1">0.000000000000000e+00</FC2>
+      <FC2 pairs="192 437" multiplicity="1">-8.601755083368777e-05</FC2>
+      <FC2 pairs="194 416" multiplicity="1">1.051490680676998e-03</FC2>
+      <FC2 pairs="192 429" multiplicity="1">-2.663745283817621e-04</FC2>
+      <FC2 pairs="192 430" multiplicity="1">3.100209984737136e-04</FC2>
+      <FC2 pairs="192 431" multiplicity="1">1.447009076612813e-04</FC2>
+      <FC2 pairs="192 557" multiplicity="1">-8.601755083368777e-05</FC2>
+      <FC2 pairs="194 431" multiplicity="1">1.051490680676998e-03</FC2>
+      <FC2 pairs="192 438" multiplicity="1">1.250510248579871e-04</FC2>
+      <FC2 pairs="192 439" multiplicity="1">-4.405023098675256e-04</FC2>
+      <FC2 pairs="192 440" multiplicity="1">-1.956564049195551e-05</FC2>
+      <FC2 pairs="192 547" multiplicity="1">9.584258612651937e-05</FC2>
+      <FC2 pairs="192 548" multiplicity="1">3.687835425664898e-05</FC2>
+      <FC2 pairs="194 440" multiplicity="1">3.835179990823592e-05</FC2>
+    </HarmonicUnique>
+    <HARMONIC>
+      <FC2 pair1="1 1" pair2="1 1 1">4.406918547204235e-01</FC2>
+      <FC2 pair1="1 1" pair2="1 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="1 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="2 1 1">-6.672925868565350e-03</FC2>
+      <FC2 pair1="1 1" pair2="2 2 1">2.459892790293723e-02</FC2>
+      <FC2 pair1="1 1" pair2="2 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="3 1 1">1.718517631457165e-04</FC2>
+      <FC2 pair1="1 1" pair2="3 2 1">2.019937940016154e-03</FC2>
+      <FC2 pair1="1 1" pair2="3 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="7 1 12">1.718517631457165e-04</FC2>
+      <FC2 pair1="1 1" pair2="7 2 12">1.946732122337890e-03</FC2>
+      <FC2 pair1="1 1" pair2="7 3 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="8 1 12">-6.672925868565350e-03</FC2>
+      <FC2 pair1="1 1" pair2="8 2 12">-1.954170004245495e-02</FC2>
+      <FC2 pair1="1 1" pair2="8 3 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="9 1 1">-1.105261366846943e-02</FC2>
+      <FC2 pair1="1 1" pair2="9 2 1">2.207031397269609e-02</FC2>
+      <FC2 pair1="1 1" pair2="9 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="10 1 1">-6.672925868565350e-03</FC2>
+      <FC2 pair1="1 1" pair2="10 2 1">-2.459892790293723e-02</FC2>
+      <FC2 pair1="1 1" pair2="10 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="11 1 1">-3.671832593171392e-03</FC2>
+      <FC2 pair1="1 1" pair2="11 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="11 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="16 1 12">-7.059254580236399e-04</FC2>
+      <FC2 pair1="1 1" pair2="16 2 12">-1.712367282868986e-03</FC2>
+      <FC2 pair1="1 1" pair2="16 3 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="17 1 1">-3.263385279284089e-03</FC2>
+      <FC2 pair1="1 1" pair2="17 2 1">3.660290883913174e-05</FC2>
+      <FC2 pair1="1 1" pair2="17 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="18 1 1">-7.059254580236399e-04</FC2>
+      <FC2 pair1="1 1" pair2="18 2 1">1.712367282868986e-03</FC2>
+      <FC2 pair1="1 1" pair2="18 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="19 1 1">1.718517631457165e-04</FC2>
+      <FC2 pair1="1 1" pair2="19 2 1">-2.019937940016154e-03</FC2>
+      <FC2 pair1="1 1" pair2="19 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="49 1 6">-3.263385279284089e-03</FC2>
+      <FC2 pair1="1 1" pair2="49 2 6">-3.660290883913204e-05</FC2>
+      <FC2 pair1="1 1" pair2="49 3 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="55 1 3">1.718517631457165e-04</FC2>
+      <FC2 pair1="1 1" pair2="55 2 3">-1.946732122337890e-03</FC2>
+      <FC2 pair1="1 1" pair2="55 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="56 1 3">-7.059254580236399e-04</FC2>
+      <FC2 pair1="1 1" pair2="56 2 3">1.712367282868986e-03</FC2>
+      <FC2 pair1="1 1" pair2="56 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="57 1 6">-1.105261366846943e-02</FC2>
+      <FC2 pair1="1 1" pair2="57 2 6">-2.207031397269609e-02</FC2>
+      <FC2 pair1="1 1" pair2="57 3 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="58 1 6">-7.059254580236399e-04</FC2>
+      <FC2 pair1="1 1" pair2="58 2 6">-1.712367282868986e-03</FC2>
+      <FC2 pair1="1 1" pair2="58 3 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="63 1 3">-3.671832593171392e-03</FC2>
+      <FC2 pair1="1 1" pair2="63 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="63 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="64 1 3">-6.672925868565350e-03</FC2>
+      <FC2 pair1="1 1" pair2="64 2 3">1.954170004245495e-02</FC2>
+      <FC2 pair1="1 1" pair2="64 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="65 1 1">-2.586555936368957e-02</FC2>
+      <FC2 pair1="1 1" pair2="65 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="65 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="66 1 1">-1.378990586398289e-03</FC2>
+      <FC2 pair1="1 1" pair2="66 2 1">-1.183374867574352e-03</FC2>
+      <FC2 pair1="1 1" pair2="66 3 1">-3.440628054785919e-04</FC2>
+      <FC2 pair1="1 1" pair2="67 1 1">-2.967719300567214e-05</FC2>
+      <FC2 pair1="1 1" pair2="67 2 1">-9.486760264565423e-05</FC2>
+      <FC2 pair1="1 1" pair2="67 3 1">7.677096787547101e-05</FC2>
+      <FC2 pair1="1 1" pair2="70 1 12">-9.241279103381902e-05</FC2>
+      <FC2 pair1="1 1" pair2="70 2 12">6.073176164975386e-05</FC2>
+      <FC2 pair1="1 1" pair2="70 3 12">9.981415372182659e-05</FC2>
+      <FC2 pair1="1 1" pair2="71 1 12">-3.687681169813662e-04</FC2>
+      <FC2 pair1="1 1" pair2="71 2 12">1.372103927214783e-03</FC2>
+      <FC2 pair1="1 1" pair2="71 3 12">4.275200584175803e-04</FC2>
+      <FC2 pair1="1 1" pair2="72 1 12">-8.105723813187088e-02</FC2>
+      <FC2 pair1="1 1" pair2="72 2 12">3.186493059383685e-02</FC2>
+      <FC2 pair1="1 1" pair2="72 3 12">-6.144955129872687e-02</FC2>
+      <FC2 pair1="1 1" pair2="73 1 1">-1.394715095479488e-03</FC2>
+      <FC2 pair1="1 1" pair2="73 2 1">-5.105213144275491e-03</FC2>
+      <FC2 pair1="1 1" pair2="73 3 1">-1.038997161681200e-03</FC2>
+      <FC2 pair1="1 1" pair2="74 1 1">-1.378990586398289e-03</FC2>
+      <FC2 pair1="1 1" pair2="74 2 1">1.183374867574352e-03</FC2>
+      <FC2 pair1="1 1" pair2="74 3 1">3.440628054785919e-04</FC2>
+      <FC2 pair1="1 1" pair2="75 1 1">-1.312092700560582e-05</FC2>
+      <FC2 pair1="1 1" pair2="75 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="75 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="79 1 12">1.363159663636982e-04</FC2>
+      <FC2 pair1="1 1" pair2="79 2 12">-8.627743061362908e-05</FC2>
+      <FC2 pair1="1 1" pair2="79 3 12">-4.896698400228505e-05</FC2>
+      <FC2 pair1="1 1" pair2="80 1 12">-1.037323511770789e-03</FC2>
+      <FC2 pair1="1 1" pair2="80 2 12">-2.152617719383471e-03</FC2>
+      <FC2 pair1="1 1" pair2="80 3 12">7.715828638961722e-04</FC2>
+      <FC2 pair1="1 1" pair2="81 1 1">2.956465175456195e-04</FC2>
+      <FC2 pair1="1 1" pair2="81 2 1">4.089412548826947e-04</FC2>
+      <FC2 pair1="1 1" pair2="81 3 1">1.329529249110936e-04</FC2>
+      <FC2 pair1="1 1" pair2="82 1 1">3.495931694112042e-04</FC2>
+      <FC2 pair1="1 1" pair2="82 2 1">1.339556502842081e-04</FC2>
+      <FC2 pair1="1 1" pair2="82 3 1">1.756683540104956e-04</FC2>
+      <FC2 pair1="1 1" pair2="83 1 1">-2.967719300567214e-05</FC2>
+      <FC2 pair1="1 1" pair2="83 2 1">9.486760264565422e-05</FC2>
+      <FC2 pair1="1 1" pair2="83 3 1">-7.677096787547101e-05</FC2>
+      <FC2 pair1="1 1" pair2="88 1 12">-3.148248653774956e-05</FC2>
+      <FC2 pair1="1 1" pair2="88 2 12">-2.346906053371988e-05</FC2>
+      <FC2 pair1="1 1" pair2="88 3 12">2.304318584635557e-05</FC2>
+      <FC2 pair1="1 1" pair2="110 1 3">-9.241279103381902e-05</FC2>
+      <FC2 pair1="1 1" pair2="110 2 3">-6.073176164975385e-05</FC2>
+      <FC2 pair1="1 1" pair2="110 3 3">-9.981415372182659e-05</FC2>
+      <FC2 pair1="1 1" pair2="111 1 3">1.363159663636982e-04</FC2>
+      <FC2 pair1="1 1" pair2="111 2 3">8.627743061362908e-05</FC2>
+      <FC2 pair1="1 1" pair2="111 3 3">4.896698400228505e-05</FC2>
+      <FC2 pair1="1 1" pair2="112 1 3">-3.148248653774956e-05</FC2>
+      <FC2 pair1="1 1" pair2="112 2 3">2.346906053371989e-05</FC2>
+      <FC2 pair1="1 1" pair2="112 3 3">-2.304318584635557e-05</FC2>
+      <FC2 pair1="1 1" pair2="113 1 6">2.956465175456195e-04</FC2>
+      <FC2 pair1="1 1" pair2="113 2 6">-4.089412548826947e-04</FC2>
+      <FC2 pair1="1 1" pair2="113 3 6">-1.329529249110936e-04</FC2>
+      <FC2 pair1="1 1" pair2="118 1 3">-1.475426680320773e-04</FC2>
+      <FC2 pair1="1 1" pair2="118 2 3">9.077363133453172e-05</FC2>
+      <FC2 pair1="1 1" pair2="118 3 3">4.271542909940191e-05</FC2>
+      <FC2 pair1="1 1" pair2="119 1 3">-3.687681169813662e-04</FC2>
+      <FC2 pair1="1 1" pair2="119 2 3">-1.372103927214783e-03</FC2>
+      <FC2 pair1="1 1" pair2="119 3 3">-4.275200584175803e-04</FC2>
+      <FC2 pair1="1 1" pair2="120 1 3">-1.037323511770789e-03</FC2>
+      <FC2 pair1="1 1" pair2="120 2 3">2.152617719383471e-03</FC2>
+      <FC2 pair1="1 1" pair2="120 3 3">-7.715828638961722e-04</FC2>
+      <FC2 pair1="1 1" pair2="121 1 6">-1.394715095479488e-03</FC2>
+      <FC2 pair1="1 1" pair2="121 2 6">5.105213144275491e-03</FC2>
+      <FC2 pair1="1 1" pair2="121 3 6">1.038997161681200e-03</FC2>
+      <FC2 pair1="1 1" pair2="122 1 6">3.495931694112042e-04</FC2>
+      <FC2 pair1="1 1" pair2="122 2 6">-1.339556502842081e-04</FC2>
+      <FC2 pair1="1 1" pair2="122 3 6">-1.756683540104956e-04</FC2>
+      <FC2 pair1="1 1" pair2="126 1 3">-1.475426680320773e-04</FC2>
+      <FC2 pair1="1 1" pair2="126 2 3">-9.077363133453172e-05</FC2>
+      <FC2 pair1="1 1" pair2="126 3 3">-4.271542909940191e-05</FC2>
+      <FC2 pair1="1 1" pair2="127 1 3">7.447773453874122e-03</FC2>
+      <FC2 pair1="1 1" pair2="127 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="127 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="128 1 3">-8.105723813187088e-02</FC2>
+      <FC2 pair1="1 1" pair2="128 2 3">-3.186493059383683e-02</FC2>
+      <FC2 pair1="1 1" pair2="128 3 3">6.144955129872687e-02</FC2>
+      <FC2 pair1="1 1" pair2="129 1 14">-2.586555936368957e-02</FC2>
+      <FC2 pair1="1 1" pair2="129 2 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="129 3 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="130 1 14">-1.378990586398289e-03</FC2>
+      <FC2 pair1="1 1" pair2="130 2 14">-1.183374867574352e-03</FC2>
+      <FC2 pair1="1 1" pair2="130 3 14">3.440628054785919e-04</FC2>
+      <FC2 pair1="1 1" pair2="131 1 14">-2.967719300567214e-05</FC2>
+      <FC2 pair1="1 1" pair2="131 2 14">-9.486760264565423e-05</FC2>
+      <FC2 pair1="1 1" pair2="131 3 14">-7.677096787547101e-05</FC2>
+      <FC2 pair1="1 1" pair2="134 1 11">-9.241279103381902e-05</FC2>
+      <FC2 pair1="1 1" pair2="134 2 11">6.073176164975386e-05</FC2>
+      <FC2 pair1="1 1" pair2="134 3 11">-9.981415372182659e-05</FC2>
+      <FC2 pair1="1 1" pair2="135 1 11">-3.687681169813662e-04</FC2>
+      <FC2 pair1="1 1" pair2="135 2 11">1.372103927214783e-03</FC2>
+      <FC2 pair1="1 1" pair2="135 3 11">-4.275200584175803e-04</FC2>
+      <FC2 pair1="1 1" pair2="136 1 11">-8.105723813187088e-02</FC2>
+      <FC2 pair1="1 1" pair2="136 2 11">3.186493059383685e-02</FC2>
+      <FC2 pair1="1 1" pair2="136 3 11">6.144955129872687e-02</FC2>
+      <FC2 pair1="1 1" pair2="137 1 14">-1.394715095479488e-03</FC2>
+      <FC2 pair1="1 1" pair2="137 2 14">-5.105213144275491e-03</FC2>
+      <FC2 pair1="1 1" pair2="137 3 14">1.038997161681200e-03</FC2>
+      <FC2 pair1="1 1" pair2="138 1 14">-1.378990586398289e-03</FC2>
+      <FC2 pair1="1 1" pair2="138 2 14">1.183374867574352e-03</FC2>
+      <FC2 pair1="1 1" pair2="138 3 14">-3.440628054785919e-04</FC2>
+      <FC2 pair1="1 1" pair2="139 1 14">-1.312092700560582e-05</FC2>
+      <FC2 pair1="1 1" pair2="139 2 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="139 3 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="143 1 11">1.363159663636982e-04</FC2>
+      <FC2 pair1="1 1" pair2="143 2 11">-8.627743061362908e-05</FC2>
+      <FC2 pair1="1 1" pair2="143 3 11">4.896698400228505e-05</FC2>
+      <FC2 pair1="1 1" pair2="144 1 11">-1.037323511770789e-03</FC2>
+      <FC2 pair1="1 1" pair2="144 2 11">-2.152617719383471e-03</FC2>
+      <FC2 pair1="1 1" pair2="144 3 11">-7.715828638961722e-04</FC2>
+      <FC2 pair1="1 1" pair2="145 1 14">2.956465175456195e-04</FC2>
+      <FC2 pair1="1 1" pair2="145 2 14">4.089412548826947e-04</FC2>
+      <FC2 pair1="1 1" pair2="145 3 14">-1.329529249110936e-04</FC2>
+      <FC2 pair1="1 1" pair2="146 1 14">3.495931694112042e-04</FC2>
+      <FC2 pair1="1 1" pair2="146 2 14">1.339556502842081e-04</FC2>
+      <FC2 pair1="1 1" pair2="146 3 14">-1.756683540104956e-04</FC2>
+      <FC2 pair1="1 1" pair2="147 1 14">-2.967719300567214e-05</FC2>
+      <FC2 pair1="1 1" pair2="147 2 14">9.486760264565422e-05</FC2>
+      <FC2 pair1="1 1" pair2="147 3 14">7.677096787547101e-05</FC2>
+      <FC2 pair1="1 1" pair2="152 1 11">-3.148248653774956e-05</FC2>
+      <FC2 pair1="1 1" pair2="152 2 11">-2.346906053371988e-05</FC2>
+      <FC2 pair1="1 1" pair2="152 3 11">-2.304318584635557e-05</FC2>
+      <FC2 pair1="1 1" pair2="174 1 2">-9.241279103381902e-05</FC2>
+      <FC2 pair1="1 1" pair2="174 2 2">-6.073176164975385e-05</FC2>
+      <FC2 pair1="1 1" pair2="174 3 2">9.981415372182659e-05</FC2>
+      <FC2 pair1="1 1" pair2="175 1 2">1.363159663636982e-04</FC2>
+      <FC2 pair1="1 1" pair2="175 2 2">8.627743061362908e-05</FC2>
+      <FC2 pair1="1 1" pair2="175 3 2">-4.896698400228505e-05</FC2>
+      <FC2 pair1="1 1" pair2="176 1 2">-3.148248653774956e-05</FC2>
+      <FC2 pair1="1 1" pair2="176 2 2">2.346906053371989e-05</FC2>
+      <FC2 pair1="1 1" pair2="176 3 2">2.304318584635557e-05</FC2>
+      <FC2 pair1="1 1" pair2="177 1 5">2.956465175456195e-04</FC2>
+      <FC2 pair1="1 1" pair2="177 2 5">-4.089412548826947e-04</FC2>
+      <FC2 pair1="1 1" pair2="177 3 5">1.329529249110936e-04</FC2>
+      <FC2 pair1="1 1" pair2="182 1 2">-1.475426680320773e-04</FC2>
+      <FC2 pair1="1 1" pair2="182 2 2">9.077363133453172e-05</FC2>
+      <FC2 pair1="1 1" pair2="182 3 2">-4.271542909940191e-05</FC2>
+      <FC2 pair1="1 1" pair2="183 1 2">-3.687681169813662e-04</FC2>
+      <FC2 pair1="1 1" pair2="183 2 2">-1.372103927214783e-03</FC2>
+      <FC2 pair1="1 1" pair2="183 3 2">4.275200584175803e-04</FC2>
+      <FC2 pair1="1 1" pair2="184 1 2">-1.037323511770789e-03</FC2>
+      <FC2 pair1="1 1" pair2="184 2 2">2.152617719383471e-03</FC2>
+      <FC2 pair1="1 1" pair2="184 3 2">7.715828638961722e-04</FC2>
+      <FC2 pair1="1 1" pair2="185 1 5">-1.394715095479488e-03</FC2>
+      <FC2 pair1="1 1" pair2="185 2 5">5.105213144275491e-03</FC2>
+      <FC2 pair1="1 1" pair2="185 3 5">-1.038997161681200e-03</FC2>
+      <FC2 pair1="1 1" pair2="186 1 5">3.495931694112042e-04</FC2>
+      <FC2 pair1="1 1" pair2="186 2 5">-1.339556502842081e-04</FC2>
+      <FC2 pair1="1 1" pair2="186 3 5">1.756683540104956e-04</FC2>
+      <FC2 pair1="1 1" pair2="190 1 2">-1.475426680320773e-04</FC2>
+      <FC2 pair1="1 1" pair2="190 2 2">-9.077363133453172e-05</FC2>
+      <FC2 pair1="1 1" pair2="190 3 2">4.271542909940191e-05</FC2>
+      <FC2 pair1="1 1" pair2="191 1 2">7.447773453874122e-03</FC2>
+      <FC2 pair1="1 1" pair2="191 2 2">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="191 3 2">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 1" pair2="192 1 2">-8.105723813187088e-02</FC2>
+      <FC2 pair1="1 1" pair2="192 2 2">-3.186493059383683e-02</FC2>
+      <FC2 pair1="1 1" pair2="192 3 2">-6.144955129872687e-02</FC2>
+      <FC2 pair1="1 2" pair2="1 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="1 2 1">4.406918547204235e-01</FC2>
+      <FC2 pair1="1 2" pair2="1 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="2 1 1">-1.954170004245495e-02</FC2>
+      <FC2 pair1="1 2" pair2="2 2 1">-9.592717735168073e-03</FC2>
+      <FC2 pair1="1 2" pair2="2 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="3 1 1">1.946732122337890e-03</FC2>
+      <FC2 pair1="1 2" pair2="3 2 1">-2.118306265140821e-03</FC2>
+      <FC2 pair1="1 2" pair2="3 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="7 1 12">2.019937940016154e-03</FC2>
+      <FC2 pair1="1 2" pair2="7 2 12">-2.118306265140821e-03</FC2>
+      <FC2 pair1="1 2" pair2="7 3 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="8 1 12">2.459892790293723e-02</FC2>
+      <FC2 pair1="1 2" pair2="8 2 12">-9.592717735168073e-03</FC2>
+      <FC2 pair1="1 2" pair2="8 3 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="9 1 1">-2.207031397269609e-02</FC2>
+      <FC2 pair1="1 2" pair2="9 2 1">-5.213029935263990e-03</FC2>
+      <FC2 pair1="1 2" pair2="9 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="10 1 1">1.954170004245495e-02</FC2>
+      <FC2 pair1="1 2" pair2="10 2 1">-9.592717735168071e-03</FC2>
+      <FC2 pair1="1 2" pair2="10 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="11 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="11 2 1">2.827102536922774e-04</FC2>
+      <FC2 pair1="1 2" pair2="11 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="16 1 12">-1.712367282868986e-03</FC2>
+      <FC2 pair1="1 2" pair2="16 2 12">-2.683196881455475e-03</FC2>
+      <FC2 pair1="1 2" pair2="16 3 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="17 1 1">-3.660290883913204e-05</FC2>
+      <FC2 pair1="1 2" pair2="17 2 1">1.316930777288985e-03</FC2>
+      <FC2 pair1="1 2" pair2="17 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="18 1 1">1.712367282868986e-03</FC2>
+      <FC2 pair1="1 2" pair2="18 2 1">-2.683196881455475e-03</FC2>
+      <FC2 pair1="1 2" pair2="18 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="19 1 1">-1.946732122337890e-03</FC2>
+      <FC2 pair1="1 2" pair2="19 2 1">-2.118306265140820e-03</FC2>
+      <FC2 pair1="1 2" pair2="19 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="49 1 6">3.660290883913174e-05</FC2>
+      <FC2 pair1="1 2" pair2="49 2 6">1.316930777288985e-03</FC2>
+      <FC2 pair1="1 2" pair2="49 3 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="55 1 3">-2.019937940016154e-03</FC2>
+      <FC2 pair1="1 2" pair2="55 2 3">-2.118306265140820e-03</FC2>
+      <FC2 pair1="1 2" pair2="55 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="56 1 3">1.712367282868986e-03</FC2>
+      <FC2 pair1="1 2" pair2="56 2 3">-2.683196881455475e-03</FC2>
+      <FC2 pair1="1 2" pair2="56 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="57 1 6">2.207031397269609e-02</FC2>
+      <FC2 pair1="1 2" pair2="57 2 6">-5.213029935263990e-03</FC2>
+      <FC2 pair1="1 2" pair2="57 3 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="58 1 6">-1.712367282868986e-03</FC2>
+      <FC2 pair1="1 2" pair2="58 2 6">-2.683196881455475e-03</FC2>
+      <FC2 pair1="1 2" pair2="58 3 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="63 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="63 2 3">2.827102536922774e-04</FC2>
+      <FC2 pair1="1 2" pair2="63 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="64 1 3">-2.459892790293723e-02</FC2>
+      <FC2 pair1="1 2" pair2="64 2 3">-9.592717735168071e-03</FC2>
+      <FC2 pair1="1 2" pair2="64 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="65 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="65 2 1">-9.945446438793133e-02</FC2>
+      <FC2 pair1="1 2" pair2="65 3 1">-7.095582996780335e-02</FC2>
+      <FC2 pair1="1 2" pair2="66 1 1">1.955356141874052e-03</FC2>
+      <FC2 pair1="1 2" pair2="66 2 1">-4.777308903686740e-04</FC2>
+      <FC2 pair1="1 2" pair2="66 3 1">6.923023949839119e-04</FC2>
+      <FC2 pair1="1 2" pair2="67 1 1">2.451134724043109e-05</FC2>
+      <FC2 pair1="1 2" pair2="67 2 1">-7.270445404582168e-05</FC2>
+      <FC2 pair1="1 2" pair2="67 3 1">7.093171807161122e-05</FC2>
+      <FC2 pair1="1 2" pair2="70 1 12">-5.864718823633146e-05</FC2>
+      <FC2 pair1="1 2" pair2="70 2 12">-9.968856017674782e-06</FC2>
+      <FC2 pair1="1 2" pair2="70 3 12">3.101974941747135e-05</FC2>
+      <FC2 pair1="1 2" pair2="71 1 12">-1.766627082233621e-03</FC2>
+      <FC2 pair1="1 2" pair2="71 2 12">-1.487953359785596e-03</FC2>
+      <FC2 pair1="1 2" pair2="71 3 12">-6.441183275337603e-04</FC2>
+      <FC2 pair1="1 2" pair2="72 1 12">3.186493059383685e-02</FC2>
+      <FC2 pair1="1 2" pair2="72 2 12">-4.426278561975000e-02</FC2>
+      <FC2 pair1="1 2" pair2="72 3 12">3.547791498390167e-02</FC2>
+      <FC2 pair1="1 2" pair2="73 1 1">-5.105213144275491e-03</FC2>
+      <FC2 pair1="1 2" pair2="73 2 1">4.500277270756252e-03</FC2>
+      <FC2 pair1="1 2" pair2="73 3 1">-5.998652909838982e-04</FC2>
+      <FC2 pair1="1 2" pair2="74 1 1">-1.955356141874052e-03</FC2>
+      <FC2 pair1="1 2" pair2="74 2 1">-4.777308903686741e-04</FC2>
+      <FC2 pair1="1 2" pair2="74 3 1">6.923023949839119e-04</FC2>
+      <FC2 pair1="1 2" pair2="75 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="75 2 1">1.861282641534662e-04</FC2>
+      <FC2 pair1="1 2" pair2="75 3 1">-5.654220279024674e-05</FC2>
+      <FC2 pair1="1 2" pair2="79 1 12">-8.627743061362908e-05</FC2>
+      <FC2 pair1="1 2" pair2="79 2 12">3.669137078416219e-05</FC2>
+      <FC2 pair1="1 2" pair2="79 3 12">2.827110139512337e-05</FC2>
+      <FC2 pair1="1 2" pair2="80 1 12">9.861132900649333e-04</FC2>
+      <FC2 pair1="1 2" pair2="80 2 12">-8.193979649961736e-04</FC2>
+      <FC2 pair1="1 2" pair2="80 3 12">-4.818406745015162e-05</FC2>
+      <FC2 pair1="1 2" pair2="81 1 1">1.651017642606825e-04</FC2>
+      <FC2 pair1="1 2" pair2="81 2 1">3.615149507087813e-05</FC2>
+      <FC2 pair1="1 2" pair2="81 3 1">1.260839359651481e-04</FC2>
+      <FC2 pair1="1 2" pair2="82 1 1">3.777951409062203e-04</FC2>
+      <FC2 pair1="1 2" pair2="82 2 1">-1.779515679470661e-05</FC2>
+      <FC2 pair1="1 2" pair2="82 3 1">5.209864249787795e-05</FC2>
+      <FC2 pair1="1 2" pair2="83 1 1">-2.451134724043108e-05</FC2>
+      <FC2 pair1="1 2" pair2="83 2 1">-7.270445404582169e-05</FC2>
+      <FC2 pair1="1 2" pair2="83 3 1">7.093171807161122e-05</FC2>
+      <FC2 pair1="1 2" pair2="88 1 12">9.590988935236543e-05</FC2>
+      <FC2 pair1="1 2" pair2="88 2 12">-7.089916051374425e-05</FC2>
+      <FC2 pair1="1 2" pair2="88 3 12">-1.019514674890826e-04</FC2>
+      <FC2 pair1="1 2" pair2="110 1 3">5.864718823633146e-05</FC2>
+      <FC2 pair1="1 2" pair2="110 2 3">-9.968856017674794e-06</FC2>
+      <FC2 pair1="1 2" pair2="110 3 3">3.101974941747135e-05</FC2>
+      <FC2 pair1="1 2" pair2="111 1 3">8.627743061362908e-05</FC2>
+      <FC2 pair1="1 2" pair2="111 2 3">3.669137078416219e-05</FC2>
+      <FC2 pair1="1 2" pair2="111 3 3">2.827110139512337e-05</FC2>
+      <FC2 pair1="1 2" pair2="112 1 3">-9.590988935236541e-05</FC2>
+      <FC2 pair1="1 2" pair2="112 2 3">-7.089916051374426e-05</FC2>
+      <FC2 pair1="1 2" pair2="112 3 3">-1.019514674890826e-04</FC2>
+      <FC2 pair1="1 2" pair2="113 1 6">-1.651017642606825e-04</FC2>
+      <FC2 pair1="1 2" pair2="113 2 6">3.615149507087813e-05</FC2>
+      <FC2 pair1="1 2" pair2="113 3 6">1.260839359651481e-04</FC2>
+      <FC2 pair1="1 2" pair2="118 1 3">-1.530658592874805e-04</FC2>
+      <FC2 pair1="1 2" pair2="118 2 3">4.793406806485749e-04</FC2>
+      <FC2 pair1="1 2" pair2="118 3 3">-1.781825784630261e-04</FC2>
+      <FC2 pair1="1 2" pair2="119 1 3">1.766627082233621e-03</FC2>
+      <FC2 pair1="1 2" pair2="119 2 3">-1.487953359785596e-03</FC2>
+      <FC2 pair1="1 2" pair2="119 3 3">-6.441183275337604e-04</FC2>
+      <FC2 pair1="1 2" pair2="120 1 3">-9.861132900649333e-04</FC2>
+      <FC2 pair1="1 2" pair2="120 2 3">-8.193979649961734e-04</FC2>
+      <FC2 pair1="1 2" pair2="120 3 3">-4.818406745015158e-05</FC2>
+      <FC2 pair1="1 2" pair2="121 1 6">5.105213144275491e-03</FC2>
+      <FC2 pair1="1 2" pair2="121 2 6">4.500277270756252e-03</FC2>
+      <FC2 pair1="1 2" pair2="121 3 6">-5.998652909838982e-04</FC2>
+      <FC2 pair1="1 2" pair2="122 1 6">-3.777951409062203e-04</FC2>
+      <FC2 pair1="1 2" pair2="122 2 6">-1.779515679470661e-05</FC2>
+      <FC2 pair1="1 2" pair2="122 3 6">5.209864249787795e-05</FC2>
+      <FC2 pair1="1 2" pair2="126 1 3">1.530658592874805e-04</FC2>
+      <FC2 pair1="1 2" pair2="126 2 3">4.793406806485749e-04</FC2>
+      <FC2 pair1="1 2" pair2="126 3 3">-1.781825784630261e-04</FC2>
+      <FC2 pair1="1 2" pair2="127 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="127 2 3">-4.342211278597359e-03</FC2>
+      <FC2 pair1="1 2" pair2="127 3 3">1.199730581967796e-03</FC2>
+      <FC2 pair1="1 2" pair2="128 1 3">-3.186493059383683e-02</FC2>
+      <FC2 pair1="1 2" pair2="128 2 3">-4.426278561975001e-02</FC2>
+      <FC2 pair1="1 2" pair2="128 3 3">3.547791498390167e-02</FC2>
+      <FC2 pair1="1 2" pair2="129 1 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="129 2 14">-9.945446438793133e-02</FC2>
+      <FC2 pair1="1 2" pair2="129 3 14">7.095582996780335e-02</FC2>
+      <FC2 pair1="1 2" pair2="130 1 14">1.955356141874052e-03</FC2>
+      <FC2 pair1="1 2" pair2="130 2 14">-4.777308903686740e-04</FC2>
+      <FC2 pair1="1 2" pair2="130 3 14">-6.923023949839119e-04</FC2>
+      <FC2 pair1="1 2" pair2="131 1 14">2.451134724043109e-05</FC2>
+      <FC2 pair1="1 2" pair2="131 2 14">-7.270445404582168e-05</FC2>
+      <FC2 pair1="1 2" pair2="131 3 14">-7.093171807161122e-05</FC2>
+      <FC2 pair1="1 2" pair2="134 1 11">-5.864718823633146e-05</FC2>
+      <FC2 pair1="1 2" pair2="134 2 11">-9.968856017674782e-06</FC2>
+      <FC2 pair1="1 2" pair2="134 3 11">-3.101974941747135e-05</FC2>
+      <FC2 pair1="1 2" pair2="135 1 11">-1.766627082233621e-03</FC2>
+      <FC2 pair1="1 2" pair2="135 2 11">-1.487953359785596e-03</FC2>
+      <FC2 pair1="1 2" pair2="135 3 11">6.441183275337603e-04</FC2>
+      <FC2 pair1="1 2" pair2="136 1 11">3.186493059383685e-02</FC2>
+      <FC2 pair1="1 2" pair2="136 2 11">-4.426278561975000e-02</FC2>
+      <FC2 pair1="1 2" pair2="136 3 11">-3.547791498390167e-02</FC2>
+      <FC2 pair1="1 2" pair2="137 1 14">-5.105213144275491e-03</FC2>
+      <FC2 pair1="1 2" pair2="137 2 14">4.500277270756252e-03</FC2>
+      <FC2 pair1="1 2" pair2="137 3 14">5.998652909838982e-04</FC2>
+      <FC2 pair1="1 2" pair2="138 1 14">-1.955356141874052e-03</FC2>
+      <FC2 pair1="1 2" pair2="138 2 14">-4.777308903686741e-04</FC2>
+      <FC2 pair1="1 2" pair2="138 3 14">-6.923023949839119e-04</FC2>
+      <FC2 pair1="1 2" pair2="139 1 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="139 2 14">1.861282641534662e-04</FC2>
+      <FC2 pair1="1 2" pair2="139 3 14">5.654220279024674e-05</FC2>
+      <FC2 pair1="1 2" pair2="143 1 11">-8.627743061362908e-05</FC2>
+      <FC2 pair1="1 2" pair2="143 2 11">3.669137078416219e-05</FC2>
+      <FC2 pair1="1 2" pair2="143 3 11">-2.827110139512337e-05</FC2>
+      <FC2 pair1="1 2" pair2="144 1 11">9.861132900649333e-04</FC2>
+      <FC2 pair1="1 2" pair2="144 2 11">-8.193979649961736e-04</FC2>
+      <FC2 pair1="1 2" pair2="144 3 11">4.818406745015162e-05</FC2>
+      <FC2 pair1="1 2" pair2="145 1 14">1.651017642606825e-04</FC2>
+      <FC2 pair1="1 2" pair2="145 2 14">3.615149507087813e-05</FC2>
+      <FC2 pair1="1 2" pair2="145 3 14">-1.260839359651481e-04</FC2>
+      <FC2 pair1="1 2" pair2="146 1 14">3.777951409062203e-04</FC2>
+      <FC2 pair1="1 2" pair2="146 2 14">-1.779515679470661e-05</FC2>
+      <FC2 pair1="1 2" pair2="146 3 14">-5.209864249787795e-05</FC2>
+      <FC2 pair1="1 2" pair2="147 1 14">-2.451134724043108e-05</FC2>
+      <FC2 pair1="1 2" pair2="147 2 14">-7.270445404582169e-05</FC2>
+      <FC2 pair1="1 2" pair2="147 3 14">-7.093171807161122e-05</FC2>
+      <FC2 pair1="1 2" pair2="152 1 11">9.590988935236543e-05</FC2>
+      <FC2 pair1="1 2" pair2="152 2 11">-7.089916051374425e-05</FC2>
+      <FC2 pair1="1 2" pair2="152 3 11">1.019514674890826e-04</FC2>
+      <FC2 pair1="1 2" pair2="174 1 2">5.864718823633146e-05</FC2>
+      <FC2 pair1="1 2" pair2="174 2 2">-9.968856017674794e-06</FC2>
+      <FC2 pair1="1 2" pair2="174 3 2">-3.101974941747135e-05</FC2>
+      <FC2 pair1="1 2" pair2="175 1 2">8.627743061362908e-05</FC2>
+      <FC2 pair1="1 2" pair2="175 2 2">3.669137078416219e-05</FC2>
+      <FC2 pair1="1 2" pair2="175 3 2">-2.827110139512337e-05</FC2>
+      <FC2 pair1="1 2" pair2="176 1 2">-9.590988935236541e-05</FC2>
+      <FC2 pair1="1 2" pair2="176 2 2">-7.089916051374426e-05</FC2>
+      <FC2 pair1="1 2" pair2="176 3 2">1.019514674890826e-04</FC2>
+      <FC2 pair1="1 2" pair2="177 1 5">-1.651017642606825e-04</FC2>
+      <FC2 pair1="1 2" pair2="177 2 5">3.615149507087813e-05</FC2>
+      <FC2 pair1="1 2" pair2="177 3 5">-1.260839359651481e-04</FC2>
+      <FC2 pair1="1 2" pair2="182 1 2">-1.530658592874805e-04</FC2>
+      <FC2 pair1="1 2" pair2="182 2 2">4.793406806485749e-04</FC2>
+      <FC2 pair1="1 2" pair2="182 3 2">1.781825784630261e-04</FC2>
+      <FC2 pair1="1 2" pair2="183 1 2">1.766627082233621e-03</FC2>
+      <FC2 pair1="1 2" pair2="183 2 2">-1.487953359785596e-03</FC2>
+      <FC2 pair1="1 2" pair2="183 3 2">6.441183275337604e-04</FC2>
+      <FC2 pair1="1 2" pair2="184 1 2">-9.861132900649333e-04</FC2>
+      <FC2 pair1="1 2" pair2="184 2 2">-8.193979649961734e-04</FC2>
+      <FC2 pair1="1 2" pair2="184 3 2">4.818406745015158e-05</FC2>
+      <FC2 pair1="1 2" pair2="185 1 5">5.105213144275491e-03</FC2>
+      <FC2 pair1="1 2" pair2="185 2 5">4.500277270756252e-03</FC2>
+      <FC2 pair1="1 2" pair2="185 3 5">5.998652909838982e-04</FC2>
+      <FC2 pair1="1 2" pair2="186 1 5">-3.777951409062203e-04</FC2>
+      <FC2 pair1="1 2" pair2="186 2 5">-1.779515679470661e-05</FC2>
+      <FC2 pair1="1 2" pair2="186 3 5">-5.209864249787795e-05</FC2>
+      <FC2 pair1="1 2" pair2="190 1 2">1.530658592874805e-04</FC2>
+      <FC2 pair1="1 2" pair2="190 2 2">4.793406806485749e-04</FC2>
+      <FC2 pair1="1 2" pair2="190 3 2">1.781825784630261e-04</FC2>
+      <FC2 pair1="1 2" pair2="191 1 2">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 2" pair2="191 2 2">-4.342211278597359e-03</FC2>
+      <FC2 pair1="1 2" pair2="191 3 2">-1.199730581967796e-03</FC2>
+      <FC2 pair1="1 2" pair2="192 1 2">-3.186493059383683e-02</FC2>
+      <FC2 pair1="1 2" pair2="192 2 2">-4.426278561975001e-02</FC2>
+      <FC2 pair1="1 2" pair2="192 3 2">-3.547791498390167e-02</FC2>
+      <FC2 pair1="1 3" pair2="1 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="1 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="1 3 1">5.195431328386679e-01</FC2>
+      <FC2 pair1="1 3" pair2="2 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="2 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="2 3 1">9.370907633941388e-03</FC2>
+      <FC2 pair1="1 3" pair2="3 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="3 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="3 3 1">-9.330163602905182e-04</FC2>
+      <FC2 pair1="1 3" pair2="7 1 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="7 2 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="7 3 12">-9.330163602905182e-04</FC2>
+      <FC2 pair1="1 3" pair2="8 1 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="8 2 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="8 3 12">9.370907633941388e-03</FC2>
+      <FC2 pair1="1 3" pair2="9 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="9 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="9 3 1">9.370907633941388e-03</FC2>
+      <FC2 pair1="1 3" pair2="10 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="10 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="10 3 1">9.370907633941388e-03</FC2>
+      <FC2 pair1="1 3" pair2="11 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="11 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="11 3 1">-3.844592349152229e-04</FC2>
+      <FC2 pair1="1 3" pair2="16 1 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="16 2 12">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="16 3 12">-3.844592349152229e-04</FC2>
+      <FC2 pair1="1 3" pair2="17 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="17 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="17 3 1">-9.330163602905182e-04</FC2>
+      <FC2 pair1="1 3" pair2="18 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="18 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="18 3 1">-3.844592349152229e-04</FC2>
+      <FC2 pair1="1 3" pair2="19 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="19 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="19 3 1">-9.330163602905182e-04</FC2>
+      <FC2 pair1="1 3" pair2="49 1 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="49 2 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="49 3 6">-9.330163602905182e-04</FC2>
+      <FC2 pair1="1 3" pair2="55 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="55 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="55 3 3">-9.330163602905182e-04</FC2>
+      <FC2 pair1="1 3" pair2="56 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="56 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="56 3 3">-3.844592349152229e-04</FC2>
+      <FC2 pair1="1 3" pair2="57 1 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="57 2 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="57 3 6">9.370907633941388e-03</FC2>
+      <FC2 pair1="1 3" pair2="58 1 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="58 2 6">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="58 3 6">-3.844592349152229e-04</FC2>
+      <FC2 pair1="1 3" pair2="63 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="63 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="63 3 3">-3.844592349152229e-04</FC2>
+      <FC2 pair1="1 3" pair2="64 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="64 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="64 3 3">9.370907633941388e-03</FC2>
+      <FC2 pair1="1 3" pair2="65 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="65 2 1">-7.037541034285112e-02</FC2>
+      <FC2 pair1="1 3" pair2="65 3 1">-8.840753712538603e-02</FC2>
+      <FC2 pair1="1 3" pair2="66 1 1">8.659681409010204e-04</FC2>
+      <FC2 pair1="1 3" pair2="66 2 1">-5.713516413094840e-04</FC2>
+      <FC2 pair1="1 3" pair2="66 3 1">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="67 1 1">-1.487510731264330e-05</FC2>
+      <FC2 pair1="1 3" pair2="67 2 1">3.083755785375131e-05</FC2>
+      <FC2 pair1="1 3" pair2="67 3 1">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="70 1 12">1.926855483569932e-05</FC2>
+      <FC2 pair1="1 3" pair2="70 2 12">-2.830099974364443e-05</FC2>
+      <FC2 pair1="1 3" pair2="70 3 12">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="71 1 12">-6.182096541743733e-05</FC2>
+      <FC2 pair1="1 3" pair2="71 2 12">1.035626229543008e-03</FC2>
+      <FC2 pair1="1 3" pair2="71 3 12">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="72 1 12">-6.094689315866320e-02</FC2>
+      <FC2 pair1="1 3" pair2="72 2 12">3.518770517142556e-02</FC2>
+      <FC2 pair1="1 3" pair2="72 3 12">-8.840753712538603e-02</FC2>
+      <FC2 pair1="1 3" pair2="73 1 1">-2.828304843845832e-03</FC2>
+      <FC2 pair1="1 3" pair2="73 2 1">-1.632922562944714e-03</FC2>
+      <FC2 pair1="1 3" pair2="73 3 1">-4.086279247255588e-03</FC2>
+      <FC2 pair1="1 3" pair2="74 1 1">-8.659681409010204e-04</FC2>
+      <FC2 pair1="1 3" pair2="74 2 1">-5.713516413094839e-04</FC2>
+      <FC2 pair1="1 3" pair2="74 3 1">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="75 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="75 2 1">8.271318080156155e-05</FC2>
+      <FC2 pair1="1 3" pair2="75 3 1">-1.004073070591967e-04</FC2>
+      <FC2 pair1="1 3" pair2="79 1 12">7.163171580196762e-05</FC2>
+      <FC2 pair1="1 3" pair2="79 2 12">-4.135659040078078e-05</FC2>
+      <FC2 pair1="1 3" pair2="79 3 12">-1.004073070591967e-04</FC2>
+      <FC2 pair1="1 3" pair2="80 1 12">-9.277891063184579e-04</FC2>
+      <FC2 pair1="1 3" pair2="80 2 12">-4.642745882335240e-04</FC2>
+      <FC2 pair1="1 3" pair2="80 3 12">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="81 1 1">-3.649446131471524e-04</FC2>
+      <FC2 pair1="1 3" pair2="81 2 1">2.768787429631879e-06</FC2>
+      <FC2 pair1="1 3" pair2="81 3 1">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="82 1 1">-1.800744663218360e-04</FC2>
+      <FC2 pair1="1 3" pair2="82 2 1">-3.174356996745344e-04</FC2>
+      <FC2 pair1="1 3" pair2="82 3 1">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="83 1 1">1.487510731264330e-05</FC2>
+      <FC2 pair1="1 3" pair2="83 2 1">3.083755785375131e-05</FC2>
+      <FC2 pair1="1 3" pair2="83 3 1">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="88 1 12">3.414366214834262e-05</FC2>
+      <FC2 pair1="1 3" pair2="88 2 12">-2.536558110106885e-06</FC2>
+      <FC2 pair1="1 3" pair2="88 3 12">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="110 1 3">-1.926855483569932e-05</FC2>
+      <FC2 pair1="1 3" pair2="110 2 3">-2.830099974364443e-05</FC2>
+      <FC2 pair1="1 3" pair2="110 3 3">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="111 1 3">-7.163171580196762e-05</FC2>
+      <FC2 pair1="1 3" pair2="111 2 3">-4.135659040078078e-05</FC2>
+      <FC2 pair1="1 3" pair2="111 3 3">-1.004073070591967e-04</FC2>
+      <FC2 pair1="1 3" pair2="112 1 3">-3.414366214834262e-05</FC2>
+      <FC2 pair1="1 3" pair2="112 2 3">-2.536558110106885e-06</FC2>
+      <FC2 pair1="1 3" pair2="112 3 3">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="113 1 6">3.649446131471524e-04</FC2>
+      <FC2 pair1="1 3" pair2="113 2 6">2.768787429631879e-06</FC2>
+      <FC2 pair1="1 3" pair2="113 3 6">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="118 1 3">1.848701468253164e-04</FC2>
+      <FC2 pair1="1 3" pair2="118 2 3">3.146669122449025e-04</FC2>
+      <FC2 pair1="1 3" pair2="118 3 3">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="119 1 3">6.182096541743733e-05</FC2>
+      <FC2 pair1="1 3" pair2="119 2 3">1.035626229543008e-03</FC2>
+      <FC2 pair1="1 3" pair2="119 3 3">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="120 1 3">9.277891063184579e-04</FC2>
+      <FC2 pair1="1 3" pair2="120 2 3">-4.642745882335239e-04</FC2>
+      <FC2 pair1="1 3" pair2="120 3 3">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="121 1 6">2.828304843845832e-03</FC2>
+      <FC2 pair1="1 3" pair2="121 2 6">-1.632922562944714e-03</FC2>
+      <FC2 pair1="1 3" pair2="121 3 6">-4.086279247255588e-03</FC2>
+      <FC2 pair1="1 3" pair2="122 1 6">1.800744663218360e-04</FC2>
+      <FC2 pair1="1 3" pair2="122 2 6">-3.174356996745344e-04</FC2>
+      <FC2 pair1="1 3" pair2="122 3 6">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="126 1 3">-1.848701468253164e-04</FC2>
+      <FC2 pair1="1 3" pair2="126 2 3">3.146669122449025e-04</FC2>
+      <FC2 pair1="1 3" pair2="126 3 3">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="127 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="127 2 3">3.265845125889427e-03</FC2>
+      <FC2 pair1="1 3" pair2="127 3 3">-4.086279247255588e-03</FC2>
+      <FC2 pair1="1 3" pair2="128 1 3">6.094689315866320e-02</FC2>
+      <FC2 pair1="1 3" pair2="128 2 3">3.518770517142556e-02</FC2>
+      <FC2 pair1="1 3" pair2="128 3 3">-8.840753712538603e-02</FC2>
+      <FC2 pair1="1 3" pair2="129 1 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="129 2 14">7.037541034285112e-02</FC2>
+      <FC2 pair1="1 3" pair2="129 3 14">-8.840753712538603e-02</FC2>
+      <FC2 pair1="1 3" pair2="130 1 14">-8.659681409010204e-04</FC2>
+      <FC2 pair1="1 3" pair2="130 2 14">5.713516413094840e-04</FC2>
+      <FC2 pair1="1 3" pair2="130 3 14">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="131 1 14">1.487510731264330e-05</FC2>
+      <FC2 pair1="1 3" pair2="131 2 14">-3.083755785375131e-05</FC2>
+      <FC2 pair1="1 3" pair2="131 3 14">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="134 1 11">-1.926855483569932e-05</FC2>
+      <FC2 pair1="1 3" pair2="134 2 11">2.830099974364443e-05</FC2>
+      <FC2 pair1="1 3" pair2="134 3 11">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="135 1 11">6.182096541743733e-05</FC2>
+      <FC2 pair1="1 3" pair2="135 2 11">-1.035626229543008e-03</FC2>
+      <FC2 pair1="1 3" pair2="135 3 11">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="136 1 11">6.094689315866320e-02</FC2>
+      <FC2 pair1="1 3" pair2="136 2 11">-3.518770517142556e-02</FC2>
+      <FC2 pair1="1 3" pair2="136 3 11">-8.840753712538603e-02</FC2>
+      <FC2 pair1="1 3" pair2="137 1 14">2.828304843845832e-03</FC2>
+      <FC2 pair1="1 3" pair2="137 2 14">1.632922562944714e-03</FC2>
+      <FC2 pair1="1 3" pair2="137 3 14">-4.086279247255588e-03</FC2>
+      <FC2 pair1="1 3" pair2="138 1 14">8.659681409010204e-04</FC2>
+      <FC2 pair1="1 3" pair2="138 2 14">5.713516413094839e-04</FC2>
+      <FC2 pair1="1 3" pair2="138 3 14">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="139 1 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="139 2 14">-8.271318080156155e-05</FC2>
+      <FC2 pair1="1 3" pair2="139 3 14">-1.004073070591967e-04</FC2>
+      <FC2 pair1="1 3" pair2="143 1 11">-7.163171580196762e-05</FC2>
+      <FC2 pair1="1 3" pair2="143 2 11">4.135659040078078e-05</FC2>
+      <FC2 pair1="1 3" pair2="143 3 11">-1.004073070591967e-04</FC2>
+      <FC2 pair1="1 3" pair2="144 1 11">9.277891063184579e-04</FC2>
+      <FC2 pair1="1 3" pair2="144 2 11">4.642745882335240e-04</FC2>
+      <FC2 pair1="1 3" pair2="144 3 11">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="145 1 14">3.649446131471524e-04</FC2>
+      <FC2 pair1="1 3" pair2="145 2 14">-2.768787429631879e-06</FC2>
+      <FC2 pair1="1 3" pair2="145 3 14">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="146 1 14">1.800744663218360e-04</FC2>
+      <FC2 pair1="1 3" pair2="146 2 14">3.174356996745344e-04</FC2>
+      <FC2 pair1="1 3" pair2="146 3 14">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="147 1 14">-1.487510731264330e-05</FC2>
+      <FC2 pair1="1 3" pair2="147 2 14">-3.083755785375131e-05</FC2>
+      <FC2 pair1="1 3" pair2="147 3 14">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="152 1 11">-3.414366214834262e-05</FC2>
+      <FC2 pair1="1 3" pair2="152 2 11">2.536558110106885e-06</FC2>
+      <FC2 pair1="1 3" pair2="152 3 11">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="174 1 2">1.926855483569932e-05</FC2>
+      <FC2 pair1="1 3" pair2="174 2 2">2.830099974364443e-05</FC2>
+      <FC2 pair1="1 3" pair2="174 3 2">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="175 1 2">7.163171580196762e-05</FC2>
+      <FC2 pair1="1 3" pair2="175 2 2">4.135659040078078e-05</FC2>
+      <FC2 pair1="1 3" pair2="175 3 2">-1.004073070591967e-04</FC2>
+      <FC2 pair1="1 3" pair2="176 1 2">3.414366214834262e-05</FC2>
+      <FC2 pair1="1 3" pair2="176 2 2">2.536558110106885e-06</FC2>
+      <FC2 pair1="1 3" pair2="176 3 2">-2.839312086801948e-05</FC2>
+      <FC2 pair1="1 3" pair2="177 1 5">-3.649446131471524e-04</FC2>
+      <FC2 pair1="1 3" pair2="177 2 5">-2.768787429631879e-06</FC2>
+      <FC2 pair1="1 3" pair2="177 3 5">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="182 1 2">-1.848701468253164e-04</FC2>
+      <FC2 pair1="1 3" pair2="182 2 2">-3.146669122449025e-04</FC2>
+      <FC2 pair1="1 3" pair2="182 3 2">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="183 1 2">-6.182096541743733e-05</FC2>
+      <FC2 pair1="1 3" pair2="183 2 2">-1.035626229543008e-03</FC2>
+      <FC2 pair1="1 3" pair2="183 3 2">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="184 1 2">-9.277891063184579e-04</FC2>
+      <FC2 pair1="1 3" pair2="184 2 2">4.642745882335239e-04</FC2>
+      <FC2 pair1="1 3" pair2="184 3 2">-1.071075128931395e-03</FC2>
+      <FC2 pair1="1 3" pair2="185 1 5">-2.828304843845832e-03</FC2>
+      <FC2 pair1="1 3" pair2="185 2 5">1.632922562944714e-03</FC2>
+      <FC2 pair1="1 3" pair2="185 3 5">-4.086279247255588e-03</FC2>
+      <FC2 pair1="1 3" pair2="186 1 5">-1.800744663218360e-04</FC2>
+      <FC2 pair1="1 3" pair2="186 2 5">3.174356996745344e-04</FC2>
+      <FC2 pair1="1 3" pair2="186 3 5">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="190 1 2">1.848701468253164e-04</FC2>
+      <FC2 pair1="1 3" pair2="190 2 2">-3.146669122449025e-04</FC2>
+      <FC2 pair1="1 3" pair2="190 3 2">7.460300039301195e-05</FC2>
+      <FC2 pair1="1 3" pair2="191 1 2">0.000000000000000e+00</FC2>
+      <FC2 pair1="1 3" pair2="191 2 2">-3.265845125889427e-03</FC2>
+      <FC2 pair1="1 3" pair2="191 3 2">-4.086279247255588e-03</FC2>
+      <FC2 pair1="1 3" pair2="192 1 2">-6.094689315866320e-02</FC2>
+      <FC2 pair1="1 3" pair2="192 2 2">-3.518770517142556e-02</FC2>
+      <FC2 pair1="1 3" pair2="192 3 2">-8.840753712538603e-02</FC2>
+      <FC2 pair1="2 1" pair2="1 1 1">-2.586555936368957e-02</FC2>
+      <FC2 pair1="2 1" pair2="1 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="1 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="2 1 1">-8.105723813187088e-02</FC2>
+      <FC2 pair1="2 1" pair2="2 2 1">3.186493059383685e-02</FC2>
+      <FC2 pair1="2 1" pair2="2 3 1">-6.094689315866320e-02</FC2>
+      <FC2 pair1="2 1" pair2="3 1 1">-3.687681169813662e-04</FC2>
+      <FC2 pair1="2 1" pair2="3 2 1">-1.766627082233621e-03</FC2>
+      <FC2 pair1="2 1" pair2="3 3 1">-6.182096541743733e-05</FC2>
+      <FC2 pair1="2 1" pair2="4 1 1">-9.241279103381902e-05</FC2>
+      <FC2 pair1="2 1" pair2="4 2 1">-5.864718823633146e-05</FC2>
+      <FC2 pair1="2 1" pair2="4 3 1">1.926855483569932e-05</FC2>
+      <FC2 pair1="2 1" pair2="7 1 12">-2.967719300567214e-05</FC2>
+      <FC2 pair1="2 1" pair2="7 2 12">2.451134724043109e-05</FC2>
+      <FC2 pair1="2 1" pair2="7 3 12">-1.487510731264330e-05</FC2>
+      <FC2 pair1="2 1" pair2="8 1 12">-1.378990586398289e-03</FC2>
+      <FC2 pair1="2 1" pair2="8 2 12">1.955356141874052e-03</FC2>
+      <FC2 pair1="2 1" pair2="8 3 12">8.659681409010204e-04</FC2>
+      <FC2 pair1="2 1" pair2="9 1 1">-1.394715095479488e-03</FC2>
+      <FC2 pair1="2 1" pair2="9 2 1">5.105213144275491e-03</FC2>
+      <FC2 pair1="2 1" pair2="9 3 1">2.828304843845832e-03</FC2>
+      <FC2 pair1="2 1" pair2="10 1 1">-8.105723813187088e-02</FC2>
+      <FC2 pair1="2 1" pair2="10 2 1">-3.186493059383683e-02</FC2>
+      <FC2 pair1="2 1" pair2="10 3 1">6.094689315866320e-02</FC2>
+      <FC2 pair1="2 1" pair2="11 1 1">7.447773453874122e-03</FC2>
+      <FC2 pair1="2 1" pair2="11 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="11 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="12 1 1">-1.475426680320773e-04</FC2>
+      <FC2 pair1="2 1" pair2="12 2 1">1.530658592874805e-04</FC2>
+      <FC2 pair1="2 1" pair2="12 3 1">-1.848701468253164e-04</FC2>
+      <FC2 pair1="2 1" pair2="16 1 12">3.495931694112042e-04</FC2>
+      <FC2 pair1="2 1" pair2="16 2 12">-3.777951409062203e-04</FC2>
+      <FC2 pair1="2 1" pair2="16 3 12">1.800744663218360e-04</FC2>
+      <FC2 pair1="2 1" pair2="17 1 1">2.956465175456195e-04</FC2>
+      <FC2 pair1="2 1" pair2="17 2 1">-1.651017642606825e-04</FC2>
+      <FC2 pair1="2 1" pair2="17 3 1">3.649446131471524e-04</FC2>
+      <FC2 pair1="2 1" pair2="18 1 1">-1.037323511770789e-03</FC2>
+      <FC2 pair1="2 1" pair2="18 2 1">-9.861132900649333e-04</FC2>
+      <FC2 pair1="2 1" pair2="18 3 1">9.277891063184579e-04</FC2>
+      <FC2 pair1="2 1" pair2="19 1 1">-3.687681169813662e-04</FC2>
+      <FC2 pair1="2 1" pair2="19 2 1">1.766627082233621e-03</FC2>
+      <FC2 pair1="2 1" pair2="19 3 1">6.182096541743733e-05</FC2>
+      <FC2 pair1="2 1" pair2="20 1 1">-1.475426680320773e-04</FC2>
+      <FC2 pair1="2 1" pair2="20 2 1">-1.530658592874805e-04</FC2>
+      <FC2 pair1="2 1" pair2="20 3 1">1.848701468253164e-04</FC2>
+      <FC2 pair1="2 1" pair2="26 1 1">-3.148248653774956e-05</FC2>
+      <FC2 pair1="2 1" pair2="26 2 1">-9.590988935236541e-05</FC2>
+      <FC2 pair1="2 1" pair2="26 3 1">-3.414366214834262e-05</FC2>
+      <FC2 pair1="2 1" pair2="27 1 1">1.363159663636982e-04</FC2>
+      <FC2 pair1="2 1" pair2="27 2 1">8.627743061362908e-05</FC2>
+      <FC2 pair1="2 1" pair2="27 3 1">-7.163171580196762e-05</FC2>
+      <FC2 pair1="2 1" pair2="28 1 1">-9.241279103381902e-05</FC2>
+      <FC2 pair1="2 1" pair2="28 2 1">5.864718823633146e-05</FC2>
+      <FC2 pair1="2 1" pair2="28 3 1">-1.926855483569932e-05</FC2>
+      <FC2 pair1="2 1" pair2="49 1 6">2.956465175456195e-04</FC2>
+      <FC2 pair1="2 1" pair2="49 2 6">1.651017642606825e-04</FC2>
+      <FC2 pair1="2 1" pair2="49 3 6">-3.649446131471524e-04</FC2>
+      <FC2 pair1="2 1" pair2="50 1 6">-3.148248653774956e-05</FC2>
+      <FC2 pair1="2 1" pair2="50 2 6">9.590988935236543e-05</FC2>
+      <FC2 pair1="2 1" pair2="50 3 6">3.414366214834262e-05</FC2>
+      <FC2 pair1="2 1" pair2="55 1 3">-2.967719300567214e-05</FC2>
+      <FC2 pair1="2 1" pair2="55 2 3">-2.451134724043108e-05</FC2>
+      <FC2 pair1="2 1" pair2="55 3 3">1.487510731264330e-05</FC2>
+      <FC2 pair1="2 1" pair2="56 1 3">3.495931694112042e-04</FC2>
+      <FC2 pair1="2 1" pair2="56 2 3">3.777951409062203e-04</FC2>
+      <FC2 pair1="2 1" pair2="56 3 3">-1.800744663218360e-04</FC2>
+      <FC2 pair1="2 1" pair2="57 1 6">-1.394715095479488e-03</FC2>
+      <FC2 pair1="2 1" pair2="57 2 6">-5.105213144275491e-03</FC2>
+      <FC2 pair1="2 1" pair2="57 3 6">-2.828304843845832e-03</FC2>
+      <FC2 pair1="2 1" pair2="58 1 6">-1.037323511770789e-03</FC2>
+      <FC2 pair1="2 1" pair2="58 2 6">9.861132900649333e-04</FC2>
+      <FC2 pair1="2 1" pair2="58 3 6">-9.277891063184579e-04</FC2>
+      <FC2 pair1="2 1" pair2="59 1 6">1.363159663636982e-04</FC2>
+      <FC2 pair1="2 1" pair2="59 2 6">-8.627743061362908e-05</FC2>
+      <FC2 pair1="2 1" pair2="59 3 6">7.163171580196762e-05</FC2>
+      <FC2 pair1="2 1" pair2="63 1 3">-1.312092700560582e-05</FC2>
+      <FC2 pair1="2 1" pair2="63 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="63 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="64 1 3">-1.378990586398289e-03</FC2>
+      <FC2 pair1="2 1" pair2="64 2 3">-1.955356141874052e-03</FC2>
+      <FC2 pair1="2 1" pair2="64 3 3">-8.659681409010204e-04</FC2>
+      <FC2 pair1="2 1" pair2="65 1 1">2.167268484280198e-01</FC2>
+      <FC2 pair1="2 1" pair2="65 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="65 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="66 1 1">-2.354303541173071e-03</FC2>
+      <FC2 pair1="2 1" pair2="66 2 1">6.945635175530801e-03</FC2>
+      <FC2 pair1="2 1" pair2="66 3 1">-6.872291215217440e-04</FC2>
+      <FC2 pair1="2 1" pair2="67 1 1">-3.672859971107007e-05</FC2>
+      <FC2 pair1="2 1" pair2="67 2 1">1.021505832834615e-04</FC2>
+      <FC2 pair1="2 1" pair2="67 3 1">-1.901603441702463e-04</FC2>
+      <FC2 pair1="2 1" pair2="71 1 12">-3.672859971107007e-05</FC2>
+      <FC2 pair1="2 1" pair2="71 2 12">-4.043138526392197e-05</FC2>
+      <FC2 pair1="2 1" pair2="71 3 12">-1.348886255698366e-04</FC2>
+      <FC2 pair1="2 1" pair2="72 1 12">-2.354303541173071e-03</FC2>
+      <FC2 pair1="2 1" pair2="72 2 12">7.806250862317586e-03</FC2>
+      <FC2 pair1="2 1" pair2="72 3 12">9.860451261462829e-04</FC2>
+      <FC2 pair1="2 1" pair2="73 1 1">-1.512981160368274e-02</FC2>
+      <FC2 pair1="2 1" pair2="73 2 1">-4.303078433933926e-04</FC2>
+      <FC2 pair1="2 1" pair2="73 3 1">1.673274247668027e-03</FC2>
+      <FC2 pair1="2 1" pair2="74 1 1">-2.354303541173071e-03</FC2>
+      <FC2 pair1="2 1" pair2="74 2 1">-6.945635175530801e-03</FC2>
+      <FC2 pair1="2 1" pair2="74 3 1">6.872291215217440e-04</FC2>
+      <FC2 pair1="2 1" pair2="75 1 1">1.700053813727557e-04</FC2>
+      <FC2 pair1="2 1" pair2="75 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="75 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="80 1 12">3.246421813945527e-04</FC2>
+      <FC2 pair1="2 1" pair2="80 2 12">-8.927959811920683e-05</FC2>
+      <FC2 pair1="2 1" pair2="80 3 12">-2.678694396380016e-04</FC2>
+      <FC2 pair1="2 1" pair2="81 1 1">-9.017899309719351e-05</FC2>
+      <FC2 pair1="2 1" pair2="81 2 1">7.129098427369174e-05</FC2>
+      <FC2 pair1="2 1" pair2="81 3 1">5.527171860040971e-05</FC2>
+      <FC2 pair1="2 1" pair2="82 1 1">3.246421813945527e-04</FC2>
+      <FC2 pair1="2 1" pair2="82 2 1">8.927959811920683e-05</FC2>
+      <FC2 pair1="2 1" pair2="82 3 1">2.602621513829312e-05</FC2>
+      <FC2 pair1="2 1" pair2="83 1 1">-3.672859971107007e-05</FC2>
+      <FC2 pair1="2 1" pair2="83 2 1">-1.021505832834615e-04</FC2>
+      <FC2 pair1="2 1" pair2="83 3 1">1.901603441702463e-04</FC2>
+      <FC2 pair1="2 1" pair2="113 1 6">-9.017899309719351e-05</FC2>
+      <FC2 pair1="2 1" pair2="113 2 6">-7.129098427369174e-05</FC2>
+      <FC2 pair1="2 1" pair2="113 3 6">-5.527171860040971e-05</FC2>
+      <FC2 pair1="2 1" pair2="119 1 3">-3.672859971107007e-05</FC2>
+      <FC2 pair1="2 1" pair2="119 2 3">4.043138526392197e-05</FC2>
+      <FC2 pair1="2 1" pair2="119 3 3">1.348886255698366e-04</FC2>
+      <FC2 pair1="2 1" pair2="120 1 3">3.246421813945527e-04</FC2>
+      <FC2 pair1="2 1" pair2="120 2 3">8.927959811920683e-05</FC2>
+      <FC2 pair1="2 1" pair2="120 3 3">2.678694396380016e-04</FC2>
+      <FC2 pair1="2 1" pair2="121 1 6">-1.512981160368274e-02</FC2>
+      <FC2 pair1="2 1" pair2="121 2 6">4.303078433933926e-04</FC2>
+      <FC2 pair1="2 1" pair2="121 3 6">-1.673274247668027e-03</FC2>
+      <FC2 pair1="2 1" pair2="122 1 6">3.246421813945527e-04</FC2>
+      <FC2 pair1="2 1" pair2="122 2 6">-8.927959811920683e-05</FC2>
+      <FC2 pair1="2 1" pair2="122 3 6">-2.602621513829312e-05</FC2>
+      <FC2 pair1="2 1" pair2="127 1 3">1.700053813727557e-04</FC2>
+      <FC2 pair1="2 1" pair2="127 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="127 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="128 1 3">-2.354303541173071e-03</FC2>
+      <FC2 pair1="2 1" pair2="128 2 3">-7.806250862317585e-03</FC2>
+      <FC2 pair1="2 1" pair2="128 3 3">-9.860451261462829e-04</FC2>
+      <FC2 pair1="2 1" pair2="129 1 14">6.230601236178301e-03</FC2>
+      <FC2 pair1="2 1" pair2="129 2 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="129 3 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="130 1 14">2.055579729740937e-03</FC2>
+      <FC2 pair1="2 1" pair2="130 2 14">4.236505426622936e-03</FC2>
+      <FC2 pair1="2 1" pair2="130 3 14">-3.878421283381471e-03</FC2>
+      <FC2 pair1="2 1" pair2="131 1 14">1.508160120643408e-04</FC2>
+      <FC2 pair1="2 1" pair2="131 2 14">5.263743361894561e-04</FC2>
+      <FC2 pair1="2 1" pair2="131 3 14">1.542924240891850e-05</FC2>
+      <FC2 pair1="2 1" pair2="135 1 11">1.508160120643408e-04</FC2>
+      <FC2 pair1="2 1" pair2="135 2 11">-2.205450263499333e-04</FC2>
+      <FC2 pair1="2 1" pair2="135 3 11">2.908185232687666e-05</FC2>
+      <FC2 pair1="2 1" pair2="136 1 11">2.055579729740937e-03</FC2>
+      <FC2 pair1="2 1" pair2="136 2 11">5.451171285649799e-04</FC2>
+      <FC2 pair1="2 1" pair2="136 3 11">-7.081725261243128e-04</FC2>
+      <FC2 pair1="2 1" pair2="137 1 14">-2.085426874360456e-03</FC2>
+      <FC2 pair1="2 1" pair2="137 2 14">1.845694149028978e-03</FC2>
+      <FC2 pair1="2 1" pair2="137 3 14">3.170248757257158e-03</FC2>
+      <FC2 pair1="2 1" pair2="138 1 14">2.055579729740937e-03</FC2>
+      <FC2 pair1="2 1" pair2="138 2 14">-4.236505426622936e-03</FC2>
+      <FC2 pair1="2 1" pair2="138 3 14">3.878421283381471e-03</FC2>
+      <FC2 pair1="2 1" pair2="139 1 14">1.052784104317275e-04</FC2>
+      <FC2 pair1="2 1" pair2="139 2 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="139 3 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="144 1 11">-3.212572158579237e-04</FC2>
+      <FC2 pair1="2 1" pair2="144 2 11">2.462604586572957e-04</FC2>
+      <FC2 pair1="2 1" pair2="144 3 11">1.141094962883732e-04</FC2>
+      <FC2 pair1="2 1" pair2="145 1 14">-1.140399394785480e-04</FC2>
+      <FC2 pair1="2 1" pair2="145 2 14">3.734596812696947e-04</FC2>
+      <FC2 pair1="2 1" pair2="145 3 14">1.365260991795816e-05</FC2>
+      <FC2 pair1="2 1" pair2="146 1 14">-3.212572158579237e-04</FC2>
+      <FC2 pair1="2 1" pair2="146 2 14">-2.462604586572957e-04</FC2>
+      <FC2 pair1="2 1" pair2="146 3 14">-6.783246598955529e-05</FC2>
+      <FC2 pair1="2 1" pair2="147 1 14">1.508160120643408e-04</FC2>
+      <FC2 pair1="2 1" pair2="147 2 14">-5.263743361894561e-04</FC2>
+      <FC2 pair1="2 1" pair2="147 3 14">-1.542924240891850e-05</FC2>
+      <FC2 pair1="2 1" pair2="177 1 5">-1.140399394785480e-04</FC2>
+      <FC2 pair1="2 1" pair2="177 2 5">-3.734596812696947e-04</FC2>
+      <FC2 pair1="2 1" pair2="177 3 5">-1.365260991795816e-05</FC2>
+      <FC2 pair1="2 1" pair2="183 1 2">1.508160120643408e-04</FC2>
+      <FC2 pair1="2 1" pair2="183 2 2">2.205450263499333e-04</FC2>
+      <FC2 pair1="2 1" pair2="183 3 2">-2.908185232687666e-05</FC2>
+      <FC2 pair1="2 1" pair2="184 1 2">-3.212572158579237e-04</FC2>
+      <FC2 pair1="2 1" pair2="184 2 2">-2.462604586572957e-04</FC2>
+      <FC2 pair1="2 1" pair2="184 3 2">-1.141094962883732e-04</FC2>
+      <FC2 pair1="2 1" pair2="185 1 5">-2.085426874360456e-03</FC2>
+      <FC2 pair1="2 1" pair2="185 2 5">-1.845694149028978e-03</FC2>
+      <FC2 pair1="2 1" pair2="185 3 5">-3.170248757257158e-03</FC2>
+      <FC2 pair1="2 1" pair2="186 1 5">-3.212572158579237e-04</FC2>
+      <FC2 pair1="2 1" pair2="186 2 5">2.462604586572957e-04</FC2>
+      <FC2 pair1="2 1" pair2="186 3 5">6.783246598955529e-05</FC2>
+      <FC2 pair1="2 1" pair2="191 1 2">1.052784104317275e-04</FC2>
+      <FC2 pair1="2 1" pair2="191 2 2">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="191 3 2">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 1" pair2="192 1 2">2.055579729740937e-03</FC2>
+      <FC2 pair1="2 1" pair2="192 2 2">-5.451171285649799e-04</FC2>
+      <FC2 pair1="2 1" pair2="192 3 2">7.081725261243128e-04</FC2>
+      <FC2 pair1="2 2" pair2="1 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="1 2 1">-9.945446438793133e-02</FC2>
+      <FC2 pair1="2 2" pair2="1 3 1">-7.037541034285112e-02</FC2>
+      <FC2 pair1="2 2" pair2="2 1 1">3.186493059383685e-02</FC2>
+      <FC2 pair1="2 2" pair2="2 2 1">-4.426278561975000e-02</FC2>
+      <FC2 pair1="2 2" pair2="2 3 1">3.518770517142556e-02</FC2>
+      <FC2 pair1="2 2" pair2="3 1 1">1.372103927214783e-03</FC2>
+      <FC2 pair1="2 2" pair2="3 2 1">-1.487953359785596e-03</FC2>
+      <FC2 pair1="2 2" pair2="3 3 1">1.035626229543008e-03</FC2>
+      <FC2 pair1="2 2" pair2="4 1 1">6.073176164975386e-05</FC2>
+      <FC2 pair1="2 2" pair2="4 2 1">-9.968856017674782e-06</FC2>
+      <FC2 pair1="2 2" pair2="4 3 1">-2.830099974364443e-05</FC2>
+      <FC2 pair1="2 2" pair2="7 1 12">-9.486760264565423e-05</FC2>
+      <FC2 pair1="2 2" pair2="7 2 12">-7.270445404582168e-05</FC2>
+      <FC2 pair1="2 2" pair2="7 3 12">3.083755785375131e-05</FC2>
+      <FC2 pair1="2 2" pair2="8 1 12">-1.183374867574352e-03</FC2>
+      <FC2 pair1="2 2" pair2="8 2 12">-4.777308903686740e-04</FC2>
+      <FC2 pair1="2 2" pair2="8 3 12">-5.713516413094840e-04</FC2>
+      <FC2 pair1="2 2" pair2="9 1 1">5.105213144275491e-03</FC2>
+      <FC2 pair1="2 2" pair2="9 2 1">4.500277270756252e-03</FC2>
+      <FC2 pair1="2 2" pair2="9 3 1">-1.632922562944714e-03</FC2>
+      <FC2 pair1="2 2" pair2="10 1 1">-3.186493059383683e-02</FC2>
+      <FC2 pair1="2 2" pair2="10 2 1">-4.426278561975001e-02</FC2>
+      <FC2 pair1="2 2" pair2="10 3 1">3.518770517142556e-02</FC2>
+      <FC2 pair1="2 2" pair2="11 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="11 2 1">-4.342211278597359e-03</FC2>
+      <FC2 pair1="2 2" pair2="11 3 1">3.265845125889427e-03</FC2>
+      <FC2 pair1="2 2" pair2="12 1 1">-9.077363133453172e-05</FC2>
+      <FC2 pair1="2 2" pair2="12 2 1">4.793406806485749e-04</FC2>
+      <FC2 pair1="2 2" pair2="12 3 1">3.146669122449025e-04</FC2>
+      <FC2 pair1="2 2" pair2="16 1 12">-1.339556502842081e-04</FC2>
+      <FC2 pair1="2 2" pair2="16 2 12">-1.779515679470661e-05</FC2>
+      <FC2 pair1="2 2" pair2="16 3 12">-3.174356996745344e-04</FC2>
+      <FC2 pair1="2 2" pair2="17 1 1">-4.089412548826947e-04</FC2>
+      <FC2 pair1="2 2" pair2="17 2 1">3.615149507087813e-05</FC2>
+      <FC2 pair1="2 2" pair2="17 3 1">2.768787429631879e-06</FC2>
+      <FC2 pair1="2 2" pair2="18 1 1">2.152617719383471e-03</FC2>
+      <FC2 pair1="2 2" pair2="18 2 1">-8.193979649961734e-04</FC2>
+      <FC2 pair1="2 2" pair2="18 3 1">-4.642745882335239e-04</FC2>
+      <FC2 pair1="2 2" pair2="19 1 1">-1.372103927214783e-03</FC2>
+      <FC2 pair1="2 2" pair2="19 2 1">-1.487953359785596e-03</FC2>
+      <FC2 pair1="2 2" pair2="19 3 1">1.035626229543008e-03</FC2>
+      <FC2 pair1="2 2" pair2="20 1 1">9.077363133453172e-05</FC2>
+      <FC2 pair1="2 2" pair2="20 2 1">4.793406806485749e-04</FC2>
+      <FC2 pair1="2 2" pair2="20 3 1">3.146669122449025e-04</FC2>
+      <FC2 pair1="2 2" pair2="26 1 1">2.346906053371989e-05</FC2>
+      <FC2 pair1="2 2" pair2="26 2 1">-7.089916051374426e-05</FC2>
+      <FC2 pair1="2 2" pair2="26 3 1">-2.536558110106885e-06</FC2>
+      <FC2 pair1="2 2" pair2="27 1 1">8.627743061362908e-05</FC2>
+      <FC2 pair1="2 2" pair2="27 2 1">3.669137078416219e-05</FC2>
+      <FC2 pair1="2 2" pair2="27 3 1">-4.135659040078078e-05</FC2>
+      <FC2 pair1="2 2" pair2="28 1 1">-6.073176164975385e-05</FC2>
+      <FC2 pair1="2 2" pair2="28 2 1">-9.968856017674794e-06</FC2>
+      <FC2 pair1="2 2" pair2="28 3 1">-2.830099974364443e-05</FC2>
+      <FC2 pair1="2 2" pair2="49 1 6">4.089412548826947e-04</FC2>
+      <FC2 pair1="2 2" pair2="49 2 6">3.615149507087813e-05</FC2>
+      <FC2 pair1="2 2" pair2="49 3 6">2.768787429631879e-06</FC2>
+      <FC2 pair1="2 2" pair2="50 1 6">-2.346906053371988e-05</FC2>
+      <FC2 pair1="2 2" pair2="50 2 6">-7.089916051374425e-05</FC2>
+      <FC2 pair1="2 2" pair2="50 3 6">-2.536558110106885e-06</FC2>
+      <FC2 pair1="2 2" pair2="55 1 3">9.486760264565422e-05</FC2>
+      <FC2 pair1="2 2" pair2="55 2 3">-7.270445404582169e-05</FC2>
+      <FC2 pair1="2 2" pair2="55 3 3">3.083755785375131e-05</FC2>
+      <FC2 pair1="2 2" pair2="56 1 3">1.339556502842081e-04</FC2>
+      <FC2 pair1="2 2" pair2="56 2 3">-1.779515679470661e-05</FC2>
+      <FC2 pair1="2 2" pair2="56 3 3">-3.174356996745344e-04</FC2>
+      <FC2 pair1="2 2" pair2="57 1 6">-5.105213144275491e-03</FC2>
+      <FC2 pair1="2 2" pair2="57 2 6">4.500277270756252e-03</FC2>
+      <FC2 pair1="2 2" pair2="57 3 6">-1.632922562944714e-03</FC2>
+      <FC2 pair1="2 2" pair2="58 1 6">-2.152617719383471e-03</FC2>
+      <FC2 pair1="2 2" pair2="58 2 6">-8.193979649961736e-04</FC2>
+      <FC2 pair1="2 2" pair2="58 3 6">-4.642745882335240e-04</FC2>
+      <FC2 pair1="2 2" pair2="59 1 6">-8.627743061362908e-05</FC2>
+      <FC2 pair1="2 2" pair2="59 2 6">3.669137078416219e-05</FC2>
+      <FC2 pair1="2 2" pair2="59 3 6">-4.135659040078078e-05</FC2>
+      <FC2 pair1="2 2" pair2="63 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="63 2 3">1.861282641534662e-04</FC2>
+      <FC2 pair1="2 2" pair2="63 3 3">8.271318080156155e-05</FC2>
+      <FC2 pair1="2 2" pair2="64 1 3">1.183374867574352e-03</FC2>
+      <FC2 pair1="2 2" pair2="64 2 3">-4.777308903686741e-04</FC2>
+      <FC2 pair1="2 2" pair2="64 3 3">-5.713516413094839e-04</FC2>
+      <FC2 pair1="2 2" pair2="65 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="65 2 1">2.167268484280198e-01</FC2>
+      <FC2 pair1="2 2" pair2="65 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="66 1 1">7.806250862317586e-03</FC2>
+      <FC2 pair1="2 2" pair2="66 2 1">-1.087130891617952e-02</FC2>
+      <FC2 pair1="2 2" pair2="66 3 1">1.535358756332879e-03</FC2>
+      <FC2 pair1="2 2" pair2="67 1 1">-4.043138526392197e-05</FC2>
+      <FC2 pair1="2 2" pair2="67 2 1">-7.236219530181904e-05</FC2>
+      <FC2 pair1="2 2" pair2="67 3 1">-4.596684267084402e-05</FC2>
+      <FC2 pair1="2 2" pair2="71 1 12">1.021505832834615e-04</FC2>
+      <FC2 pair1="2 2" pair2="71 2 12">-7.236219530181904e-05</FC2>
+      <FC2 pair1="2 2" pair2="71 3 12">-1.417002675084034e-04</FC2>
+      <FC2 pair1="2 2" pair2="72 1 12">6.945635175530801e-03</FC2>
+      <FC2 pair1="2 2" pair2="72 2 12">-1.087130891617952e-02</FC2>
+      <FC2 pair1="2 2" pair2="72 3 12">-1.362837255624733e-03</FC2>
+      <FC2 pair1="2 2" pair2="73 1 1">4.303078433933926e-04</FC2>
+      <FC2 pair1="2 2" pair2="73 2 1">1.904199146330153e-03</FC2>
+      <FC2 pair1="2 2" pair2="73 3 1">-1.725215007081460e-04</FC2>
+      <FC2 pair1="2 2" pair2="74 1 1">-7.806250862317585e-03</FC2>
+      <FC2 pair1="2 2" pair2="74 2 1">-1.087130891617952e-02</FC2>
+      <FC2 pair1="2 2" pair2="74 3 1">1.535358756332879e-03</FC2>
+      <FC2 pair1="2 2" pair2="75 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="75 2 1">3.761877814018185e-04</FC2>
+      <FC2 pair1="2 2" pair2="75 3 1">-3.093089861653489e-04</FC2>
+      <FC2 pair1="2 2" pair2="80 1 12">-8.927959811920683e-05</FC2>
+      <FC2 pair1="2 2" pair2="80 2 12">2.215509813800214e-04</FC2>
+      <FC2 pair1="2 2" pair2="80 3 12">1.546544930826744e-04</FC2>
+      <FC2 pair1="2 2" pair2="81 1 1">-7.129098427369174e-05</FC2>
+      <FC2 pair1="2 2" pair2="81 2 1">-1.891180191569559e-05</FC2>
+      <FC2 pair1="2 2" pair2="81 3 1">1.876671101792474e-04</FC2>
+      <FC2 pair1="2 2" pair2="82 1 1">8.927959811920683e-05</FC2>
+      <FC2 pair1="2 2" pair2="82 2 1">2.215509813800214e-04</FC2>
+      <FC2 pair1="2 2" pair2="82 3 1">1.502624231608065e-05</FC2>
+      <FC2 pair1="2 2" pair2="83 1 1">4.043138526392197e-05</FC2>
+      <FC2 pair1="2 2" pair2="83 2 1">-7.236219530181904e-05</FC2>
+      <FC2 pair1="2 2" pair2="83 3 1">-4.596684267084402e-05</FC2>
+      <FC2 pair1="2 2" pair2="113 1 6">7.129098427369174e-05</FC2>
+      <FC2 pair1="2 2" pair2="113 2 6">-1.891180191569559e-05</FC2>
+      <FC2 pair1="2 2" pair2="113 3 6">1.876671101792474e-04</FC2>
+      <FC2 pair1="2 2" pair2="119 1 3">-1.021505832834615e-04</FC2>
+      <FC2 pair1="2 2" pair2="119 2 3">-7.236219530181904e-05</FC2>
+      <FC2 pair1="2 2" pair2="119 3 3">-1.417002675084034e-04</FC2>
+      <FC2 pair1="2 2" pair2="120 1 3">8.927959811920683e-05</FC2>
+      <FC2 pair1="2 2" pair2="120 2 3">2.215509813800214e-04</FC2>
+      <FC2 pair1="2 2" pair2="120 3 3">1.546544930826744e-04</FC2>
+      <FC2 pair1="2 2" pair2="121 1 6">-4.303078433933926e-04</FC2>
+      <FC2 pair1="2 2" pair2="121 2 6">1.904199146330153e-03</FC2>
+      <FC2 pair1="2 2" pair2="121 3 6">-1.725215007081459e-04</FC2>
+      <FC2 pair1="2 2" pair2="122 1 6">-8.927959811920683e-05</FC2>
+      <FC2 pair1="2 2" pair2="122 2 6">2.215509813800214e-04</FC2>
+      <FC2 pair1="2 2" pair2="122 3 6">1.502624231608065e-05</FC2>
+      <FC2 pair1="2 2" pair2="127 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="127 2 3">3.761877814018185e-04</FC2>
+      <FC2 pair1="2 2" pair2="127 3 3">-3.005248463216130e-05</FC2>
+      <FC2 pair1="2 2" pair2="128 1 3">-6.945635175530801e-03</FC2>
+      <FC2 pair1="2 2" pair2="128 2 3">-1.087130891617952e-02</FC2>
+      <FC2 pair1="2 2" pair2="128 3 3">-1.362837255624733e-03</FC2>
+      <FC2 pair1="2 2" pair2="129 1 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="129 2 14">6.230601236178301e-03</FC2>
+      <FC2 pair1="2 2" pair2="129 3 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="130 1 14">5.451171285649799e-04</FC2>
+      <FC2 pair1="2 2" pair2="130 2 14">-7.050913396599917e-04</FC2>
+      <FC2 pair1="2 2" pair2="130 3 14">1.421480374809928e-03</FC2>
+      <FC2 pair1="2 2" pair2="131 1 14">-2.205450263499333e-04</FC2>
+      <FC2 pair1="2 2" pair2="131 2 14">-2.575462229758506e-05</FC2>
+      <FC2 pair1="2 2" pair2="131 3 14">2.467275328072928e-05</FC2>
+      <FC2 pair1="2 2" pair2="135 1 11">5.263743361894561e-04</FC2>
+      <FC2 pair1="2 2" pair2="135 2 11">-2.575462229758506e-05</FC2>
+      <FC2 pair1="2 2" pair2="135 3 11">1.025739246906991e-06</FC2>
+      <FC2 pair1="2 2" pair2="136 1 11">4.236505426622936e-03</FC2>
+      <FC2 pair1="2 2" pair2="136 2 11">-7.050913396599917e-04</FC2>
+      <FC2 pair1="2 2" pair2="136 3 11">-4.069551545391563e-03</FC2>
+      <FC2 pair1="2 2" pair2="137 1 14">-1.845694149028978e-03</FC2>
+      <FC2 pair1="2 2" pair2="137 2 14">3.435915264441402e-03</FC2>
+      <FC2 pair1="2 2" pair2="137 3 14">2.648071170581635e-03</FC2>
+      <FC2 pair1="2 2" pair2="138 1 14">-5.451171285649799e-04</FC2>
+      <FC2 pair1="2 2" pair2="138 2 14">-7.050913396599917e-04</FC2>
+      <FC2 pair1="2 2" pair2="138 3 14">1.421480374809927e-03</FC2>
+      <FC2 pair1="2 2" pair2="139 1 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="139 2 14">-4.634357579544741e-04</FC2>
+      <FC2 pair1="2 2" pair2="139 3 14">1.317622967983697e-04</FC2>
+      <FC2 pair1="2 2" pair2="144 1 11">2.462604586572957e-04</FC2>
+      <FC2 pair1="2 2" pair2="144 2 11">-3.690013166482288e-05</FC2>
+      <FC2 pair1="2 2" pair2="144 3 11">-6.588114839918486e-05</FC2>
+      <FC2 pair1="2 2" pair2="145 1 14">-3.734596812696947e-04</FC2>
+      <FC2 pair1="2 2" pair2="145 2 14">2.391013292453038e-04</FC2>
+      <FC2 pair1="2 2" pair2="145 3 14">-2.569849252763627e-05</FC2>
+      <FC2 pair1="2 2" pair2="146 1 14">-2.462604586572957e-04</FC2>
+      <FC2 pair1="2 2" pair2="146 2 14">-3.690013166482288e-05</FC2>
+      <FC2 pair1="2 2" pair2="146 3 14">-3.916309249886588e-05</FC2>
+      <FC2 pair1="2 2" pair2="147 1 14">2.205450263499333e-04</FC2>
+      <FC2 pair1="2 2" pair2="147 2 14">-2.575462229758508e-05</FC2>
+      <FC2 pair1="2 2" pair2="147 3 14">2.467275328072928e-05</FC2>
+      <FC2 pair1="2 2" pair2="177 1 5">3.734596812696947e-04</FC2>
+      <FC2 pair1="2 2" pair2="177 2 5">2.391013292453038e-04</FC2>
+      <FC2 pair1="2 2" pair2="177 3 5">-2.569849252763627e-05</FC2>
+      <FC2 pair1="2 2" pair2="183 1 2">-5.263743361894561e-04</FC2>
+      <FC2 pair1="2 2" pair2="183 2 2">-2.575462229758508e-05</FC2>
+      <FC2 pair1="2 2" pair2="183 3 2">1.025739246906991e-06</FC2>
+      <FC2 pair1="2 2" pair2="184 1 2">-2.462604586572957e-04</FC2>
+      <FC2 pair1="2 2" pair2="184 2 2">-3.690013166482288e-05</FC2>
+      <FC2 pair1="2 2" pair2="184 3 2">-6.588114839918486e-05</FC2>
+      <FC2 pair1="2 2" pair2="185 1 5">1.845694149028978e-03</FC2>
+      <FC2 pair1="2 2" pair2="185 2 5">3.435915264441402e-03</FC2>
+      <FC2 pair1="2 2" pair2="185 3 5">2.648071170581635e-03</FC2>
+      <FC2 pair1="2 2" pair2="186 1 5">2.462604586572957e-04</FC2>
+      <FC2 pair1="2 2" pair2="186 2 5">-3.690013166482288e-05</FC2>
+      <FC2 pair1="2 2" pair2="186 3 5">-3.916309249886588e-05</FC2>
+      <FC2 pair1="2 2" pair2="191 1 2">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 2" pair2="191 2 2">-4.634357579544741e-04</FC2>
+      <FC2 pair1="2 2" pair2="191 3 2">7.832618499773177e-05</FC2>
+      <FC2 pair1="2 2" pair2="192 1 2">-4.236505426622936e-03</FC2>
+      <FC2 pair1="2 2" pair2="192 2 2">-7.050913396599917e-04</FC2>
+      <FC2 pair1="2 2" pair2="192 3 2">-4.069551545391563e-03</FC2>
+      <FC2 pair1="2 3" pair2="1 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="1 2 1">-7.095582996780335e-02</FC2>
+      <FC2 pair1="2 3" pair2="1 3 1">-8.840753712538603e-02</FC2>
+      <FC2 pair1="2 3" pair2="2 1 1">-6.144955129872687e-02</FC2>
+      <FC2 pair1="2 3" pair2="2 2 1">3.547791498390167e-02</FC2>
+      <FC2 pair1="2 3" pair2="2 3 1">-8.840753712538603e-02</FC2>
+      <FC2 pair1="2 3" pair2="3 1 1">4.275200584175803e-04</FC2>
+      <FC2 pair1="2 3" pair2="3 2 1">-6.441183275337603e-04</FC2>
+      <FC2 pair1="2 3" pair2="3 3 1">-1.071075128931395e-03</FC2>
+      <FC2 pair1="2 3" pair2="4 1 1">9.981415372182659e-05</FC2>
+      <FC2 pair1="2 3" pair2="4 2 1">3.101974941747135e-05</FC2>
+      <FC2 pair1="2 3" pair2="4 3 1">-2.839312086801948e-05</FC2>
+      <FC2 pair1="2 3" pair2="7 1 12">7.677096787547101e-05</FC2>
+      <FC2 pair1="2 3" pair2="7 2 12">7.093171807161122e-05</FC2>
+      <FC2 pair1="2 3" pair2="7 3 12">-2.839312086801948e-05</FC2>
+      <FC2 pair1="2 3" pair2="8 1 12">-3.440628054785919e-04</FC2>
+      <FC2 pair1="2 3" pair2="8 2 12">6.923023949839119e-04</FC2>
+      <FC2 pair1="2 3" pair2="8 3 12">-1.071075128931395e-03</FC2>
+      <FC2 pair1="2 3" pair2="9 1 1">1.038997161681200e-03</FC2>
+      <FC2 pair1="2 3" pair2="9 2 1">-5.998652909838982e-04</FC2>
+      <FC2 pair1="2 3" pair2="9 3 1">-4.086279247255588e-03</FC2>
+      <FC2 pair1="2 3" pair2="10 1 1">6.144955129872687e-02</FC2>
+      <FC2 pair1="2 3" pair2="10 2 1">3.547791498390167e-02</FC2>
+      <FC2 pair1="2 3" pair2="10 3 1">-8.840753712538603e-02</FC2>
+      <FC2 pair1="2 3" pair2="11 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="11 2 1">1.199730581967796e-03</FC2>
+      <FC2 pair1="2 3" pair2="11 3 1">-4.086279247255588e-03</FC2>
+      <FC2 pair1="2 3" pair2="12 1 1">-4.271542909940191e-05</FC2>
+      <FC2 pair1="2 3" pair2="12 2 1">-1.781825784630261e-04</FC2>
+      <FC2 pair1="2 3" pair2="12 3 1">7.460300039301195e-05</FC2>
+      <FC2 pair1="2 3" pair2="16 1 12">-1.756683540104956e-04</FC2>
+      <FC2 pair1="2 3" pair2="16 2 12">5.209864249787795e-05</FC2>
+      <FC2 pair1="2 3" pair2="16 3 12">7.460300039301195e-05</FC2>
+      <FC2 pair1="2 3" pair2="17 1 1">-1.329529249110936e-04</FC2>
+      <FC2 pair1="2 3" pair2="17 2 1">1.260839359651481e-04</FC2>
+      <FC2 pair1="2 3" pair2="17 3 1">7.460300039301195e-05</FC2>
+      <FC2 pair1="2 3" pair2="18 1 1">-7.715828638961722e-04</FC2>
+      <FC2 pair1="2 3" pair2="18 2 1">-4.818406745015158e-05</FC2>
+      <FC2 pair1="2 3" pair2="18 3 1">-1.071075128931395e-03</FC2>
+      <FC2 pair1="2 3" pair2="19 1 1">-4.275200584175803e-04</FC2>
+      <FC2 pair1="2 3" pair2="19 2 1">-6.441183275337604e-04</FC2>
+      <FC2 pair1="2 3" pair2="19 3 1">-1.071075128931395e-03</FC2>
+      <FC2 pair1="2 3" pair2="20 1 1">4.271542909940191e-05</FC2>
+      <FC2 pair1="2 3" pair2="20 2 1">-1.781825784630261e-04</FC2>
+      <FC2 pair1="2 3" pair2="20 3 1">7.460300039301195e-05</FC2>
+      <FC2 pair1="2 3" pair2="26 1 1">-2.304318584635557e-05</FC2>
+      <FC2 pair1="2 3" pair2="26 2 1">-1.019514674890826e-04</FC2>
+      <FC2 pair1="2 3" pair2="26 3 1">-2.839312086801948e-05</FC2>
+      <FC2 pair1="2 3" pair2="27 1 1">4.896698400228505e-05</FC2>
+      <FC2 pair1="2 3" pair2="27 2 1">2.827110139512337e-05</FC2>
+      <FC2 pair1="2 3" pair2="27 3 1">-1.004073070591967e-04</FC2>
+      <FC2 pair1="2 3" pair2="28 1 1">-9.981415372182659e-05</FC2>
+      <FC2 pair1="2 3" pair2="28 2 1">3.101974941747135e-05</FC2>
+      <FC2 pair1="2 3" pair2="28 3 1">-2.839312086801948e-05</FC2>
+      <FC2 pair1="2 3" pair2="49 1 6">1.329529249110936e-04</FC2>
+      <FC2 pair1="2 3" pair2="49 2 6">1.260839359651481e-04</FC2>
+      <FC2 pair1="2 3" pair2="49 3 6">7.460300039301195e-05</FC2>
+      <FC2 pair1="2 3" pair2="50 1 6">2.304318584635557e-05</FC2>
+      <FC2 pair1="2 3" pair2="50 2 6">-1.019514674890826e-04</FC2>
+      <FC2 pair1="2 3" pair2="50 3 6">-2.839312086801948e-05</FC2>
+      <FC2 pair1="2 3" pair2="55 1 3">-7.677096787547101e-05</FC2>
+      <FC2 pair1="2 3" pair2="55 2 3">7.093171807161122e-05</FC2>
+      <FC2 pair1="2 3" pair2="55 3 3">-2.839312086801948e-05</FC2>
+      <FC2 pair1="2 3" pair2="56 1 3">1.756683540104956e-04</FC2>
+      <FC2 pair1="2 3" pair2="56 2 3">5.209864249787795e-05</FC2>
+      <FC2 pair1="2 3" pair2="56 3 3">7.460300039301195e-05</FC2>
+      <FC2 pair1="2 3" pair2="57 1 6">-1.038997161681200e-03</FC2>
+      <FC2 pair1="2 3" pair2="57 2 6">-5.998652909838982e-04</FC2>
+      <FC2 pair1="2 3" pair2="57 3 6">-4.086279247255588e-03</FC2>
+      <FC2 pair1="2 3" pair2="58 1 6">7.715828638961722e-04</FC2>
+      <FC2 pair1="2 3" pair2="58 2 6">-4.818406745015162e-05</FC2>
+      <FC2 pair1="2 3" pair2="58 3 6">-1.071075128931395e-03</FC2>
+      <FC2 pair1="2 3" pair2="59 1 6">-4.896698400228505e-05</FC2>
+      <FC2 pair1="2 3" pair2="59 2 6">2.827110139512337e-05</FC2>
+      <FC2 pair1="2 3" pair2="59 3 6">-1.004073070591967e-04</FC2>
+      <FC2 pair1="2 3" pair2="63 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="63 2 3">-5.654220279024674e-05</FC2>
+      <FC2 pair1="2 3" pair2="63 3 3">-1.004073070591967e-04</FC2>
+      <FC2 pair1="2 3" pair2="64 1 3">3.440628054785919e-04</FC2>
+      <FC2 pair1="2 3" pair2="64 2 3">6.923023949839119e-04</FC2>
+      <FC2 pair1="2 3" pair2="64 3 3">-1.071075128931395e-03</FC2>
+      <FC2 pair1="2 3" pair2="65 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="65 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="65 3 1">2.762667337749735e-01</FC2>
+      <FC2 pair1="2 3" pair2="66 1 1">9.860451261462829e-04</FC2>
+      <FC2 pair1="2 3" pair2="66 2 1">-1.362837255624733e-03</FC2>
+      <FC2 pair1="2 3" pair2="66 3 1">6.220520661953717e-03</FC2>
+      <FC2 pair1="2 3" pair2="67 1 1">-1.348886255698366e-04</FC2>
+      <FC2 pair1="2 3" pair2="67 2 1">-1.417002675084034e-04</FC2>
+      <FC2 pair1="2 3" pair2="67 3 1">4.240675245924818e-04</FC2>
+      <FC2 pair1="2 3" pair2="71 1 12">-1.901603441702463e-04</FC2>
+      <FC2 pair1="2 3" pair2="71 2 12">-4.596684267084402e-05</FC2>
+      <FC2 pair1="2 3" pair2="71 3 12">4.240675245924818e-04</FC2>
+      <FC2 pair1="2 3" pair2="72 1 12">-6.872291215217440e-04</FC2>
+      <FC2 pair1="2 3" pair2="72 2 12">1.535358756332879e-03</FC2>
+      <FC2 pair1="2 3" pair2="72 3 12">6.220520661953717e-03</FC2>
+      <FC2 pair1="2 3" pair2="73 1 1">-1.673274247668027e-03</FC2>
+      <FC2 pair1="2 3" pair2="73 2 1">-1.725215007081459e-04</FC2>
+      <FC2 pair1="2 3" pair2="73 3 1">6.220520661953717e-03</FC2>
+      <FC2 pair1="2 3" pair2="74 1 1">-9.860451261462829e-04</FC2>
+      <FC2 pair1="2 3" pair2="74 2 1">-1.362837255624733e-03</FC2>
+      <FC2 pair1="2 3" pair2="74 3 1">6.220520661953717e-03</FC2>
+      <FC2 pair1="2 3" pair2="75 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="75 2 1">-3.005248463216130e-05</FC2>
+      <FC2 pair1="2 3" pair2="75 3 1">-8.835837438087805e-05</FC2>
+      <FC2 pair1="2 3" pair2="80 1 12">-2.602621513829312e-05</FC2>
+      <FC2 pair1="2 3" pair2="80 2 12">1.502624231608065e-05</FC2>
+      <FC2 pair1="2 3" pair2="80 3 12">-8.835837438087805e-05</FC2>
+      <FC2 pair1="2 3" pair2="81 1 1">-5.527171860040971e-05</FC2>
+      <FC2 pair1="2 3" pair2="81 2 1">1.876671101792474e-04</FC2>
+      <FC2 pair1="2 3" pair2="81 3 1">4.240675245924818e-04</FC2>
+      <FC2 pair1="2 3" pair2="82 1 1">2.678694396380016e-04</FC2>
+      <FC2 pair1="2 3" pair2="82 2 1">1.546544930826744e-04</FC2>
+      <FC2 pair1="2 3" pair2="82 3 1">-8.835837438087805e-05</FC2>
+      <FC2 pair1="2 3" pair2="83 1 1">1.348886255698366e-04</FC2>
+      <FC2 pair1="2 3" pair2="83 2 1">-1.417002675084034e-04</FC2>
+      <FC2 pair1="2 3" pair2="83 3 1">4.240675245924818e-04</FC2>
+      <FC2 pair1="2 3" pair2="113 1 6">5.527171860040971e-05</FC2>
+      <FC2 pair1="2 3" pair2="113 2 6">1.876671101792474e-04</FC2>
+      <FC2 pair1="2 3" pair2="113 3 6">4.240675245924818e-04</FC2>
+      <FC2 pair1="2 3" pair2="119 1 3">1.901603441702463e-04</FC2>
+      <FC2 pair1="2 3" pair2="119 2 3">-4.596684267084402e-05</FC2>
+      <FC2 pair1="2 3" pair2="119 3 3">4.240675245924818e-04</FC2>
+      <FC2 pair1="2 3" pair2="120 1 3">2.602621513829312e-05</FC2>
+      <FC2 pair1="2 3" pair2="120 2 3">1.502624231608065e-05</FC2>
+      <FC2 pair1="2 3" pair2="120 3 3">-8.835837438087805e-05</FC2>
+      <FC2 pair1="2 3" pair2="121 1 6">1.673274247668027e-03</FC2>
+      <FC2 pair1="2 3" pair2="121 2 6">-1.725215007081460e-04</FC2>
+      <FC2 pair1="2 3" pair2="121 3 6">6.220520661953717e-03</FC2>
+      <FC2 pair1="2 3" pair2="122 1 6">-2.678694396380016e-04</FC2>
+      <FC2 pair1="2 3" pair2="122 2 6">1.546544930826744e-04</FC2>
+      <FC2 pair1="2 3" pair2="122 3 6">-8.835837438087805e-05</FC2>
+      <FC2 pair1="2 3" pair2="127 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="127 2 3">-3.093089861653489e-04</FC2>
+      <FC2 pair1="2 3" pair2="127 3 3">-8.835837438087805e-05</FC2>
+      <FC2 pair1="2 3" pair2="128 1 3">6.872291215217440e-04</FC2>
+      <FC2 pair1="2 3" pair2="128 2 3">1.535358756332879e-03</FC2>
+      <FC2 pair1="2 3" pair2="128 3 3">6.220520661953717e-03</FC2>
+      <FC2 pair1="2 3" pair2="129 1 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="129 2 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="129 3 14">-2.826182904501483e-02</FC2>
+      <FC2 pair1="2 3" pair2="130 1 14">7.081725261243128e-04</FC2>
+      <FC2 pair1="2 3" pair2="130 2 14">4.069551545391563e-03</FC2>
+      <FC2 pair1="2 3" pair2="130 3 14">-1.130362471835594e-03</FC2>
+      <FC2 pair1="2 3" pair2="131 1 14">-2.908185232687666e-05</FC2>
+      <FC2 pair1="2 3" pair2="131 2 14">-1.025739246906991e-06</FC2>
+      <FC2 pair1="2 3" pair2="131 3 14">1.977546113088080e-05</FC2>
+      <FC2 pair1="2 3" pair2="135 1 11">-1.542924240891850e-05</FC2>
+      <FC2 pair1="2 3" pair2="135 2 11">-2.467275328072928e-05</FC2>
+      <FC2 pair1="2 3" pair2="135 3 11">1.977546113088080e-05</FC2>
+      <FC2 pair1="2 3" pair2="136 1 11">3.878421283381471e-03</FC2>
+      <FC2 pair1="2 3" pair2="136 2 11">-1.421480374809928e-03</FC2>
+      <FC2 pair1="2 3" pair2="136 3 11">-1.130362471835594e-03</FC2>
+      <FC2 pair1="2 3" pair2="137 1 14">3.170248757257158e-03</FC2>
+      <FC2 pair1="2 3" pair2="137 2 14">-2.648071170581635e-03</FC2>
+      <FC2 pair1="2 3" pair2="137 3 14">-1.130362471835594e-03</FC2>
+      <FC2 pair1="2 3" pair2="138 1 14">-7.081725261243128e-04</FC2>
+      <FC2 pair1="2 3" pair2="138 2 14">4.069551545391563e-03</FC2>
+      <FC2 pair1="2 3" pair2="138 3 14">-1.130362471835594e-03</FC2>
+      <FC2 pair1="2 3" pair2="139 1 14">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="139 2 14">-7.832618499773177e-05</FC2>
+      <FC2 pair1="2 3" pair2="139 3 14">5.421834994697599e-04</FC2>
+      <FC2 pair1="2 3" pair2="144 1 11">-6.783246598955529e-05</FC2>
+      <FC2 pair1="2 3" pair2="144 2 11">3.916309249886588e-05</FC2>
+      <FC2 pair1="2 3" pair2="144 3 11">5.421834994697599e-04</FC2>
+      <FC2 pair1="2 3" pair2="145 1 14">1.365260991795816e-05</FC2>
+      <FC2 pair1="2 3" pair2="145 2 14">2.569849252763627e-05</FC2>
+      <FC2 pair1="2 3" pair2="145 3 14">1.977546113088080e-05</FC2>
+      <FC2 pair1="2 3" pair2="146 1 14">1.141094962883732e-04</FC2>
+      <FC2 pair1="2 3" pair2="146 2 14">6.588114839918486e-05</FC2>
+      <FC2 pair1="2 3" pair2="146 3 14">5.421834994697599e-04</FC2>
+      <FC2 pair1="2 3" pair2="147 1 14">2.908185232687666e-05</FC2>
+      <FC2 pair1="2 3" pair2="147 2 14">-1.025739246906991e-06</FC2>
+      <FC2 pair1="2 3" pair2="147 3 14">1.977546113088080e-05</FC2>
+      <FC2 pair1="2 3" pair2="177 1 5">-1.365260991795816e-05</FC2>
+      <FC2 pair1="2 3" pair2="177 2 5">2.569849252763627e-05</FC2>
+      <FC2 pair1="2 3" pair2="177 3 5">1.977546113088080e-05</FC2>
+      <FC2 pair1="2 3" pair2="183 1 2">1.542924240891850e-05</FC2>
+      <FC2 pair1="2 3" pair2="183 2 2">-2.467275328072928e-05</FC2>
+      <FC2 pair1="2 3" pair2="183 3 2">1.977546113088080e-05</FC2>
+      <FC2 pair1="2 3" pair2="184 1 2">6.783246598955529e-05</FC2>
+      <FC2 pair1="2 3" pair2="184 2 2">3.916309249886588e-05</FC2>
+      <FC2 pair1="2 3" pair2="184 3 2">5.421834994697599e-04</FC2>
+      <FC2 pair1="2 3" pair2="185 1 5">-3.170248757257158e-03</FC2>
+      <FC2 pair1="2 3" pair2="185 2 5">-2.648071170581635e-03</FC2>
+      <FC2 pair1="2 3" pair2="185 3 5">-1.130362471835594e-03</FC2>
+      <FC2 pair1="2 3" pair2="186 1 5">-1.141094962883732e-04</FC2>
+      <FC2 pair1="2 3" pair2="186 2 5">6.588114839918486e-05</FC2>
+      <FC2 pair1="2 3" pair2="186 3 5">5.421834994697599e-04</FC2>
+      <FC2 pair1="2 3" pair2="191 1 2">0.000000000000000e+00</FC2>
+      <FC2 pair1="2 3" pair2="191 2 2">-1.317622967983697e-04</FC2>
+      <FC2 pair1="2 3" pair2="191 3 2">5.421834994697599e-04</FC2>
+      <FC2 pair1="2 3" pair2="192 1 2">-3.878421283381471e-03</FC2>
+      <FC2 pair1="2 3" pair2="192 2 2">-1.421480374809927e-03</FC2>
+      <FC2 pair1="2 3" pair2="192 3 2">-1.130362471835594e-03</FC2>
+      <FC2 pair1="3 1" pair2="1 1 15">-2.586555936368957e-02</FC2>
+      <FC2 pair1="3 1" pair2="1 2 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="1 3 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="2 1 15">-8.105723813187088e-02</FC2>
+      <FC2 pair1="3 1" pair2="2 2 15">3.186493059383685e-02</FC2>
+      <FC2 pair1="3 1" pair2="2 3 15">6.094689315866320e-02</FC2>
+      <FC2 pair1="3 1" pair2="3 1 15">-3.687681169813662e-04</FC2>
+      <FC2 pair1="3 1" pair2="3 2 15">-1.766627082233621e-03</FC2>
+      <FC2 pair1="3 1" pair2="3 3 15">6.182096541743733e-05</FC2>
+      <FC2 pair1="3 1" pair2="4 1 15">-9.241279103381902e-05</FC2>
+      <FC2 pair1="3 1" pair2="4 2 15">-5.864718823633146e-05</FC2>
+      <FC2 pair1="3 1" pair2="4 3 15">-1.926855483569932e-05</FC2>
+      <FC2 pair1="3 1" pair2="7 1 13">-2.967719300567214e-05</FC2>
+      <FC2 pair1="3 1" pair2="7 2 13">2.451134724043109e-05</FC2>
+      <FC2 pair1="3 1" pair2="7 3 13">1.487510731264330e-05</FC2>
+      <FC2 pair1="3 1" pair2="8 1 13">-1.378990586398289e-03</FC2>
+      <FC2 pair1="3 1" pair2="8 2 13">1.955356141874052e-03</FC2>
+      <FC2 pair1="3 1" pair2="8 3 13">-8.659681409010204e-04</FC2>
+      <FC2 pair1="3 1" pair2="9 1 15">-1.394715095479488e-03</FC2>
+      <FC2 pair1="3 1" pair2="9 2 15">5.105213144275491e-03</FC2>
+      <FC2 pair1="3 1" pair2="9 3 15">-2.828304843845832e-03</FC2>
+      <FC2 pair1="3 1" pair2="10 1 15">-8.105723813187088e-02</FC2>
+      <FC2 pair1="3 1" pair2="10 2 15">-3.186493059383683e-02</FC2>
+      <FC2 pair1="3 1" pair2="10 3 15">-6.094689315866320e-02</FC2>
+      <FC2 pair1="3 1" pair2="11 1 15">7.447773453874122e-03</FC2>
+      <FC2 pair1="3 1" pair2="11 2 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="11 3 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="12 1 15">-1.475426680320773e-04</FC2>
+      <FC2 pair1="3 1" pair2="12 2 15">1.530658592874805e-04</FC2>
+      <FC2 pair1="3 1" pair2="12 3 15">1.848701468253164e-04</FC2>
+      <FC2 pair1="3 1" pair2="16 1 13">3.495931694112042e-04</FC2>
+      <FC2 pair1="3 1" pair2="16 2 13">-3.777951409062203e-04</FC2>
+      <FC2 pair1="3 1" pair2="16 3 13">-1.800744663218360e-04</FC2>
+      <FC2 pair1="3 1" pair2="17 1 15">2.956465175456195e-04</FC2>
+      <FC2 pair1="3 1" pair2="17 2 15">-1.651017642606825e-04</FC2>
+      <FC2 pair1="3 1" pair2="17 3 15">-3.649446131471524e-04</FC2>
+      <FC2 pair1="3 1" pair2="18 1 15">-1.037323511770789e-03</FC2>
+      <FC2 pair1="3 1" pair2="18 2 15">-9.861132900649333e-04</FC2>
+      <FC2 pair1="3 1" pair2="18 3 15">-9.277891063184579e-04</FC2>
+      <FC2 pair1="3 1" pair2="19 1 15">-3.687681169813662e-04</FC2>
+      <FC2 pair1="3 1" pair2="19 2 15">1.766627082233621e-03</FC2>
+      <FC2 pair1="3 1" pair2="19 3 15">-6.182096541743733e-05</FC2>
+      <FC2 pair1="3 1" pair2="20 1 15">-1.475426680320773e-04</FC2>
+      <FC2 pair1="3 1" pair2="20 2 15">-1.530658592874805e-04</FC2>
+      <FC2 pair1="3 1" pair2="20 3 15">-1.848701468253164e-04</FC2>
+      <FC2 pair1="3 1" pair2="26 1 15">-3.148248653774956e-05</FC2>
+      <FC2 pair1="3 1" pair2="26 2 15">-9.590988935236541e-05</FC2>
+      <FC2 pair1="3 1" pair2="26 3 15">3.414366214834262e-05</FC2>
+      <FC2 pair1="3 1" pair2="27 1 15">1.363159663636982e-04</FC2>
+      <FC2 pair1="3 1" pair2="27 2 15">8.627743061362908e-05</FC2>
+      <FC2 pair1="3 1" pair2="27 3 15">7.163171580196762e-05</FC2>
+      <FC2 pair1="3 1" pair2="28 1 15">-9.241279103381902e-05</FC2>
+      <FC2 pair1="3 1" pair2="28 2 15">5.864718823633146e-05</FC2>
+      <FC2 pair1="3 1" pair2="28 3 15">1.926855483569932e-05</FC2>
+      <FC2 pair1="3 1" pair2="49 1 7">2.956465175456195e-04</FC2>
+      <FC2 pair1="3 1" pair2="49 2 7">1.651017642606825e-04</FC2>
+      <FC2 pair1="3 1" pair2="49 3 7">3.649446131471524e-04</FC2>
+      <FC2 pair1="3 1" pair2="50 1 7">-3.148248653774956e-05</FC2>
+      <FC2 pair1="3 1" pair2="50 2 7">9.590988935236543e-05</FC2>
+      <FC2 pair1="3 1" pair2="50 3 7">-3.414366214834262e-05</FC2>
+      <FC2 pair1="3 1" pair2="55 1 4">-2.967719300567214e-05</FC2>
+      <FC2 pair1="3 1" pair2="55 2 4">-2.451134724043108e-05</FC2>
+      <FC2 pair1="3 1" pair2="55 3 4">-1.487510731264330e-05</FC2>
+      <FC2 pair1="3 1" pair2="56 1 4">3.495931694112042e-04</FC2>
+      <FC2 pair1="3 1" pair2="56 2 4">3.777951409062203e-04</FC2>
+      <FC2 pair1="3 1" pair2="56 3 4">1.800744663218360e-04</FC2>
+      <FC2 pair1="3 1" pair2="57 1 7">-1.394715095479488e-03</FC2>
+      <FC2 pair1="3 1" pair2="57 2 7">-5.105213144275491e-03</FC2>
+      <FC2 pair1="3 1" pair2="57 3 7">2.828304843845832e-03</FC2>
+      <FC2 pair1="3 1" pair2="58 1 7">-1.037323511770789e-03</FC2>
+      <FC2 pair1="3 1" pair2="58 2 7">9.861132900649333e-04</FC2>
+      <FC2 pair1="3 1" pair2="58 3 7">9.277891063184579e-04</FC2>
+      <FC2 pair1="3 1" pair2="59 1 7">1.363159663636982e-04</FC2>
+      <FC2 pair1="3 1" pair2="59 2 7">-8.627743061362908e-05</FC2>
+      <FC2 pair1="3 1" pair2="59 3 7">-7.163171580196762e-05</FC2>
+      <FC2 pair1="3 1" pair2="63 1 4">-1.312092700560582e-05</FC2>
+      <FC2 pair1="3 1" pair2="63 2 4">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="63 3 4">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="64 1 4">-1.378990586398289e-03</FC2>
+      <FC2 pair1="3 1" pair2="64 2 4">-1.955356141874052e-03</FC2>
+      <FC2 pair1="3 1" pair2="64 3 4">8.659681409010204e-04</FC2>
+      <FC2 pair1="3 1" pair2="65 1 15">6.230601236178301e-03</FC2>
+      <FC2 pair1="3 1" pair2="65 2 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="65 3 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="66 1 15">2.055579729740937e-03</FC2>
+      <FC2 pair1="3 1" pair2="66 2 15">4.236505426622936e-03</FC2>
+      <FC2 pair1="3 1" pair2="66 3 15">3.878421283381471e-03</FC2>
+      <FC2 pair1="3 1" pair2="67 1 15">1.508160120643408e-04</FC2>
+      <FC2 pair1="3 1" pair2="67 2 15">5.263743361894561e-04</FC2>
+      <FC2 pair1="3 1" pair2="67 3 15">-1.542924240891850e-05</FC2>
+      <FC2 pair1="3 1" pair2="71 1 13">1.508160120643408e-04</FC2>
+      <FC2 pair1="3 1" pair2="71 2 13">-2.205450263499333e-04</FC2>
+      <FC2 pair1="3 1" pair2="71 3 13">-2.908185232687666e-05</FC2>
+      <FC2 pair1="3 1" pair2="72 1 13">2.055579729740937e-03</FC2>
+      <FC2 pair1="3 1" pair2="72 2 13">5.451171285649799e-04</FC2>
+      <FC2 pair1="3 1" pair2="72 3 13">7.081725261243128e-04</FC2>
+      <FC2 pair1="3 1" pair2="73 1 15">-2.085426874360456e-03</FC2>
+      <FC2 pair1="3 1" pair2="73 2 15">1.845694149028978e-03</FC2>
+      <FC2 pair1="3 1" pair2="73 3 15">-3.170248757257158e-03</FC2>
+      <FC2 pair1="3 1" pair2="74 1 15">2.055579729740937e-03</FC2>
+      <FC2 pair1="3 1" pair2="74 2 15">-4.236505426622936e-03</FC2>
+      <FC2 pair1="3 1" pair2="74 3 15">-3.878421283381471e-03</FC2>
+      <FC2 pair1="3 1" pair2="75 1 15">1.052784104317275e-04</FC2>
+      <FC2 pair1="3 1" pair2="75 2 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="75 3 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="80 1 13">-3.212572158579237e-04</FC2>
+      <FC2 pair1="3 1" pair2="80 2 13">2.462604586572957e-04</FC2>
+      <FC2 pair1="3 1" pair2="80 3 13">-1.141094962883732e-04</FC2>
+      <FC2 pair1="3 1" pair2="81 1 15">-1.140399394785480e-04</FC2>
+      <FC2 pair1="3 1" pair2="81 2 15">3.734596812696947e-04</FC2>
+      <FC2 pair1="3 1" pair2="81 3 15">-1.365260991795816e-05</FC2>
+      <FC2 pair1="3 1" pair2="82 1 15">-3.212572158579237e-04</FC2>
+      <FC2 pair1="3 1" pair2="82 2 15">-2.462604586572957e-04</FC2>
+      <FC2 pair1="3 1" pair2="82 3 15">6.783246598955529e-05</FC2>
+      <FC2 pair1="3 1" pair2="83 1 15">1.508160120643408e-04</FC2>
+      <FC2 pair1="3 1" pair2="83 2 15">-5.263743361894561e-04</FC2>
+      <FC2 pair1="3 1" pair2="83 3 15">1.542924240891850e-05</FC2>
+      <FC2 pair1="3 1" pair2="113 1 7">-1.140399394785480e-04</FC2>
+      <FC2 pair1="3 1" pair2="113 2 7">-3.734596812696947e-04</FC2>
+      <FC2 pair1="3 1" pair2="113 3 7">1.365260991795816e-05</FC2>
+      <FC2 pair1="3 1" pair2="119 1 4">1.508160120643408e-04</FC2>
+      <FC2 pair1="3 1" pair2="119 2 4">2.205450263499333e-04</FC2>
+      <FC2 pair1="3 1" pair2="119 3 4">2.908185232687666e-05</FC2>
+      <FC2 pair1="3 1" pair2="120 1 4">-3.212572158579237e-04</FC2>
+      <FC2 pair1="3 1" pair2="120 2 4">-2.462604586572957e-04</FC2>
+      <FC2 pair1="3 1" pair2="120 3 4">1.141094962883732e-04</FC2>
+      <FC2 pair1="3 1" pair2="121 1 7">-2.085426874360456e-03</FC2>
+      <FC2 pair1="3 1" pair2="121 2 7">-1.845694149028978e-03</FC2>
+      <FC2 pair1="3 1" pair2="121 3 7">3.170248757257158e-03</FC2>
+      <FC2 pair1="3 1" pair2="122 1 7">-3.212572158579237e-04</FC2>
+      <FC2 pair1="3 1" pair2="122 2 7">2.462604586572957e-04</FC2>
+      <FC2 pair1="3 1" pair2="122 3 7">-6.783246598955529e-05</FC2>
+      <FC2 pair1="3 1" pair2="127 1 4">1.052784104317275e-04</FC2>
+      <FC2 pair1="3 1" pair2="127 2 4">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="127 3 4">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="128 1 4">2.055579729740937e-03</FC2>
+      <FC2 pair1="3 1" pair2="128 2 4">-5.451171285649799e-04</FC2>
+      <FC2 pair1="3 1" pair2="128 3 4">-7.081725261243128e-04</FC2>
+      <FC2 pair1="3 1" pair2="129 1 1">2.167268484280198e-01</FC2>
+      <FC2 pair1="3 1" pair2="129 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="129 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="130 1 1">-2.354303541173071e-03</FC2>
+      <FC2 pair1="3 1" pair2="130 2 1">6.945635175530801e-03</FC2>
+      <FC2 pair1="3 1" pair2="130 3 1">6.872291215217440e-04</FC2>
+      <FC2 pair1="3 1" pair2="131 1 1">-3.672859971107007e-05</FC2>
+      <FC2 pair1="3 1" pair2="131 2 1">1.021505832834615e-04</FC2>
+      <FC2 pair1="3 1" pair2="131 3 1">1.901603441702463e-04</FC2>
+      <FC2 pair1="3 1" pair2="135 1 12">-3.672859971107007e-05</FC2>
+      <FC2 pair1="3 1" pair2="135 2 12">-4.043138526392197e-05</FC2>
+      <FC2 pair1="3 1" pair2="135 3 12">1.348886255698366e-04</FC2>
+      <FC2 pair1="3 1" pair2="136 1 12">-2.354303541173071e-03</FC2>
+      <FC2 pair1="3 1" pair2="136 2 12">7.806250862317586e-03</FC2>
+      <FC2 pair1="3 1" pair2="136 3 12">-9.860451261462829e-04</FC2>
+      <FC2 pair1="3 1" pair2="137 1 1">-1.512981160368274e-02</FC2>
+      <FC2 pair1="3 1" pair2="137 2 1">-4.303078433933926e-04</FC2>
+      <FC2 pair1="3 1" pair2="137 3 1">-1.673274247668027e-03</FC2>
+      <FC2 pair1="3 1" pair2="138 1 1">-2.354303541173071e-03</FC2>
+      <FC2 pair1="3 1" pair2="138 2 1">-6.945635175530801e-03</FC2>
+      <FC2 pair1="3 1" pair2="138 3 1">-6.872291215217440e-04</FC2>
+      <FC2 pair1="3 1" pair2="139 1 1">1.700053813727557e-04</FC2>
+      <FC2 pair1="3 1" pair2="139 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="139 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="144 1 12">3.246421813945527e-04</FC2>
+      <FC2 pair1="3 1" pair2="144 2 12">-8.927959811920683e-05</FC2>
+      <FC2 pair1="3 1" pair2="144 3 12">2.678694396380016e-04</FC2>
+      <FC2 pair1="3 1" pair2="145 1 1">-9.017899309719351e-05</FC2>
+      <FC2 pair1="3 1" pair2="145 2 1">7.129098427369174e-05</FC2>
+      <FC2 pair1="3 1" pair2="145 3 1">-5.527171860040971e-05</FC2>
+      <FC2 pair1="3 1" pair2="146 1 1">3.246421813945527e-04</FC2>
+      <FC2 pair1="3 1" pair2="146 2 1">8.927959811920683e-05</FC2>
+      <FC2 pair1="3 1" pair2="146 3 1">-2.602621513829312e-05</FC2>
+      <FC2 pair1="3 1" pair2="147 1 1">-3.672859971107007e-05</FC2>
+      <FC2 pair1="3 1" pair2="147 2 1">-1.021505832834615e-04</FC2>
+      <FC2 pair1="3 1" pair2="147 3 1">-1.901603441702463e-04</FC2>
+      <FC2 pair1="3 1" pair2="177 1 6">-9.017899309719351e-05</FC2>
+      <FC2 pair1="3 1" pair2="177 2 6">-7.129098427369174e-05</FC2>
+      <FC2 pair1="3 1" pair2="177 3 6">5.527171860040971e-05</FC2>
+      <FC2 pair1="3 1" pair2="183 1 3">-3.672859971107007e-05</FC2>
+      <FC2 pair1="3 1" pair2="183 2 3">4.043138526392197e-05</FC2>
+      <FC2 pair1="3 1" pair2="183 3 3">-1.348886255698366e-04</FC2>
+      <FC2 pair1="3 1" pair2="184 1 3">3.246421813945527e-04</FC2>
+      <FC2 pair1="3 1" pair2="184 2 3">8.927959811920683e-05</FC2>
+      <FC2 pair1="3 1" pair2="184 3 3">-2.678694396380016e-04</FC2>
+      <FC2 pair1="3 1" pair2="185 1 6">-1.512981160368274e-02</FC2>
+      <FC2 pair1="3 1" pair2="185 2 6">4.303078433933926e-04</FC2>
+      <FC2 pair1="3 1" pair2="185 3 6">1.673274247668027e-03</FC2>
+      <FC2 pair1="3 1" pair2="186 1 6">3.246421813945527e-04</FC2>
+      <FC2 pair1="3 1" pair2="186 2 6">-8.927959811920683e-05</FC2>
+      <FC2 pair1="3 1" pair2="186 3 6">2.602621513829312e-05</FC2>
+      <FC2 pair1="3 1" pair2="191 1 3">1.700053813727557e-04</FC2>
+      <FC2 pair1="3 1" pair2="191 2 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="191 3 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 1" pair2="192 1 3">-2.354303541173071e-03</FC2>
+      <FC2 pair1="3 1" pair2="192 2 3">-7.806250862317585e-03</FC2>
+      <FC2 pair1="3 1" pair2="192 3 3">9.860451261462829e-04</FC2>
+      <FC2 pair1="3 2" pair2="1 1 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="1 2 15">-9.945446438793133e-02</FC2>
+      <FC2 pair1="3 2" pair2="1 3 15">7.037541034285112e-02</FC2>
+      <FC2 pair1="3 2" pair2="2 1 15">3.186493059383685e-02</FC2>
+      <FC2 pair1="3 2" pair2="2 2 15">-4.426278561975000e-02</FC2>
+      <FC2 pair1="3 2" pair2="2 3 15">-3.518770517142556e-02</FC2>
+      <FC2 pair1="3 2" pair2="3 1 15">1.372103927214783e-03</FC2>
+      <FC2 pair1="3 2" pair2="3 2 15">-1.487953359785596e-03</FC2>
+      <FC2 pair1="3 2" pair2="3 3 15">-1.035626229543008e-03</FC2>
+      <FC2 pair1="3 2" pair2="4 1 15">6.073176164975386e-05</FC2>
+      <FC2 pair1="3 2" pair2="4 2 15">-9.968856017674782e-06</FC2>
+      <FC2 pair1="3 2" pair2="4 3 15">2.830099974364443e-05</FC2>
+      <FC2 pair1="3 2" pair2="7 1 13">-9.486760264565423e-05</FC2>
+      <FC2 pair1="3 2" pair2="7 2 13">-7.270445404582168e-05</FC2>
+      <FC2 pair1="3 2" pair2="7 3 13">-3.083755785375131e-05</FC2>
+      <FC2 pair1="3 2" pair2="8 1 13">-1.183374867574352e-03</FC2>
+      <FC2 pair1="3 2" pair2="8 2 13">-4.777308903686740e-04</FC2>
+      <FC2 pair1="3 2" pair2="8 3 13">5.713516413094840e-04</FC2>
+      <FC2 pair1="3 2" pair2="9 1 15">5.105213144275491e-03</FC2>
+      <FC2 pair1="3 2" pair2="9 2 15">4.500277270756252e-03</FC2>
+      <FC2 pair1="3 2" pair2="9 3 15">1.632922562944714e-03</FC2>
+      <FC2 pair1="3 2" pair2="10 1 15">-3.186493059383683e-02</FC2>
+      <FC2 pair1="3 2" pair2="10 2 15">-4.426278561975001e-02</FC2>
+      <FC2 pair1="3 2" pair2="10 3 15">-3.518770517142556e-02</FC2>
+      <FC2 pair1="3 2" pair2="11 1 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="11 2 15">-4.342211278597359e-03</FC2>
+      <FC2 pair1="3 2" pair2="11 3 15">-3.265845125889427e-03</FC2>
+      <FC2 pair1="3 2" pair2="12 1 15">-9.077363133453172e-05</FC2>
+      <FC2 pair1="3 2" pair2="12 2 15">4.793406806485749e-04</FC2>
+      <FC2 pair1="3 2" pair2="12 3 15">-3.146669122449025e-04</FC2>
+      <FC2 pair1="3 2" pair2="16 1 13">-1.339556502842081e-04</FC2>
+      <FC2 pair1="3 2" pair2="16 2 13">-1.779515679470661e-05</FC2>
+      <FC2 pair1="3 2" pair2="16 3 13">3.174356996745344e-04</FC2>
+      <FC2 pair1="3 2" pair2="17 1 15">-4.089412548826947e-04</FC2>
+      <FC2 pair1="3 2" pair2="17 2 15">3.615149507087813e-05</FC2>
+      <FC2 pair1="3 2" pair2="17 3 15">-2.768787429631879e-06</FC2>
+      <FC2 pair1="3 2" pair2="18 1 15">2.152617719383471e-03</FC2>
+      <FC2 pair1="3 2" pair2="18 2 15">-8.193979649961734e-04</FC2>
+      <FC2 pair1="3 2" pair2="18 3 15">4.642745882335239e-04</FC2>
+      <FC2 pair1="3 2" pair2="19 1 15">-1.372103927214783e-03</FC2>
+      <FC2 pair1="3 2" pair2="19 2 15">-1.487953359785596e-03</FC2>
+      <FC2 pair1="3 2" pair2="19 3 15">-1.035626229543008e-03</FC2>
+      <FC2 pair1="3 2" pair2="20 1 15">9.077363133453172e-05</FC2>
+      <FC2 pair1="3 2" pair2="20 2 15">4.793406806485749e-04</FC2>
+      <FC2 pair1="3 2" pair2="20 3 15">-3.146669122449025e-04</FC2>
+      <FC2 pair1="3 2" pair2="26 1 15">2.346906053371989e-05</FC2>
+      <FC2 pair1="3 2" pair2="26 2 15">-7.089916051374426e-05</FC2>
+      <FC2 pair1="3 2" pair2="26 3 15">2.536558110106885e-06</FC2>
+      <FC2 pair1="3 2" pair2="27 1 15">8.627743061362908e-05</FC2>
+      <FC2 pair1="3 2" pair2="27 2 15">3.669137078416219e-05</FC2>
+      <FC2 pair1="3 2" pair2="27 3 15">4.135659040078078e-05</FC2>
+      <FC2 pair1="3 2" pair2="28 1 15">-6.073176164975385e-05</FC2>
+      <FC2 pair1="3 2" pair2="28 2 15">-9.968856017674794e-06</FC2>
+      <FC2 pair1="3 2" pair2="28 3 15">2.830099974364443e-05</FC2>
+      <FC2 pair1="3 2" pair2="49 1 7">4.089412548826947e-04</FC2>
+      <FC2 pair1="3 2" pair2="49 2 7">3.615149507087813e-05</FC2>
+      <FC2 pair1="3 2" pair2="49 3 7">-2.768787429631879e-06</FC2>
+      <FC2 pair1="3 2" pair2="50 1 7">-2.346906053371988e-05</FC2>
+      <FC2 pair1="3 2" pair2="50 2 7">-7.089916051374425e-05</FC2>
+      <FC2 pair1="3 2" pair2="50 3 7">2.536558110106885e-06</FC2>
+      <FC2 pair1="3 2" pair2="55 1 4">9.486760264565422e-05</FC2>
+      <FC2 pair1="3 2" pair2="55 2 4">-7.270445404582169e-05</FC2>
+      <FC2 pair1="3 2" pair2="55 3 4">-3.083755785375131e-05</FC2>
+      <FC2 pair1="3 2" pair2="56 1 4">1.339556502842081e-04</FC2>
+      <FC2 pair1="3 2" pair2="56 2 4">-1.779515679470661e-05</FC2>
+      <FC2 pair1="3 2" pair2="56 3 4">3.174356996745344e-04</FC2>
+      <FC2 pair1="3 2" pair2="57 1 7">-5.105213144275491e-03</FC2>
+      <FC2 pair1="3 2" pair2="57 2 7">4.500277270756252e-03</FC2>
+      <FC2 pair1="3 2" pair2="57 3 7">1.632922562944714e-03</FC2>
+      <FC2 pair1="3 2" pair2="58 1 7">-2.152617719383471e-03</FC2>
+      <FC2 pair1="3 2" pair2="58 2 7">-8.193979649961736e-04</FC2>
+      <FC2 pair1="3 2" pair2="58 3 7">4.642745882335240e-04</FC2>
+      <FC2 pair1="3 2" pair2="59 1 7">-8.627743061362908e-05</FC2>
+      <FC2 pair1="3 2" pair2="59 2 7">3.669137078416219e-05</FC2>
+      <FC2 pair1="3 2" pair2="59 3 7">4.135659040078078e-05</FC2>
+      <FC2 pair1="3 2" pair2="63 1 4">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="63 2 4">1.861282641534662e-04</FC2>
+      <FC2 pair1="3 2" pair2="63 3 4">-8.271318080156155e-05</FC2>
+      <FC2 pair1="3 2" pair2="64 1 4">1.183374867574352e-03</FC2>
+      <FC2 pair1="3 2" pair2="64 2 4">-4.777308903686741e-04</FC2>
+      <FC2 pair1="3 2" pair2="64 3 4">5.713516413094839e-04</FC2>
+      <FC2 pair1="3 2" pair2="65 1 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="65 2 15">6.230601236178301e-03</FC2>
+      <FC2 pair1="3 2" pair2="65 3 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="66 1 15">5.451171285649799e-04</FC2>
+      <FC2 pair1="3 2" pair2="66 2 15">-7.050913396599917e-04</FC2>
+      <FC2 pair1="3 2" pair2="66 3 15">-1.421480374809928e-03</FC2>
+      <FC2 pair1="3 2" pair2="67 1 15">-2.205450263499333e-04</FC2>
+      <FC2 pair1="3 2" pair2="67 2 15">-2.575462229758506e-05</FC2>
+      <FC2 pair1="3 2" pair2="67 3 15">-2.467275328072928e-05</FC2>
+      <FC2 pair1="3 2" pair2="71 1 13">5.263743361894561e-04</FC2>
+      <FC2 pair1="3 2" pair2="71 2 13">-2.575462229758506e-05</FC2>
+      <FC2 pair1="3 2" pair2="71 3 13">-1.025739246906991e-06</FC2>
+      <FC2 pair1="3 2" pair2="72 1 13">4.236505426622936e-03</FC2>
+      <FC2 pair1="3 2" pair2="72 2 13">-7.050913396599917e-04</FC2>
+      <FC2 pair1="3 2" pair2="72 3 13">4.069551545391563e-03</FC2>
+      <FC2 pair1="3 2" pair2="73 1 15">-1.845694149028978e-03</FC2>
+      <FC2 pair1="3 2" pair2="73 2 15">3.435915264441402e-03</FC2>
+      <FC2 pair1="3 2" pair2="73 3 15">-2.648071170581635e-03</FC2>
+      <FC2 pair1="3 2" pair2="74 1 15">-5.451171285649799e-04</FC2>
+      <FC2 pair1="3 2" pair2="74 2 15">-7.050913396599917e-04</FC2>
+      <FC2 pair1="3 2" pair2="74 3 15">-1.421480374809927e-03</FC2>
+      <FC2 pair1="3 2" pair2="75 1 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="75 2 15">-4.634357579544741e-04</FC2>
+      <FC2 pair1="3 2" pair2="75 3 15">-1.317622967983697e-04</FC2>
+      <FC2 pair1="3 2" pair2="80 1 13">2.462604586572957e-04</FC2>
+      <FC2 pair1="3 2" pair2="80 2 13">-3.690013166482288e-05</FC2>
+      <FC2 pair1="3 2" pair2="80 3 13">6.588114839918486e-05</FC2>
+      <FC2 pair1="3 2" pair2="81 1 15">-3.734596812696947e-04</FC2>
+      <FC2 pair1="3 2" pair2="81 2 15">2.391013292453038e-04</FC2>
+      <FC2 pair1="3 2" pair2="81 3 15">2.569849252763627e-05</FC2>
+      <FC2 pair1="3 2" pair2="82 1 15">-2.462604586572957e-04</FC2>
+      <FC2 pair1="3 2" pair2="82 2 15">-3.690013166482288e-05</FC2>
+      <FC2 pair1="3 2" pair2="82 3 15">3.916309249886588e-05</FC2>
+      <FC2 pair1="3 2" pair2="83 1 15">2.205450263499333e-04</FC2>
+      <FC2 pair1="3 2" pair2="83 2 15">-2.575462229758508e-05</FC2>
+      <FC2 pair1="3 2" pair2="83 3 15">-2.467275328072928e-05</FC2>
+      <FC2 pair1="3 2" pair2="113 1 7">3.734596812696947e-04</FC2>
+      <FC2 pair1="3 2" pair2="113 2 7">2.391013292453038e-04</FC2>
+      <FC2 pair1="3 2" pair2="113 3 7">2.569849252763627e-05</FC2>
+      <FC2 pair1="3 2" pair2="119 1 4">-5.263743361894561e-04</FC2>
+      <FC2 pair1="3 2" pair2="119 2 4">-2.575462229758508e-05</FC2>
+      <FC2 pair1="3 2" pair2="119 3 4">-1.025739246906991e-06</FC2>
+      <FC2 pair1="3 2" pair2="120 1 4">-2.462604586572957e-04</FC2>
+      <FC2 pair1="3 2" pair2="120 2 4">-3.690013166482288e-05</FC2>
+      <FC2 pair1="3 2" pair2="120 3 4">6.588114839918486e-05</FC2>
+      <FC2 pair1="3 2" pair2="121 1 7">1.845694149028978e-03</FC2>
+      <FC2 pair1="3 2" pair2="121 2 7">3.435915264441402e-03</FC2>
+      <FC2 pair1="3 2" pair2="121 3 7">-2.648071170581635e-03</FC2>
+      <FC2 pair1="3 2" pair2="122 1 7">2.462604586572957e-04</FC2>
+      <FC2 pair1="3 2" pair2="122 2 7">-3.690013166482288e-05</FC2>
+      <FC2 pair1="3 2" pair2="122 3 7">3.916309249886588e-05</FC2>
+      <FC2 pair1="3 2" pair2="127 1 4">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="127 2 4">-4.634357579544741e-04</FC2>
+      <FC2 pair1="3 2" pair2="127 3 4">-7.832618499773177e-05</FC2>
+      <FC2 pair1="3 2" pair2="128 1 4">-4.236505426622936e-03</FC2>
+      <FC2 pair1="3 2" pair2="128 2 4">-7.050913396599917e-04</FC2>
+      <FC2 pair1="3 2" pair2="128 3 4">4.069551545391563e-03</FC2>
+      <FC2 pair1="3 2" pair2="129 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="129 2 1">2.167268484280198e-01</FC2>
+      <FC2 pair1="3 2" pair2="129 3 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="130 1 1">7.806250862317586e-03</FC2>
+      <FC2 pair1="3 2" pair2="130 2 1">-1.087130891617952e-02</FC2>
+      <FC2 pair1="3 2" pair2="130 3 1">-1.535358756332879e-03</FC2>
+      <FC2 pair1="3 2" pair2="131 1 1">-4.043138526392197e-05</FC2>
+      <FC2 pair1="3 2" pair2="131 2 1">-7.236219530181904e-05</FC2>
+      <FC2 pair1="3 2" pair2="131 3 1">4.596684267084402e-05</FC2>
+      <FC2 pair1="3 2" pair2="135 1 12">1.021505832834615e-04</FC2>
+      <FC2 pair1="3 2" pair2="135 2 12">-7.236219530181904e-05</FC2>
+      <FC2 pair1="3 2" pair2="135 3 12">1.417002675084034e-04</FC2>
+      <FC2 pair1="3 2" pair2="136 1 12">6.945635175530801e-03</FC2>
+      <FC2 pair1="3 2" pair2="136 2 12">-1.087130891617952e-02</FC2>
+      <FC2 pair1="3 2" pair2="136 3 12">1.362837255624733e-03</FC2>
+      <FC2 pair1="3 2" pair2="137 1 1">4.303078433933926e-04</FC2>
+      <FC2 pair1="3 2" pair2="137 2 1">1.904199146330153e-03</FC2>
+      <FC2 pair1="3 2" pair2="137 3 1">1.725215007081460e-04</FC2>
+      <FC2 pair1="3 2" pair2="138 1 1">-7.806250862317585e-03</FC2>
+      <FC2 pair1="3 2" pair2="138 2 1">-1.087130891617952e-02</FC2>
+      <FC2 pair1="3 2" pair2="138 3 1">-1.535358756332879e-03</FC2>
+      <FC2 pair1="3 2" pair2="139 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="139 2 1">3.761877814018185e-04</FC2>
+      <FC2 pair1="3 2" pair2="139 3 1">3.093089861653489e-04</FC2>
+      <FC2 pair1="3 2" pair2="144 1 12">-8.927959811920683e-05</FC2>
+      <FC2 pair1="3 2" pair2="144 2 12">2.215509813800214e-04</FC2>
+      <FC2 pair1="3 2" pair2="144 3 12">-1.546544930826744e-04</FC2>
+      <FC2 pair1="3 2" pair2="145 1 1">-7.129098427369174e-05</FC2>
+      <FC2 pair1="3 2" pair2="145 2 1">-1.891180191569559e-05</FC2>
+      <FC2 pair1="3 2" pair2="145 3 1">-1.876671101792474e-04</FC2>
+      <FC2 pair1="3 2" pair2="146 1 1">8.927959811920683e-05</FC2>
+      <FC2 pair1="3 2" pair2="146 2 1">2.215509813800214e-04</FC2>
+      <FC2 pair1="3 2" pair2="146 3 1">-1.502624231608065e-05</FC2>
+      <FC2 pair1="3 2" pair2="147 1 1">4.043138526392197e-05</FC2>
+      <FC2 pair1="3 2" pair2="147 2 1">-7.236219530181904e-05</FC2>
+      <FC2 pair1="3 2" pair2="147 3 1">4.596684267084402e-05</FC2>
+      <FC2 pair1="3 2" pair2="177 1 6">7.129098427369174e-05</FC2>
+      <FC2 pair1="3 2" pair2="177 2 6">-1.891180191569559e-05</FC2>
+      <FC2 pair1="3 2" pair2="177 3 6">-1.876671101792474e-04</FC2>
+      <FC2 pair1="3 2" pair2="183 1 3">-1.021505832834615e-04</FC2>
+      <FC2 pair1="3 2" pair2="183 2 3">-7.236219530181904e-05</FC2>
+      <FC2 pair1="3 2" pair2="183 3 3">1.417002675084034e-04</FC2>
+      <FC2 pair1="3 2" pair2="184 1 3">8.927959811920683e-05</FC2>
+      <FC2 pair1="3 2" pair2="184 2 3">2.215509813800214e-04</FC2>
+      <FC2 pair1="3 2" pair2="184 3 3">-1.546544930826744e-04</FC2>
+      <FC2 pair1="3 2" pair2="185 1 6">-4.303078433933926e-04</FC2>
+      <FC2 pair1="3 2" pair2="185 2 6">1.904199146330153e-03</FC2>
+      <FC2 pair1="3 2" pair2="185 3 6">1.725215007081459e-04</FC2>
+      <FC2 pair1="3 2" pair2="186 1 6">-8.927959811920683e-05</FC2>
+      <FC2 pair1="3 2" pair2="186 2 6">2.215509813800214e-04</FC2>
+      <FC2 pair1="3 2" pair2="186 3 6">-1.502624231608065e-05</FC2>
+      <FC2 pair1="3 2" pair2="191 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 2" pair2="191 2 3">3.761877814018185e-04</FC2>
+      <FC2 pair1="3 2" pair2="191 3 3">3.005248463216130e-05</FC2>
+      <FC2 pair1="3 2" pair2="192 1 3">-6.945635175530801e-03</FC2>
+      <FC2 pair1="3 2" pair2="192 2 3">-1.087130891617952e-02</FC2>
+      <FC2 pair1="3 2" pair2="192 3 3">1.362837255624733e-03</FC2>
+      <FC2 pair1="3 3" pair2="1 1 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="1 2 15">7.095582996780335e-02</FC2>
+      <FC2 pair1="3 3" pair2="1 3 15">-8.840753712538603e-02</FC2>
+      <FC2 pair1="3 3" pair2="2 1 15">6.144955129872687e-02</FC2>
+      <FC2 pair1="3 3" pair2="2 2 15">-3.547791498390167e-02</FC2>
+      <FC2 pair1="3 3" pair2="2 3 15">-8.840753712538603e-02</FC2>
+      <FC2 pair1="3 3" pair2="3 1 15">-4.275200584175803e-04</FC2>
+      <FC2 pair1="3 3" pair2="3 2 15">6.441183275337603e-04</FC2>
+      <FC2 pair1="3 3" pair2="3 3 15">-1.071075128931395e-03</FC2>
+      <FC2 pair1="3 3" pair2="4 1 15">-9.981415372182659e-05</FC2>
+      <FC2 pair1="3 3" pair2="4 2 15">-3.101974941747135e-05</FC2>
+      <FC2 pair1="3 3" pair2="4 3 15">-2.839312086801948e-05</FC2>
+      <FC2 pair1="3 3" pair2="7 1 13">-7.677096787547101e-05</FC2>
+      <FC2 pair1="3 3" pair2="7 2 13">-7.093171807161122e-05</FC2>
+      <FC2 pair1="3 3" pair2="7 3 13">-2.839312086801948e-05</FC2>
+      <FC2 pair1="3 3" pair2="8 1 13">3.440628054785919e-04</FC2>
+      <FC2 pair1="3 3" pair2="8 2 13">-6.923023949839119e-04</FC2>
+      <FC2 pair1="3 3" pair2="8 3 13">-1.071075128931395e-03</FC2>
+      <FC2 pair1="3 3" pair2="9 1 15">-1.038997161681200e-03</FC2>
+      <FC2 pair1="3 3" pair2="9 2 15">5.998652909838982e-04</FC2>
+      <FC2 pair1="3 3" pair2="9 3 15">-4.086279247255588e-03</FC2>
+      <FC2 pair1="3 3" pair2="10 1 15">-6.144955129872687e-02</FC2>
+      <FC2 pair1="3 3" pair2="10 2 15">-3.547791498390167e-02</FC2>
+      <FC2 pair1="3 3" pair2="10 3 15">-8.840753712538603e-02</FC2>
+      <FC2 pair1="3 3" pair2="11 1 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="11 2 15">-1.199730581967796e-03</FC2>
+      <FC2 pair1="3 3" pair2="11 3 15">-4.086279247255588e-03</FC2>
+      <FC2 pair1="3 3" pair2="12 1 15">4.271542909940191e-05</FC2>
+      <FC2 pair1="3 3" pair2="12 2 15">1.781825784630261e-04</FC2>
+      <FC2 pair1="3 3" pair2="12 3 15">7.460300039301195e-05</FC2>
+      <FC2 pair1="3 3" pair2="16 1 13">1.756683540104956e-04</FC2>
+      <FC2 pair1="3 3" pair2="16 2 13">-5.209864249787795e-05</FC2>
+      <FC2 pair1="3 3" pair2="16 3 13">7.460300039301195e-05</FC2>
+      <FC2 pair1="3 3" pair2="17 1 15">1.329529249110936e-04</FC2>
+      <FC2 pair1="3 3" pair2="17 2 15">-1.260839359651481e-04</FC2>
+      <FC2 pair1="3 3" pair2="17 3 15">7.460300039301195e-05</FC2>
+      <FC2 pair1="3 3" pair2="18 1 15">7.715828638961722e-04</FC2>
+      <FC2 pair1="3 3" pair2="18 2 15">4.818406745015158e-05</FC2>
+      <FC2 pair1="3 3" pair2="18 3 15">-1.071075128931395e-03</FC2>
+      <FC2 pair1="3 3" pair2="19 1 15">4.275200584175803e-04</FC2>
+      <FC2 pair1="3 3" pair2="19 2 15">6.441183275337604e-04</FC2>
+      <FC2 pair1="3 3" pair2="19 3 15">-1.071075128931395e-03</FC2>
+      <FC2 pair1="3 3" pair2="20 1 15">-4.271542909940191e-05</FC2>
+      <FC2 pair1="3 3" pair2="20 2 15">1.781825784630261e-04</FC2>
+      <FC2 pair1="3 3" pair2="20 3 15">7.460300039301195e-05</FC2>
+      <FC2 pair1="3 3" pair2="26 1 15">2.304318584635557e-05</FC2>
+      <FC2 pair1="3 3" pair2="26 2 15">1.019514674890826e-04</FC2>
+      <FC2 pair1="3 3" pair2="26 3 15">-2.839312086801948e-05</FC2>
+      <FC2 pair1="3 3" pair2="27 1 15">-4.896698400228505e-05</FC2>
+      <FC2 pair1="3 3" pair2="27 2 15">-2.827110139512337e-05</FC2>
+      <FC2 pair1="3 3" pair2="27 3 15">-1.004073070591967e-04</FC2>
+      <FC2 pair1="3 3" pair2="28 1 15">9.981415372182659e-05</FC2>
+      <FC2 pair1="3 3" pair2="28 2 15">-3.101974941747135e-05</FC2>
+      <FC2 pair1="3 3" pair2="28 3 15">-2.839312086801948e-05</FC2>
+      <FC2 pair1="3 3" pair2="49 1 7">-1.329529249110936e-04</FC2>
+      <FC2 pair1="3 3" pair2="49 2 7">-1.260839359651481e-04</FC2>
+      <FC2 pair1="3 3" pair2="49 3 7">7.460300039301195e-05</FC2>
+      <FC2 pair1="3 3" pair2="50 1 7">-2.304318584635557e-05</FC2>
+      <FC2 pair1="3 3" pair2="50 2 7">1.019514674890826e-04</FC2>
+      <FC2 pair1="3 3" pair2="50 3 7">-2.839312086801948e-05</FC2>
+      <FC2 pair1="3 3" pair2="55 1 4">7.677096787547101e-05</FC2>
+      <FC2 pair1="3 3" pair2="55 2 4">-7.093171807161122e-05</FC2>
+      <FC2 pair1="3 3" pair2="55 3 4">-2.839312086801948e-05</FC2>
+      <FC2 pair1="3 3" pair2="56 1 4">-1.756683540104956e-04</FC2>
+      <FC2 pair1="3 3" pair2="56 2 4">-5.209864249787795e-05</FC2>
+      <FC2 pair1="3 3" pair2="56 3 4">7.460300039301195e-05</FC2>
+      <FC2 pair1="3 3" pair2="57 1 7">1.038997161681200e-03</FC2>
+      <FC2 pair1="3 3" pair2="57 2 7">5.998652909838982e-04</FC2>
+      <FC2 pair1="3 3" pair2="57 3 7">-4.086279247255588e-03</FC2>
+      <FC2 pair1="3 3" pair2="58 1 7">-7.715828638961722e-04</FC2>
+      <FC2 pair1="3 3" pair2="58 2 7">4.818406745015162e-05</FC2>
+      <FC2 pair1="3 3" pair2="58 3 7">-1.071075128931395e-03</FC2>
+      <FC2 pair1="3 3" pair2="59 1 7">4.896698400228505e-05</FC2>
+      <FC2 pair1="3 3" pair2="59 2 7">-2.827110139512337e-05</FC2>
+      <FC2 pair1="3 3" pair2="59 3 7">-1.004073070591967e-04</FC2>
+      <FC2 pair1="3 3" pair2="63 1 4">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="63 2 4">5.654220279024674e-05</FC2>
+      <FC2 pair1="3 3" pair2="63 3 4">-1.004073070591967e-04</FC2>
+      <FC2 pair1="3 3" pair2="64 1 4">-3.440628054785919e-04</FC2>
+      <FC2 pair1="3 3" pair2="64 2 4">-6.923023949839119e-04</FC2>
+      <FC2 pair1="3 3" pair2="64 3 4">-1.071075128931395e-03</FC2>
+      <FC2 pair1="3 3" pair2="65 1 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="65 2 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="65 3 15">-2.826182904501483e-02</FC2>
+      <FC2 pair1="3 3" pair2="66 1 15">-7.081725261243128e-04</FC2>
+      <FC2 pair1="3 3" pair2="66 2 15">-4.069551545391563e-03</FC2>
+      <FC2 pair1="3 3" pair2="66 3 15">-1.130362471835594e-03</FC2>
+      <FC2 pair1="3 3" pair2="67 1 15">2.908185232687666e-05</FC2>
+      <FC2 pair1="3 3" pair2="67 2 15">1.025739246906991e-06</FC2>
+      <FC2 pair1="3 3" pair2="67 3 15">1.977546113088080e-05</FC2>
+      <FC2 pair1="3 3" pair2="71 1 13">1.542924240891850e-05</FC2>
+      <FC2 pair1="3 3" pair2="71 2 13">2.467275328072928e-05</FC2>
+      <FC2 pair1="3 3" pair2="71 3 13">1.977546113088080e-05</FC2>
+      <FC2 pair1="3 3" pair2="72 1 13">-3.878421283381471e-03</FC2>
+      <FC2 pair1="3 3" pair2="72 2 13">1.421480374809928e-03</FC2>
+      <FC2 pair1="3 3" pair2="72 3 13">-1.130362471835594e-03</FC2>
+      <FC2 pair1="3 3" pair2="73 1 15">-3.170248757257158e-03</FC2>
+      <FC2 pair1="3 3" pair2="73 2 15">2.648071170581635e-03</FC2>
+      <FC2 pair1="3 3" pair2="73 3 15">-1.130362471835594e-03</FC2>
+      <FC2 pair1="3 3" pair2="74 1 15">7.081725261243128e-04</FC2>
+      <FC2 pair1="3 3" pair2="74 2 15">-4.069551545391563e-03</FC2>
+      <FC2 pair1="3 3" pair2="74 3 15">-1.130362471835594e-03</FC2>
+      <FC2 pair1="3 3" pair2="75 1 15">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="75 2 15">7.832618499773177e-05</FC2>
+      <FC2 pair1="3 3" pair2="75 3 15">5.421834994697599e-04</FC2>
+      <FC2 pair1="3 3" pair2="80 1 13">6.783246598955529e-05</FC2>
+      <FC2 pair1="3 3" pair2="80 2 13">-3.916309249886588e-05</FC2>
+      <FC2 pair1="3 3" pair2="80 3 13">5.421834994697599e-04</FC2>
+      <FC2 pair1="3 3" pair2="81 1 15">-1.365260991795816e-05</FC2>
+      <FC2 pair1="3 3" pair2="81 2 15">-2.569849252763627e-05</FC2>
+      <FC2 pair1="3 3" pair2="81 3 15">1.977546113088080e-05</FC2>
+      <FC2 pair1="3 3" pair2="82 1 15">-1.141094962883732e-04</FC2>
+      <FC2 pair1="3 3" pair2="82 2 15">-6.588114839918486e-05</FC2>
+      <FC2 pair1="3 3" pair2="82 3 15">5.421834994697599e-04</FC2>
+      <FC2 pair1="3 3" pair2="83 1 15">-2.908185232687666e-05</FC2>
+      <FC2 pair1="3 3" pair2="83 2 15">1.025739246906991e-06</FC2>
+      <FC2 pair1="3 3" pair2="83 3 15">1.977546113088080e-05</FC2>
+      <FC2 pair1="3 3" pair2="113 1 7">1.365260991795816e-05</FC2>
+      <FC2 pair1="3 3" pair2="113 2 7">-2.569849252763627e-05</FC2>
+      <FC2 pair1="3 3" pair2="113 3 7">1.977546113088080e-05</FC2>
+      <FC2 pair1="3 3" pair2="119 1 4">-1.542924240891850e-05</FC2>
+      <FC2 pair1="3 3" pair2="119 2 4">2.467275328072928e-05</FC2>
+      <FC2 pair1="3 3" pair2="119 3 4">1.977546113088080e-05</FC2>
+      <FC2 pair1="3 3" pair2="120 1 4">-6.783246598955529e-05</FC2>
+      <FC2 pair1="3 3" pair2="120 2 4">-3.916309249886588e-05</FC2>
+      <FC2 pair1="3 3" pair2="120 3 4">5.421834994697599e-04</FC2>
+      <FC2 pair1="3 3" pair2="121 1 7">3.170248757257158e-03</FC2>
+      <FC2 pair1="3 3" pair2="121 2 7">2.648071170581635e-03</FC2>
+      <FC2 pair1="3 3" pair2="121 3 7">-1.130362471835594e-03</FC2>
+      <FC2 pair1="3 3" pair2="122 1 7">1.141094962883732e-04</FC2>
+      <FC2 pair1="3 3" pair2="122 2 7">-6.588114839918486e-05</FC2>
+      <FC2 pair1="3 3" pair2="122 3 7">5.421834994697599e-04</FC2>
+      <FC2 pair1="3 3" pair2="127 1 4">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="127 2 4">1.317622967983697e-04</FC2>
+      <FC2 pair1="3 3" pair2="127 3 4">5.421834994697599e-04</FC2>
+      <FC2 pair1="3 3" pair2="128 1 4">3.878421283381471e-03</FC2>
+      <FC2 pair1="3 3" pair2="128 2 4">1.421480374809927e-03</FC2>
+      <FC2 pair1="3 3" pair2="128 3 4">-1.130362471835594e-03</FC2>
+      <FC2 pair1="3 3" pair2="129 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="129 2 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="129 3 1">2.762667337749735e-01</FC2>
+      <FC2 pair1="3 3" pair2="130 1 1">-9.860451261462829e-04</FC2>
+      <FC2 pair1="3 3" pair2="130 2 1">1.362837255624733e-03</FC2>
+      <FC2 pair1="3 3" pair2="130 3 1">6.220520661953717e-03</FC2>
+      <FC2 pair1="3 3" pair2="131 1 1">1.348886255698366e-04</FC2>
+      <FC2 pair1="3 3" pair2="131 2 1">1.417002675084034e-04</FC2>
+      <FC2 pair1="3 3" pair2="131 3 1">4.240675245924818e-04</FC2>
+      <FC2 pair1="3 3" pair2="135 1 12">1.901603441702463e-04</FC2>
+      <FC2 pair1="3 3" pair2="135 2 12">4.596684267084402e-05</FC2>
+      <FC2 pair1="3 3" pair2="135 3 12">4.240675245924818e-04</FC2>
+      <FC2 pair1="3 3" pair2="136 1 12">6.872291215217440e-04</FC2>
+      <FC2 pair1="3 3" pair2="136 2 12">-1.535358756332879e-03</FC2>
+      <FC2 pair1="3 3" pair2="136 3 12">6.220520661953717e-03</FC2>
+      <FC2 pair1="3 3" pair2="137 1 1">1.673274247668027e-03</FC2>
+      <FC2 pair1="3 3" pair2="137 2 1">1.725215007081459e-04</FC2>
+      <FC2 pair1="3 3" pair2="137 3 1">6.220520661953717e-03</FC2>
+      <FC2 pair1="3 3" pair2="138 1 1">9.860451261462829e-04</FC2>
+      <FC2 pair1="3 3" pair2="138 2 1">1.362837255624733e-03</FC2>
+      <FC2 pair1="3 3" pair2="138 3 1">6.220520661953717e-03</FC2>
+      <FC2 pair1="3 3" pair2="139 1 1">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="139 2 1">3.005248463216130e-05</FC2>
+      <FC2 pair1="3 3" pair2="139 3 1">-8.835837438087805e-05</FC2>
+      <FC2 pair1="3 3" pair2="144 1 12">2.602621513829312e-05</FC2>
+      <FC2 pair1="3 3" pair2="144 2 12">-1.502624231608065e-05</FC2>
+      <FC2 pair1="3 3" pair2="144 3 12">-8.835837438087805e-05</FC2>
+      <FC2 pair1="3 3" pair2="145 1 1">5.527171860040971e-05</FC2>
+      <FC2 pair1="3 3" pair2="145 2 1">-1.876671101792474e-04</FC2>
+      <FC2 pair1="3 3" pair2="145 3 1">4.240675245924818e-04</FC2>
+      <FC2 pair1="3 3" pair2="146 1 1">-2.678694396380016e-04</FC2>
+      <FC2 pair1="3 3" pair2="146 2 1">-1.546544930826744e-04</FC2>
+      <FC2 pair1="3 3" pair2="146 3 1">-8.835837438087805e-05</FC2>
+      <FC2 pair1="3 3" pair2="147 1 1">-1.348886255698366e-04</FC2>
+      <FC2 pair1="3 3" pair2="147 2 1">1.417002675084034e-04</FC2>
+      <FC2 pair1="3 3" pair2="147 3 1">4.240675245924818e-04</FC2>
+      <FC2 pair1="3 3" pair2="177 1 6">-5.527171860040971e-05</FC2>
+      <FC2 pair1="3 3" pair2="177 2 6">-1.876671101792474e-04</FC2>
+      <FC2 pair1="3 3" pair2="177 3 6">4.240675245924818e-04</FC2>
+      <FC2 pair1="3 3" pair2="183 1 3">-1.901603441702463e-04</FC2>
+      <FC2 pair1="3 3" pair2="183 2 3">4.596684267084402e-05</FC2>
+      <FC2 pair1="3 3" pair2="183 3 3">4.240675245924818e-04</FC2>
+      <FC2 pair1="3 3" pair2="184 1 3">-2.602621513829312e-05</FC2>
+      <FC2 pair1="3 3" pair2="184 2 3">-1.502624231608065e-05</FC2>
+      <FC2 pair1="3 3" pair2="184 3 3">-8.835837438087805e-05</FC2>
+      <FC2 pair1="3 3" pair2="185 1 6">-1.673274247668027e-03</FC2>
+      <FC2 pair1="3 3" pair2="185 2 6">1.725215007081460e-04</FC2>
+      <FC2 pair1="3 3" pair2="185 3 6">6.220520661953717e-03</FC2>
+      <FC2 pair1="3 3" pair2="186 1 6">2.678694396380016e-04</FC2>
+      <FC2 pair1="3 3" pair2="186 2 6">-1.546544930826744e-04</FC2>
+      <FC2 pair1="3 3" pair2="186 3 6">-8.835837438087805e-05</FC2>
+      <FC2 pair1="3 3" pair2="191 1 3">0.000000000000000e+00</FC2>
+      <FC2 pair1="3 3" pair2="191 2 3">3.093089861653489e-04</FC2>
+      <FC2 pair1="3 3" pair2="191 3 3">-8.835837438087805e-05</FC2>
+      <FC2 pair1="3 3" pair2="192 1 3">-6.872291215217440e-04</FC2>
+      <FC2 pair1="3 3" pair2="192 2 3">-1.535358756332879e-03</FC2>
+      <FC2 pair1="3 3" pair2="192 3 3">6.220520661953717e-03</FC2>
+    </HARMONIC>
+  </ForceConstants>
+</Data>

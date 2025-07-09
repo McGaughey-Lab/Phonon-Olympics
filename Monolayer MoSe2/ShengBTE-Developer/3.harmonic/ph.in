@@ -1,0 +1,12 @@
+phonon
+&INPUTPH
+tr2_ph=1.0d-22,
+prefix='mose2',
+fildvscf='dvscf',
+outdir='.',
+fildyn='mose2.dyn',
+search_sym=.true.
+trans=.true.,
+ldisp=.true.
+nq1=8, nq2=8, nq3=1
+/

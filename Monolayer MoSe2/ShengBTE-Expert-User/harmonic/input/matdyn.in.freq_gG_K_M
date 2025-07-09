@@ -1,0 +1,8 @@
+ &input
+    asr='simple',
+    flfrc='espresso.ifc2', flfrq='MoSe2.freq', q_in_band_form=.true.,
+ /
+3
+  gG  50
+  K   50
+  M   1
